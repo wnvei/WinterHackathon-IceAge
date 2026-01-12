@@ -1,0 +1,186 @@
+{
+  "topics": [
+    {
+      "topic": "Software engineering",
+      "module": "MODULE-1",
+      "question_count": 9,
+      "score": 0,
+      "importance": "HIGH"
+    },
+    {
+      "topic": "Introduction",
+      "module": "MODULE-1",
+      "question_count": 7,
+      "score": 0,
+      "importance": "MEDIUM"
+    },
+    {
+      "topic": "Applications",
+      "module": "MODULE-1",
+      "question_count": 2,
+      "score": 0,
+      "importance": "MEDIUM"
+    },
+    {
+      "topic": "The waterfall model, Incremental development, Integration and configuration",
+      "module": "MODULE-1",
+      "question_count": 2,
+      "score": 0,
+      "importance": "LOW"
+    },
+    {
+      "topic": "Incremental development, Integration and configuration",
+      "module": "MODULE-1",
+      "question_count": 2,
+      "score": 0,
+      "importance": "LOW"
+    },
+    {
+      "topic": "Integration and configuration",
+      "module": "MODULE-1",
+      "question_count": 1,
+      "score": 0,
+      "importance": "LOW"
+    },
+    {
+      "topic": "Requirements engineering Process, Requirement elicitation, Requirement specification, Requirement Validation and management Applications",
+      "module": "MODULE-2",
+      "question_count": 3,
+      "score": 0,
+      "importance": "HIGH"
+    },
+    {
+      "topic": "Agile Software development",
+      "module": "MODULE-2",
+      "question_count": 17,
+      "score": 0,
+      "importance": "MEDIUM"
+    },
+    {
+      "topic": "Software Process activities, Agile software Development and Requirements Analysis (8 hours) Process activities",
+      "module": "MODULE-2",
+      "question_count": 6,
+      "score": 0,
+      "importance": "LOW"
+    },
+    {
+      "topic": "Interaction models",
+      "module": "MODULE-3",
+      "question_count": 2,
+      "score": 0,
+      "importance": "HIGH"
+    },
+    {
+      "topic": "System models",
+      "module": "MODULE-3",
+      "question_count": 5,
+      "score": 0,
+      "importance": "MEDIUM"
+    },
+    {
+      "topic": "UML diagram types",
+      "module": "MODULE-3",
+      "question_count": 2,
+      "score": 0,
+      "importance": "MEDIUM"
+    },
+    {
+      "topic": "Event driven modeling, Model driven engineering Applications",
+      "module": "MODULE-3",
+      "question_count": 3,
+      "score": 0,
+      "importance": "MEDIUM"
+    },
+    {
+      "topic": "sequence diagram",
+      "module": "MODULE-3",
+      "question_count": 2,
+      "score": 0,
+      "importance": "MEDIUM"
+    },
+    {
+      "topic": "class diagram, generalization, Aggregation",
+      "module": "MODULE-3",
+      "question_count": 4,
+      "score": 0,
+      "importance": "MEDIUM"
+    },
+    {
+      "topic": "Behavioral Models -Data driven modeling",
+      "module": "MODULE-3",
+      "question_count": 3,
+      "score": 0,
+      "importance": "MEDIUM"
+    },
+    {
+      "topic": "sequence diagram Structured methods",
+      "module": "MODULE-3",
+      "question_count": 2,
+      "score": 0,
+      "importance": "LOW"
+    },
+    {
+      "topic": "Model driven engineering Applications",
+      "module": "MODULE-3",
+      "question_count": 2,
+      "score": 0,
+      "importance": "LOW"
+    },
+    {
+      "topic": "Use case diagrams, which show the interactions between \n a system and its environment.",
+      "module": "MODULE-3",
+      "question_count": 2,
+      "score": 0,
+      "importance": "LOW"
+    },
+    {
+      "topic": "Aggregation",
+      "module": "MODULE-3",
+      "question_count": 1,
+      "score": 0,
+      "importance": "LOW"
+    },
+    {
+      "topic": "Use case diagrams, which show the interactions between \na system and its environment.",
+      "module": "MODULE-3",
+      "question_count": 1,
+      "score": 0,
+      "importance": "LOW"
+    },
+    {
+      "topic": "Software testing",
+      "module": "MODULE-4",
+      "question_count": 14,
+      "score": 1,
+      "importance": "HIGH"
+    },
+    {
+      "topic": "Design patterns",
+      "module": "MODULE-4",
+      "question_count": 1,
+      "score": 0,
+      "importance": "MEDIUM"
+    },
+    {
+      "topic": "Software Design",
+      "module": "MODULE-4",
+      "question_count": 11,
+      "score": 0,
+      "importance": "LOW"
+    },
+    {
+      "topic": "Web links and Video Lectures (e-Resources)",
+      "module": "MODULE-5",
+      "question_count": 1,
+      "score": 0,
+      "importance": "HIGH"
+    },
+    {
+      "topic": "Software evolution",
+      "module": "MODULE-5",
+      "question_count": 2,
+      "score": 0,
+      "importance": "MEDIUM"
+    }
+  ]
+}

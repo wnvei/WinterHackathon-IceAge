@@ -1,0 +1,221 @@
+{
+  "topics": [
+    {
+      "topic": "Network software",
+      "module": "MODULE-1",
+      "question_count": 9,
+      "score": 4,
+      "importance": "HIGH"
+    },
+    {
+      "topic": "Reference Models",
+      "module": "MODULE-1",
+      "question_count": 8,
+      "score": 4,
+      "importance": "MEDIUM"
+    },
+    {
+      "topic": "Network hardware",
+      "module": "MODULE-1",
+      "question_count": 13,
+      "score": 3,
+      "importance": "MEDIUM"
+    },
+    {
+      "topic": "Uses of computer networks",
+      "module": "MODULE-1",
+      "question_count": 3,
+      "score": 1,
+      "importance": "LOW"
+    },
+    {
+      "topic": "Service Primitives",
+      "module": "MODULE-1",
+      "question_count": 1,
+      "score": 0,
+      "importance": "LOW"
+    },
+    {
+      "topic": "Social Issues",
+      "module": "MODULE-1",
+      "question_count": 1,
+      "score": 0,
+      "importance": "LOW"
+    },
+    {
+      "topic": "Routing algorithms",
+      "module": "MODULE-2",
+      "question_count": 21,
+      "score": 4,
+      "importance": "HIGH"
+    },
+    {
+      "topic": "Congestion Control Algorithms",
+      "module": "MODULE-2",
+      "question_count": 9,
+      "score": 2,
+      "importance": "MEDIUM"
+    },
+    {
+      "topic": "Load Shedding",
+      "module": "MODULE-2",
+      "question_count": 1,
+      "score": 1,
+      "importance": "MEDIUM"
+    },
+    {
+      "topic": "Flooding",
+      "module": "MODULE-2",
+      "question_count": 1,
+      "score": 0,
+      "importance": "LOW"
+    },
+    {
+      "topic": "Link state Routing",
+      "module": "MODULE-2",
+      "question_count": 1,
+      "score": 0,
+      "importance": "LOW"
+    },
+    {
+      "topic": "The Network Layer in the Internet",
+      "module": "MODULE-3",
+      "question_count": 10,
+      "score": 10,
+      "importance": "HIGH"
+    },
+    {
+      "topic": "Quality of Service",
+      "module": "MODULE-3",
+      "question_count": 10,
+      "score": 5,
+      "importance": "MEDIUM"
+    },
+    {
+      "topic": "Traffic Shaping",
+      "module": "MODULE-3",
+      "question_count": 1,
+      "score": 2,
+      "importance": "MEDIUM"
+    },
+    {
+      "topic": "Tunneling",
+      "module": "MODULE-3",
+      "question_count": 1,
+      "score": 0,
+      "importance": "LOW"
+    },
+    {
+      "topic": "Internetworking",
+      "module": "MODULE-3",
+      "question_count": 2,
+      "score": 0,
+      "importance": "LOW"
+    },
+    {
+      "topic": "Packet Scheduling",
+      "module": "MODULE-3",
+      "question_count": 1,
+      "score": 0,
+      "importance": "LOW"
+    },
+    {
+      "topic": "The Internet Transport Protocols (UDP and TCP)",
+      "module": "MODULE-4",
+      "question_count": 8,
+      "score": 6,
+      "importance": "HIGH"
+    },
+    {
+      "topic": "The Transport Service",
+      "module": "MODULE-4",
+      "question_count": 2,
+      "score": 2,
+      "importance": "MEDIUM"
+    },
+    {
+      "topic": "The TCP Segment Header",
+      "module": "MODULE-4",
+      "question_count": 1,
+      "score": 1,
+      "importance": "MEDIUM"
+    },
+    {
+      "topic": "Connection Establishment",
+      "module": "MODULE-4",
+      "question_count": 1,
+      "score": 1,
+      "importance": "MEDIUM"
+    },
+    {
+      "topic": "Elements of Transport Protocols",
+      "module": "MODULE-4",
+      "question_count": 7,
+      "score": 0,
+      "importance": "LOW"
+    },
+    {
+      "topic": "Connection Release",
+      "module": "MODULE-4",
+      "question_count": 1,
+      "score": 0,
+      "importance": "LOW"
+    },
+    {
+      "topic": "TCP Connection Establishment",
+      "module": "MODULE-4",
+      "question_count": 1,
+      "score": 0,
+      "importance": "LOW"
+    },
+    {
+      "topic": "HTTP (Hypertext Trans fer Protocol), Web Search",
+      "module": "MODULE-5",
+      "question_count": 10,
+      "score": 5,
+      "importance": "HIGH"
+    },
+    {
+      "topic": "The Domain Name System DNS",
+      "module": "MODULE-5",
+      "question_count": 5,
+      "score": 2,
+      "importance": "MEDIUM"
+    },
+    {
+      "topic": "Electronic Mail",
+      "module": "MODULE-5",
+      "question_count": 2,
+      "score": 2,
+      "importance": "MEDIUM"
+    },
+    {
+      "topic": "The Application Layer",
+      "module": "MODULE-5",
+      "question_count": 2,
+      "score": 0,
+      "importance": "MEDIUM"
+    },
+    {
+      "topic": "Web Search",
+      "module": "MODULE-5",
+      "question_count": 1,
+      "score": 0,
+      "importance": "LOW"
+    },
+    {
+      "topic": "Mail Services : Provide email service.",
+      "module": "MODULE-5",
+      "question_count": 1,
+      "score": 0,
+      "importance": "LOW"
+    },
+    {
+      "topic": "The World Wide Web",
+      "module": "MODULE-5",
+      "question_count": 1,
+      "score": 0,
+      "importance": "LOW"
+    }
+  ]
+}

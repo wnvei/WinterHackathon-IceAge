@@ -1,0 +1,383 @@
+
+================================================================================
+FILE: CNQuestionBank-22CSE52.docx
+================================================================================
+
+ST JOSEPH ENGINEERING COLLEGE, MANGALURU
+An Autonomous Institution
+DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING
+SUBJECT: COMPUTER NETWORKS COURSE CODE: 22CSE52
+QUESTION BANK
+
+MODULE – 1
+What is computer network?(2 marks)
+What is middleware? (2 marks)
+What is peer-to-peer communication? (2 marks)
+What is VoIP? (2 marks)
+Differentiate unicasting, multicasting, broadcasting. (2 marks)
+What is routing algorithm? (2 marks)
+What is forwarding algorithm? (2 marks)
+What is subnet? (2 marks)
+What is gateway? (2 marks)
+What is protocol? (2 marks)
+What is routing? (2 marks)
+What is addressing or naming? (2 marks)
+What is flow control? (2 marks)
+What is Congestion? (2 marks)
+Write any 2 principles of OSI model.(2 marks)
+Differentiate connection oriented and connectionless service. (2 marks)
+Differentiate between TCP and UDP. (2 marks)
+Differentiate between store-and-forward switching and cut-through switching. (2 marks)
+Mention any two service primitives with meaning. (2 marks)
+In data link layer the sender breaks up the input data into	(2 marks)
+The devices used in physical layer…	(2 marks)
+The devices used in data link layer…	(2 marks)
+The router is used in	layer. (2 marks)
+In the network layer data is referred as	(2 marks)
+The data is transmitted in the datalink layer using	address (2 marks)
+The data is transmitted in the network layer using	address (2 marks)
+Mention any two protocols used in application layer (2 marks)
+Briefly describe the uses of computer network. (8 marks)
+Explain the two technical issues in network hardware design. (8 marks)
+Explain the categories of network with suitable diagram and example. (8 marks)
+Differentiate LAN,WAN and MAN (8 marks)
+List and explain the categories of network hardware classification based on scale. (8 marks)
+Write a note on i) Internetworking ii) Protocol Hierarchy (8 marks)
+List and explain the design issues in network software design. (8 marks)
+
+Differentiate between connection oriented and connectionless service. (8 marks)
+Explain the service primitives with neat diagram.(8 Marks)
+With a neat diagram explain OSI reference model. Explain the functions of each layer. (8 marks)
+Explain the TCP/IP reference model with a neat diagram (8 marks)
+Differentiate between OSI reference model and TCP/IP model (8 marks)
+
+MODULE – 2
+Define Routing. (2 marks)
+Write the difference between routing and forwarding. (2 marks)
+What are the 2 classes of Routing algorithms? (2 marks)
+Define nonadaptive and adaptive algorithms. (2 marks)
+Name any 2 algorithms for Static routing and Dynamic Routing. (2 marks)
+Describe optimality Principle? (2 marks)
+Write the link state packet for node G for the below graph. (2 marks)
+
+What is the count to infinity problem? (2 marks)
+Define congestion in network. (2 marks)
+Define Load shedding. (2 marks)
+Define Jitter. (2 marks)
+Solve the following to find the shortest path from A to D using Dijkstra’s algorithm. (any graph can be given) (8 marks)
+
+Explain any 2 Static Algorithms (Nonadaptive).(10 Marks)
+Explain the Link State Routing in detail. (8 marks)
+Explain Dynamic algorithm which is used in Bellmen ford routing. (8 marks)
+Write Bellman-Ford Algorithm. Explain the algorithm with an example. (8 marks)
+Explain the different approaches to control the congestion. (8 marks)
+Write a note on Load Shedding and Jitter. (8 marks)
+Explain Flooding with its advantages. (8 marks)
+Discuss about the drawback of distance vector algorithm and how this can be resolved. (8 marks)
+Explain Hierarchical routing in network. (8 marks)
+Explain the congestion control in. i) Virtual circuit subnets ii) Datagram subnets (8 marks)
+Explain the congestion prevention policies (8 marks)
+
+
+MODULE – 3
+Define quality of service in networking. (2 marks)
+What are the primary parameters which defines the QOS? (2 marks)
+What is tunneling? (2 marks)
+What is Autonomous System in internetwork? (2 marks)
+What is Internet Protocol(IP)? (2 marks)
+The address length of IPV4 is	(2 marks)
+The address length of IPV6 is	(2 marks)
+What is Subnets? (2 marks)
+In the network 198.162.8.1/25, calculate the number of host can be connected to the network. (2 marks)
+List and explain the techniques for Achieving Good Quality of Service. (8 marks)
+Describe traffic shaping with algorithms. (8 marks)
+Explain leaky bucket and token bucket algorithms. (8 marks)
+Differentiate between leaky bucket and token bucket algorithms. (8 marks)
+Explain why packet scheduling is required? Describe the different strategies for packet scheduling. (8 marks)
+Explain the function of RSVP or Flow based algorithm. (8 marks)
+Write note on Differentiated Services. (8 marks)
+Write a note on i) tunneling ii) fragmentation (8 marks)
+List and explain the Principles of Network Layer in internet. (8 marks)
+Give the Structure of IPv4 header and explain all the fields. (8 marks)
+With a neat diagram explain the classful addressing. (8 marks)
+Describe the subnet addressing with an example. (8 marks)
+Describe the CIDR with an example. (8 marks)
+Identify the following for the IP address 200.16.1.0/30. a) what is the subnet mask? how many numbers of networks can be created? how many numbers of IP addresses exist in each network? d) how many numbers of usable hosts exist in each network? e) what is the first host address and last host address of First Network?
+Write a note on i)NAT ii)ARP iii) DHCP (8 marks)
+Give the Structure of IPv6 header and explain all the fields. (8 marks)
+Explain BGP (8 marks)
+Explain OSPF (8 marks)
+
+
+MODULE – 4
+What is the transport entity? (2 marks)
+Mention any two socket primitives. (2 marks)
+What is Remote Procedure Call? (2 marks)
+What is TSAP? (2 marks)
+What are the different types of Buffers used in Transport Layer? (2 marks)
+Write the Header Structure for UDP. (2 marks)
+Differentiate between Client Stub and Server Stub. (2 marks)
+What is MTU?(2 marks)
+What is Multiplexing. (2 marks)
+What is the formula to compute the throughput? (2 marks)
+Explain the services provided by the transport layer to the upper layers. (8 marks)
+Explain transport primitives. (8 marks)
+Explain the RPC with a neat diagram. (8 marks)
+Explain the Elements of Transport Layer. (8 marks)
+Explain with a neat diagram, how the client and server communicate using Sockets. Also write a program for socket communication. (8 marks)
+Explain all the cases of three-way handshake for connection establishment in transport layer with neat diagrams. (8 marks)
+Explain all the cases of three-way handshake for connection release with neat diagrams. (8 marks)
+Explain the example of socket programming. (8 marks)
+Differentiate between TCP and UDP (8 marks)
+Explain the TCP segment header with a neat diagram. (8 marks) 
+Explain how flow control and buffering is achieved at the transport layer (8 marks)
+Explain TCP connection establishment and Connection Release. (8 marks)
+Explain Congestion Control in TCP. (8 marks)
+Explain TCP transmission policy. (8 marks)
+Explain the Window management in TCP with a neat diagram. (8marks)
+Explain the Sliding Window Protocol. (8 marks)
+
+
+MODULE – 5
+What is WWW? (2 marks)
+What is web crawling?
+What is URL? (2 marks)
+What Statelessness and Cookies? (2 marks)
+Describe the different query mechanisms used to resolve name in DNS. (8 marks)
+Write a note on i)DNS name Space ii)Name servers (8 marks)
+Write a note on Resource Records.
+Describe the Hyper Text Transfer Protocol (8 marks)
+Give the architecture of electronic mail. (8 marks)
+Explain SMTP. (8 marks)
+Explain the message format of email. (8 marks)
+Explain the server side communication in WWW(architecture). (8 marks)
+Write a note on URL (4 marks)
+Describe MIME—The Multipurpose Internet Mail Extensions along with its header information. (8 marks)
+Compare POP3 and IMAP. (8 marks)
+Explain RFC 822 header fields. (8 marks)
+With a neat diagram explain the parts of the Web model. (8 marks)
+Explain the different HTTP request methods used in creating HTTP message. (8 marks)
+
+
+================================================================================
+FILE: ModelQPCN 1.docx
+================================================================================
+
+
+
+
+
+
+
+Duration: 3 Hrs 					       				          Maximum Marks: 100
+
+COMPUTER NETWORKS
+
+
+
+================================================================================
+FILE: ModelQPCN 2.docx
+================================================================================
+
+
+
+
+
+
+
+Duration: 3 Hrs 					       				          Maximum Marks: 100
+
+COMPUTER NETWORKS
+
+
+
+================================================================================
+FILE: QB.pdf
+================================================================================
+
+--- Page 1 ---
+Question Bank  
+Course: Computer Networks                                           Course Code: 21CSE 502 
+Course Coordinator : Ms Pruthvi MR  
+ 
+ 
+MODULE – 1 
+ 
+1. Define computer network. Briefly describe the uses of computer network.  
+2. What are the two technical issues in network hardware design. Explain.  
+3. Explain the categories of network with suitable diagram and example.  
+4. Differentiate LAN WAN and MAN  
+5. List and explain  the categories of network hardware based on scale . 
+6. Write a note on  
+            i) Internetworking  
+            ii) Protocol Hierarchy  
+5. List and explain the design issues in network software design.  
+6. Differentiate between connection oriented and connectionless service.  
+7. Differentiate between TCP and UDP  
+8. With a neat diagram explain OSI reference model. Explain the functions of each layer.  
+9. Briefly explain TCP/IP reference model.  
+10. Differentiate between OSI reference model and TCP/IP model  
+ 
+MODULE – 2 
+ 
+1. Define Routing. Write the difference between routing and forwarding  
+2. Describe optimality Principle? Solve the following to find the shortest path from A to D 
+using Dijkstra’s algorithm. (any graph can be given)  
+ 
+                                           
+ 
+ 
+ 
+ 
+ 
+3. Explain how broadcasting is achieved in Reverse Path Forwarding. Write the advantages and 
+disadvantages.  
+4. Write Bellman -Ford Algorithm. Explain the algorithm with an example.  
+5. Define congestion in network. Give the different approaches to control the congestion.  
+6. Write a note on Load Shedding and flooding . 
+7. Discuss about the drawback of distance vector algorithm and how this can be resolved.  
+8. Explain Hierarchical routing in network.  
+
+
+--- Page 2 ---
+9. Write a note on multicast routing and routing in ad -hoc networks  
+10. Describe the steps involved in sending packets in mobile networks  
+11. Explain ste ps involved in Link state algorithm.  
+ 
+MODULE – 3 
+1. Define quality of service in networking. Explain the primary parameters  which defines the 
+QOS.  
+2. List and explain the t echniques for Achieving Good Quality of Service . 
+3. Describe traffic shaping with algorithms.  
+4. Explain leaky bucket and token bucket algorithms.  
+5. Differentiate between leaky bucket and token bucket algorithms.  
+6. Explain why packet scheduling is required? Describe t he different strategies for packet  
+scheduling . 
+7. Give the Structure of IPv4 header  and explain all the fields.  
+8. With a neat diagram explain the classful addressing.  
+9. Describe the subnet addressing with an example.  
+10. Describe the CIDR with an example.  
+11. Give the Structure of IPv6 header  and explain all the fields.  
+12. Explain  BGP  
+13. Explain OSPF  
+ 
+MODULE – 4 
+ 
+1. Explain the services provided by the transport layer to the upper layers.  
+2. Explain transport  primitives.  
+3. Explain the three way  handshake protocol used for connection establishment and connection 
+release with neat diagrams.  
+4. Explain TCP IP socket programming . 
+5. Explain the User Datagram Protocol with header format.  
+6. Differentiate between TCP and UDP  
+7. Explain the TCP segment header with a neat diagram.  
+8. Explain how flow control and error control is achieved at the transport layer  
+9. Explain TCP connection establishment.  
+10. Explain how you  can avoid congestion in TCP.  
+11. Explain TCP transmission policy.  
+ 
+ 
+ 
+MODULE – 5 
+1. Describe the different query mechanisms used to resolve name in  DNS.  
+2. Describe the Hyper Text Transfer Protocol  
+3. Give the architecture of electronic mail. Explain SMTP.  
+4. Explain the message format  of email.  
+5. Explain the server side communication in WWW (architecture) . 
+6. Write a note on URL  
+7. Describe MIME —The Multipurpose Internet Mail Extensions  along with  its header information.  
+8. Compare POP3 and IMAP.  
+9. With a neat diagram explain t he parts of the Web model . 
+
+--- Page 3 ---
+10. Explain the different HTTP request methods  used in creating HTTP message.  
+ 
+
+
+================================================================================
+FILE: Question Bank - CN.docx
+================================================================================
+
+Question Bank
+Course: Computer Networks	Course Code: 21CSE502 Course Coordinator: Ms Pruthvi MR
+
+MODULE – 1
+
+Define computer network. Briefly describe the uses of computer network.
+What are the two technical issues in network hardware design. Explain.
+Explain the categories of network with suitable diagram and example.
+Differentiate LAN WAN and MAN
+List and explain the categories of network hardware based on scale.
+Write a note on
+Internetworking
+Protocol Hierarchy
+List and explain the design issues in network software design.
+Differentiate between connection oriented and connectionless service.
+Differentiate between TCP and UDP
+With a neat diagram explain OSI reference model. Explain the functions of each layer.
+Briefly explain TCP/IP reference model.
+Differentiate between OSI reference model and TCP/IP model
+
+MODULE – 2
+
+Define Routing. Write the difference between routing and forwarding
+Describe optimality Principle? Solve the following to find the shortest path from A to D using Dijkstra’s algorithm. (any graph can be given)
+
+
+
+
+
+
+
+Explain how broadcasting is achieved in Reverse Path Forwarding. Write the advantages and disadvantages.
+Write Bellman-Ford Algorithm. Explain the algorithm with an example.
+Define congestion in network. Give the different approaches to control the congestion.
+Write a note on Load Shedding and flooding.
+Discuss about the drawback of distance vector algorithm and how this can be resolved.
+Explain Hierarchical routing in network.
+
+Explain steps involved in Link state algorithm.
+
+MODULE – 3
+Define quality of service in networking. Explain the primary parameters which defines the QOS.
+List and explain the techniques for Achieving Good Quality of Service.
+Describe traffic shaping with algorithms.
+Explain leaky bucket and token bucket algorithms.
+Differentiate between leaky bucket and token bucket algorithms.
+Explain why packet scheduling is required? Describe the different strategies for packet scheduling.
+Give the Structure of IPv4 header and explain all the fields.
+With a neat diagram explain the classful addressing.
+Describe the subnet addressing with an example.
+Describe the CIDR with an example.
+Give the Structure of IPv6 header and explain all the fields.
+Explain BGP
+Explain OSPF
+
+MODULE – 4
+
+Explain the services provided by the transport layer to the upper layers.
+Explain transport primitives.
+Explain the three way handshake protocol used for connection establishment and connection release with neat diagrams.
+Explain TCP IP socket programming.
+Explain the User Datagram Protocol with header format.
+Differentiate between TCP and UDP
+Explain the TCP segment header with a neat diagram.
+Explain how flow control and error control is achieved at the transport layer
+Explain TCP connection establishment.
+Explain how you can avoid congestion in TCP.
+Explain TCP transmission policy.
+
+
+
+MODULE – 5
+Describe the different query mechanisms used to resolve name in DNS.
+Describe the Hyper Text Transfer Protocol
+Give the architecture of electronic mail. Explain SMTP.
+Explain the message format of email.
+Explain the server side communication in WWW(architecture).
+Write a note on URL
+Describe MIME—The Multipurpose Internet Mail Extensions along with its header information.
+Compare POP3 and IMAP.
+With a neat diagram explain the parts of the Web model.
+
+Explain the different HTTP request methods used in creating HTTP message.

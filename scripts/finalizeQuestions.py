@@ -35,7 +35,8 @@ def finalize_questions():
         final_list = [
             q for q in questions 
             if q.get('syllabus_status') == "IN_SYLLABUS" 
-            and q.get('notes_validation') == "CONFIRMED"
+            if q.get('syllabus_status') == "IN_SYLLABUS" 
+            and q.get('notes_validation') in ["CONFIRMED", "PARTIAL"]
         ]
         with open(output_path, 'w', encoding='utf-8') as f:
             json.dump({"questions": final_list}, f, indent=2, ensure_ascii=False)

@@ -1,0 +1,856 @@
+
+================================================================================
+FILE: 22RMI57_Model QP-1.pdf
+================================================================================
+
+--- Page 1 ---
+1|4   
+USN:  22RMI57  
+Duration:3 Hrs MaximumMarks:  100 
+Research Methodology and Intellectual Property Rights  
+ 
+Note:1. Part -A is mandatory.  
+2. Answer any five full questions from Part -B choosing atleast one from each  module.  
+3. Missing data may be suitably assumed.  
+PART -A 
+Q.No.  Question  BL CO PO Marks  
+ 
+ 
+1 There has been a steep rise in plagiarism due to  
+ 
+L3  
+ 
+2  
+ 
+PO8  
+ 
+1 a) Increase  in publication 
+growth  b) Increase  in enrolment  for 
+research work  
+c) Availability  of digital 
+documents  d) Use of computers in research  
+ 
+ 
+ 
+2 Your colleague is confused about using the marketing research process, 
+as he knows that something is wrong but is not sure of the specific 
+causes to investigate. He seems to be having problems with  , 
+which is often the hardest step to take.   
+ 
+ 
+L4  
+ 
+ 
+2  
+ 
+ 
+PO2  
+ 
+ 
+1 
+a) Developing the research plan b) Determining  a research 
+approach  
+c) Defining  the problem  and 
+research objectives  d) Selecting a research agency  
+ 
+ 
+3 Which of the following statement is not true-  
+ 
+L1  
+ 
+2  
+ 
+PO2  
+ 
+1 a) Results  and discussions 
+follow materials and methods  b) Both results and discussions 
+can be written separately  
+ 
+c) References should be the 
+latest one, preferably  d) You can criticize any 
+previous study if it contrasts 
+yours  
+ 
+ 
+4 What should the "references" section of a research paper contain?  
+ 
+L2  
+2  
+P10  
+1 
+a) Personal opinions related to 
+the topic  b) Citations of all  sources  used 
+in the paper  
+c) Only primary sources but no 
+secondary sources  d) Random facts about the 
+research area  
+ 
+5 India is a member to the  agreement.   
+L1  
+3  
+PO6  
+1 a) WIPO  b) TRIPS  
+c) WTO  d) All of these  
+STJOSEPHENGINEERINGCOLLEGE, MANGALURU  
+An Autonomous Institution  
+Fifth Semester B.E. Degree (Autonomous)  Examinations  
+          
+ 
+
+--- Page 2 ---
+2|4  Q.No.  Question  BL CO PO Marks  
+ 
+ 
+ 
+ 
+ 
+ 
+6 Given  below are  the two  statements.  
+Statement I: Patents are defined as monopoly rights which one is 
+granted by the government, for full disclosure of the invention, for a 
+limited period of time, that is for 20 years.  
+Statement II: The purpose of granting patents is to encourage  
+inventions by  promoting their protection and utilization to contribute to 
+the development of industries.  
+In the light of the above statements, choose the most appropriat e 
+answer from the options given below.  
+  
+ 
+ 
+ 
+ 
+ 
+L4  
+ 
+ 
+ 
+ 
+ 
+4  
+ 
+ 
+ 
+ 
+ 
+PO6  
+ 
+ 
+ 
+ 
+ 
+2 
+a) Both  statement  I and II are 
+correct  b) Both  statement  I and II are 
+incorrect  
+c) Statement  I is correct  but 
+Statement II is incorrect  d) Statement  I is correct  but 
+Statement II is incorrect  
+ 
+      7 What is not Patentable?  
+ 
+L3  
+ 
+4  
+PO6  
+1 a) A new assault  gun b) A new poison  capable  of 
+human death  
+c) A new chemical  compound 
+usable for huge explosion  d) All above  are patentable  
+ 
+8 If a person uses someone’s song as background music in his/her music 
+video, then could it be an example of  
+  
+L3  
+5  
+PO6  
+1 
+a) Copy  right  impingement  b) Hacking  
+c) Identity  theft d) None  of the  above  
+ 
+ 
+9 Upon  expiry   of  registration  of a design  under  Designs  Act, 2000  it 
+becomes   
+ 
+L1  
+ 
+6  
+ 
+PO6  
+ 
+1 a) property  of the central 
+government  b) property  of the state 
+government  
+c) Public  property  d) property  of municipal 
+authorities  
+ 
+ 
+ 
+10 Which of the following acts in relation to a semiconductor integrated  
+circuit layout design does not amount to commercial exploitation?  
+  
+ 
+ 
+L3  
+ 
+ 
+6  
+ 
+ 
+PO6  
+ 
+ 
+1 
+a) lease  of semiconductor 
+integrated circuit  b) sale or offer or exhibition for 
+sale of semiconductor 
+integrated circuit  
+c) distribution for commercial 
+purpose of semiconductor 
+integrated circuit  d) lien on semiconductor 
+integrated circuit  
+11 What  do you mean  by  “Biodiversity” ? L1 6 PO6 1 
+12 State any two objectives of Research.  L1 1 PO2 2 
+13 What information should be included in the budget section of a research 
+proposal?  L2 2 P10 2 
+14 What do you mean by Intellectual Property?  L2 3 PO6 2 
+15 What  is the distinction between  trademark  and certification  mark?  L2 5 PO6 2 
+
+--- Page 3 ---
+3|4  PART -B 
+Module -1 
+Q.No.  Question  BL CO PO Marks  
+ 
+1 a) What  do you mean  by Research?  Explain  its significance  in 
+Engineering.  L2 1 PO1 8 
+b) Discuss  the criteria for  good Research.  L3 1 PO1 8 
+OR 
+ 
+ 
+2 a) Discuss  the different ways  used to identify  the research  gaps.  L2 1 PO1 8 
+ 
+b) What  do you mean  by Plagiarism?  Describe how  you will avoid 
+plagiarism in your assignment submissions.  L3 2 PO8 8 
+Module -2 
+ 
+3 a) Discuss briefly the steps involved in writing research papers with 
+the help of a flow chart.  L2 2 P10 8 
+b) Explain  the importance  and elements  of ‘Referencing  and Citations’ 
+with respect to research article writing.  L3 2 PO8 8 
+OR 
+ 
+4 a) Briefly  explain  any EIGHT  standard  heads  in research  proposal 
+writing.  L2 2 P10 8 
+b) Compare  between  SYNOPSIS  and ABSTRACT  in Thesis  Writing.  L4 2 P10 8 
+Module -3 
+ 
+ 
+5 a) Explain  the relevance  of Intellectual  Property  Rights  in the 
+businesses today.  L3 3 PO6 8 
+b) What  is TRIPS  Agreement?  Outline  the areas  covered  and main 
+three features of the TRIPS Agreement.  L2 4 PO6 8 
+OR 
+ 
+6 a) Discuss  the three conditions of patentability.  L2 5 PO6 8 
+b) Define  ‘software  patent’.  Briefly  discuss  some  of the important 
+issues concerning software patenting.  L3 5 PO6 8 
+Module -4 
+ 
+7 a) What  is Copyright?  Explain  the classes  of works  for which 
+copyright protection is available in India.  L2 5 PO6 8 
+b) How an author has been defined under the Copyright Act?. Explain 
+types of rights given to the Author.  L2 5 PO6 8 
+OR 
+ 
+8 a) Enumerate  the salient  features  of the Trade  Marks Act, 1999  L2 5 PO6 8 
+b) Explain the Absolute Grounds and Relative Grounds for refusal of 
+registration of a trade mark.  L2 5 PO6 8 
+Module -5 
+ a) Discuss  briefly  registrable  and non-registrable  designs.  L2 6 PO6 8 
+
+--- Page 4 ---
+4|4  9 b) Discuss the  offences and penalty under Geographical Indications of 
+Goods (Registration & Protection) Act, 1999.  L2 6 PO6 8 
+OR 
+ 
+ 
+10 a) Discuss the Procedure for Registration of Layout design under the 
+Semi -Conductor Integrated Circuits Layout -Design Act, 2000.  L2 6 PO6 8 
+b) Explain the following with respect to Protection of Plant Varieties 
+and Farmers' Rights Act 2001.  
+(i). Need for  Plant  Protection  as Intellectual  Property  
+(ii). Conditions  for Registration  of New  Plant  Variety   
+L2  
+6  
+PO6  
+8 
+ 
+
+
+
+================================================================================
+FILE: 22RMI57_Model QP-2.pdf
+================================================================================
+
+--- Page 1 ---
+1|3   
+USN:  22RMI5 7 
+Duration:3  Hrs Maximum  Marks:  100 
+Research  Methodology  and Intellectual  Property  Rights  
+ 
+Note:1.  Part-A is mandatory.  
+2. Answer  any five full questions  from  Part-B choosing  atleast  one from  each module.  
+3. Missing  data may be suitably  assumed.  
+PART -A 
+Q.No.  Question  BL CO PO Marks  
+ 
+ 
+1 A research intends to explore the result of possible factors for the 
+organization of effective mid -day meal interventions. Which research 
+method will be most appropriate for  this study?   
+ 
+L4  
+ 
+1  
+ 
+PO2  
+ 
+1 
+a) Descriptive  survey  method  b) Historical  method  
+c) Ex-postfacto  method  d) Experimental  method  
+ 
+ 
+ 
+2 A researcher is interested in studying the prospects of a particular 
+political party in an urban area. So, what tool should he prefer for the 
+study?   
+ 
+L3  
+ 
+1  
+ 
+PO2  
+ 
+1 
+a) Rating  Scale  b) Interview  
+c) Questionnaire  d) Schedule  
+ 
+ 
+3 A research  proposal  should  start with ------ -  
+ 
+L2  
+ 
+2  
+ 
+PO10   
+ 
+1 a) Sampling  technique  b) An overview  of the main  area 
+under study.  
+c) The proposed structure of the 
+report  d) A time frame  of the proposed 
+research  
+ 
+ 
+4 What  is the significance of the  "Literature  Review"  section in  a thesis?   
+ 
+L2  
+ 
+2  
+ 
+PO8  
+ 
+1 a) To introduce  the research 
+topic  b) To summarize  the entire 
+thesis  
+ 
+c) To provide  background  
+information  and review 
+existing  research  on the topic   
+d) To list the references  used in 
+the thesis  
+5555 
+The use of information  and ideas protected  by IPR are  of  
+L2  
+4  
+PO6  
+1 a) Cultural  value  b) Social  value  
+c) Commercial  value  d) Moral  value  
+ 
+ 
+6 The term “person”  as defined  in the Patents  Act includes  Government.   
+ 
+L2  
+ 
+3  
+ 
+PO6  
+ 
+1 a) Yes b) No 
+c) Only  Natural  or Body 
+Corporate.  d) “person” means only 
+individual or a group of 
+individuals  
+STJOSEPHENGINEERINGCOLLEGE,  MANGALURU  
+An Autonomous  Institution  
+Fifth  Semester  B.E. Degree  (Autonomous) Examinations  
+          
+ 
+
+--- Page 2 ---
+2|3  Q.No.  Question  BL CO PO Marks  
+ 
+ 
+ 
+ 
+ 
+7 Given below are two statements: One is labelled as Assertion (A) and 
+the other is labelled as Reason (R).  
+Assertion (A):  Trademark registration gives exclusive proprietary 
+rights to the trademark owner.  
+Reason®:  A trademark is a recognizable sign, design or expression, 
+which identifies the product or services of a particular source from 
+those of others, and are used to clai m exclusive proprietary rights of 
+product or services.   
+ 
+ 
+ 
+ 
+L4  
+ 
+ 
+ 
+ 
+5  
+ 
+ 
+ 
+ 
+PO6  
+ 
+ 
+ 
+ 
+2 
+a) Both(A)and(R)are  true and
+ (R) is the correct  
+Explanation  of(A) b) Both(A)and(R)are  true 
+and(R)is  NOT  the correct  
+Explanation  of(A) 
+c) (A)is true  but(R) is false.  d) (A)is  false but(R)is true. 
+ 
+8 Under  which type  of agreement  royalty  is paid on  the basis of  sale?   
+L2  
+5  
+PO6  
+1 a) Mining  b) Patent  
+c) Copy right d) Licensing  
+9 Mention  the specific  criteria  for the protection  under  the Semi -
+Conductor Integrated Circuits Layout -Design (SICLD) Act, 2000  L2 6 PO6 2 
+ 
+10 The Protection of Plant Varieties and Farmers' Rights Act was enacted 
+in  
+L1  
+6  
+PO6  
+1 a) 2021  b) 1991  
+c) 2001  d) 1971  
+11 What  do you  mean  by Research  Methods  and Research  Methodology?  L1 1 PO2 2 
+12 What  is the  role of proper  referencing  in a research paper.  L2 2 PO10  2 
+13 Name  the different  types of  Intellectual  Property?  L1 3 PO6 2 
+14 List out the 4 examples  of Indian  Geographical  Indications.  L1 6 PO6 2 
+PART -B 
+Module -1 
+Q.No.  Question  BL CO PO Marks  
+1 a) Briefly  describe  the different  steps involved in  a research process.  L2 1 PO1 8 
+b) Describe  briefly  the techniques  of defining  a research  problem.  L2 1 PO1 8 
+OR 
+2 a) Explain  the importance  and principles  of Research  Ethics.  L2 1 PO1 8 
+b) Write  a note on Author Metrics and Journal Metrics.  L2 2 PO8 8 
+Module -2 
+ 
+3 a) State  and explain  atleast  8 key reasons  why writing  research  papers  is 
+important.  L2 2 P10 8 
+b) Explain  Submission  and Post-submission  step in research  article  
+writing.  L3 2 PO8 8 
+OR 
+
+--- Page 3 ---
+3|3  
+ 
+4 a) What  do you mean  by Thesis  Writing?  Explain  briefly  the typical 
+components of a Thesis.  L2 2 P10 8 
+b) Discuss the preliminary requirements for research proposal writing in 
+Engineering .  L3 2 P10 8 
+Module -3 
+ 
+ 
+5 a) What  is meant  by Intellectual  Property?  Why  does intellectual 
+property need to be promoted and protected?  L4 3 PO6 8 
+b) Discuss  in brief  any two leading  International  Instruments 
+concerning Intellectual Property Rights.  L2 4 PO6 8 
+OR 
+ 
+6 a) An invention may satisfy the condition of novelty, inventiveness 
+and usefulness but it may not qualify for a patent. Discuss. Who 
+checks the novelty features of the invention?  L4 5 PO6 8 
+b) Discuss  various  types  of Applications  for Patents.  L2 5 PO6 8 
+Module -4 
+ 
+7 a) Briefly Explain: (i) Remedies available to a copyright owner when 
+his copyright is infringed and (ii) Terms of copyright  L2 5 PO6 8 
+b) Enumerate  the functions  of the copyright  board.  L2 5 PO6 8 
+OR 
+ 
+8 a) Distinguish  between:(i)Trademark  and property  mark(ii)Artistic 
+work and Sound recording  L2 5 PO6 8 
+b) List the exclusive rights conferred by the registration of the Trade 
+Mark on the registered proprietor.  L2 5 PO6 8 
+Module -5 
+ 
+ 
+9 a) What  is an Industrial  Design?  Discuss  the need  for protection  of 
+Industrial Designs as IP in India.  L3 6 PO6 8 
+b) What  is a geographical  indication?  List the salient  features  of the 
+Geographical  Indications of Goods  (Registration &Protection)Act, 
+1999.  L2 6 PO6 8 
+OR 
+ 
+10 a) Explain  briefly  the need  for protection  of India’s  Traditional  
+Knowledge under Intellectual Property regime.  L3 6 PO6 8 
+b) Discuss  the salient  features  of the Bio-diversity  Act 2002.  L2 6 PO6 8 
+ 
+ 
+
+
+================================================================================
+FILE: Mar_Apr_2024(2021Scheme).pdf
+================================================================================
+
+--- Page 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Duration : 3 Hrs                           Maximum Marks: 100  
+ 
+RESEARCH METHODOLOGY AND INTELLECTUAL PROPERTY RIGHTS  
+ 
+Note:   
+1. Part -A is mandatory.  
+2. Answer any five full questions from Part -B choosing at least one from each module.  
+3. Missing data may be suitably assumed.  
+PART -A 
+Q.No.  Question  BL CO PO Marks  
+1 Which of the following is not a type of research……………  
+1 1 2 1 a)  Fundamental research                  b)  Current research  
+c)  Analytical research                       d)  Applied research  
+2 Your colleague is confused about using the marketing research 
+process, as he knows that something is wrong but is not sure of the 
+specific causes to investigate. He seems to be having problems with 
+________, which is often the hardest step to take.  3 1 2 1 
+a)  Developing the research 
+plan b)  Determining a research 
+approach  
+c) Defining the problem and 
+research objectives  d)  Selecting a research agency  
+3 List any four principles of research ethics . 1 2 8 2 
+4 Which section of a research paper outlines the specific aims or 
+objectives of the study?  2 2 6 1 a)  Abstract    b)  Introduction     
+c)  Methodology   d)  Conclusion  
+5 Which of the following statement is not true -   
+2 2 2 1 a)  Results and discussions 
+follow materials and 
+methods  b)  Both results and 
+discussions can be written 
+separately  
+c)  References should be the 
+latest one, preferably  d)  You can criticize any 
+previous study if it contrasts 
+yours  
+6 What information should be included in the budget section of a 
+research proposal?  2 2 6 2 
+7 The use of information and ideas protected by IPR are of …..  
+2 3 6 1 a) Cultural values  b) Social value  
+c) Commercial value  d) Moral value  
+8 Which among the following is closely associated with IPR?  1 3 6 1 
+ST JOSEPH ENGINEERING COLLEGE, MANGALURU  
+An Autonomous Institution  
+  Fifth  Semester B.E. Degree  (Autonomous) Examinations Mar /Apr-2024   
+   
+USN:  21RMI507  
+
+--- Page 2 ---
+Q.No.  Question  BL CO PO Marks   
+2 | 3 P a g e                                                               21R M I 507 
+ a) GATS  b) TRIMS  
+c) TRIPS  d) MFN  
+9 List the criteria for patentability . 2 4 6 2 
+10 Under which type of agreement royalty is paid on the basis of sale?  
+2 5 6 1 a) Mining  b) Patent  
+c) Copy right  d) Licensing  
+11 If a person uses someone’s song as background music in his/her music 
+video, then could it be an example of  3 5 6 1 a) Copyright impingement  b) Hacking  
+c) Identity theft  d) None of the above  
+12 What is the distinction between trade mark and certification mark?  2 5 6 2 
+13 Who can register Geographical Indication?  
+2 6 6 1 a) Individual  b) Company  
+c) Producers  d) None of these  
+14 The Protection of Plant Varieties and Farmers' Rights Act was enacted 
+in  1 6 6 1 
+a) 2021  b) 2001  
+c) 1971  d) 1991  
+15 List the 4 conditions for registrations of new plant variety.  2 6 6 2 
+ PART -B     
+ Module -1     
+1 a) What do you mean by Research? Explain its significance in 
+Engineering.  2 1 2 08 
+b) Discuss the criteria for good Research.  2 1 12 08 
+ OR     
+2 a) Describe how you will avoid plagiarism in your ‘Assignment’ 
+submissions.  3 2 8 08 
+b) Discuss at least four different ways used to identify the research 
+gaps.  2 1 2 08 
+ Module -2     
+3 a) Explain briefly the steps involved in writing research papers with 
+the help of a flow chart.  2 2 10 08 
+b) Discuss briefly the different sections in IMRaD  style of writing 
+research article.  2 2 2 08 
+ OR     
+4 a) What do you mean by Thesis Writing? Explain the components 
+of Thesis.  2 2 2 08 
+b) Discuss the preliminary requirements for research proposal 
+writing.  2 2 10 08 
+ Module -3     
+
+--- Page 3 ---
+Q.No.  Question  BL CO PO Marks   
+3 | 3 P a g e                                                               21R M I 507 
+  
+ 
+ 5 a) Explain briefly, the role of Intellectual Property as an effective 
+instrument of Development.  2 3 6 08 
+b) Discuss the objectives and salient features of National IPR 
+Policy 2016 in India.  2 3 6 08 
+ OR     
+6 a) Explain with a flow chart the patent gra nting procedure in India  2 4 10 08 
+b) Explain the salient features of Indian Patent Act 1970.  2 4 6 08 
+ Module -4     
+7 a) Briefly Explain: (i) Remedies available to a copyright owner 
+when his copyright is infringed and (ii) Terms of copyright  2 5 6 08 
+b) Enumerate the functions of the copyright board.  2 5 6 08 
+ OR     
+8 a) Enumerate the salient features of Trade Marks Rules 2017.  2 5 6 08 
+b) List the exclusive rights conferred by the registration of the Trade 
+Mark on the registered proprietor.    2 5 6 08 
+ Module -5     
+9 a) What is an Industrial Design? Discuss the need for protection of 
+Industrial Designs as IP in India.  2 6 6 08 
+b) Discuss the procedure for registration of geographical indications 
+with a neat flow chart.  2 6 10 08 
+ OR     
+10 a) Discuss the salient features of the Bio -diversity Act 2002.  2 6 6 08 
+b) Discuss the Procedure for Registration of Layout design under the 
+Semi -Conductor Integrated Circuits Layout -Design Act, 2000.  2 6 10 08 
+
+
+
+================================================================================
+FILE: QB 1&2.pdf
+================================================================================
+
+--- Page 1 ---
+ 
+MODULE 1  
+Sample Multiple Choice Questions  
+1. The research is always –  
+a. verifying the knowledge b. exploring new knowledge c. filling the gap between knowledge 
+d. all of these  
+2. The research which is exploring new facts through the study of the past is called  
+a. Philosophical research b. Historical research c. Mythological research d. Content analysis  
+3. A statement of the quantitative research question should:  
+ a. Extend the statement of purpose by specifying exactly the questions the researcher will 
+address b. Help the research in selecting appropriate participants, research methods, measures, 
+and materials c. Specify the variables of interest d. All the above  
+4. Which of the following is the first step in starting the research process?  
+a. Searching sources of information to locate the problem b. Survey of related literature c. 
+Searching for solutions to the problem d. Identification of the problem  
+5. Choose the best answer. A literature review  
+a. Conducted after you have decided upon your research question b. Helps in the formulation 
+of your research aim and research question c. Is the last thing to be written in your research 
+report d. Is not part of a research proposal  
+6. Which of the following is a literature management tool?  
+a. EndNote b. Turnitin c. Copyscape d. Viper  
+7. The impact factor is NOT a. Author metric b. Journal metric c. Calculated in 2, 3 or 5 -years 
+basis d. helpful in journal targeting  
+8. Which journal metric tracks citations of the last two years?  
+a. CiteScore b. Impact Factor c. H5 index d. Article Influence  
+ST JOSEPH ENGINEERING COLLEGE, MANGALURU  
+                         An Autonomous Institution  
+ 
+QUESTION BANK  
+Subject with Code: Research Methodology and IPR  
+(22RMI57 ) 
+Branch: CSE                                                                   Sem: V 
+ 
+
+--- Page 2 ---
+9. There has been a steep rise in plagiarism due to  
+a. Increase in publication growth b. Increase in enrolment for research work c. Availability of 
+digital documents d. Use of computers in research  
+Short Answer Type Questions  
+1. State any two objectives of Research.  
+2. Distinguish between qualitative and quantitative Research.  
+3. Write short note on Ex post facto research.  
+4. What do you mean by Research Methods and Research Methodology?  
+5. What do you understand by Sample Design in the Research Process?  
+6. List any 3 components of Research Design.  
+7. Give few examples of Tertiary Sources used in Literature Review.  
+8. What do you mean by Impact factor of journals?  
+9. Define h -index as author level metric.  
+10. Name any 4 plagiarism detection tools.  
+11. How can you ensure that your research report is free from plagiarism before submission?  
+Descriptive type Questions  
+1. What do you mean by Research? Explain its significance in Engineering.  
+2. Explain any 4 basic types of Research.  
+3. Briefly describe the different steps involved in a research process.  
+4. Discuss the criteria for good Research.  
+5. Research is much concerned with proper findings, analysis and evaluation. Do you agree 
+with this statement? Give reasons in support of your answer.  
+6. List and explain the steps involved in the literature review process.  
+7. What do you mean by Plagiarism? Explain at least 5 key practices to help prevent plagiarism.  
+8. What are the primary goals of conducting a literature review in academic research?  
+9. Describe how you will avoid plagiarism in your assignment submissions.  
+10. Give a detailed account on various approaches adopted by researchers in solving problems 
+stated by them.  
+
+--- Page 3 ---
+11. Write a note on Author Metrics and Journal Metrics.  
+MODULE 2  
+Sample Multiple Choice Questions  
+1. Which section of a research paper outlines the specific aims or objectives of the study?  
+a). Abstract b). Introduction c). Methodology  
+2. What does the "methods" section of a research paper primarily describe?  
+a). The findings and results of the study b). The theoretical framework used in the research c). 
+The statistical analysis conducted d). The procedures and techniques employed in the research  
+3. What is the function of the "discussion" section in a research paper?  
+a). To provide a summary of the main points b). To introduce the research topic c). To interpret 
+and analyze the results d). To list the limitations of the study  
+4. What should the "references" section of a research paper contain?  
+a). Personal opinions related to the topic b). Citations of all sources used in the paper c). Only 
+primary sources but no secondary sources d). Random facts about the research area d). 
+Conclusion  
+5. What is the significance of the "Literature Review" section in a thesis?  
+a). To introduce the research topic b). To summarize the entire thesis c). To provide background 
+information and review existing research on the topic d). To list the references used in the thesis  
+6. Which of the following statement is not true -  
+a). Results and discussions follow materials and methods b). Both results and discussions can 
+be written separately c). References should be the latest one, preferably d). You can criticize 
+any previous study if it contrasts yours  
+7. What does the "Significance/Justification" section in a research proposal focus on?  
+a). Outlining the limitations of the study b). Providing background information on the topic c). 
+Explaining the relevance and importance of the proposed research d). Listing references used 
+in the proposal  
+8. Which statement describes the purpose of a research proposal?  
+a. It is an overall plan, structure and strategy designed to obtain answers to the research 
+questions. b. A document for scientific scrutiny for others to judge the appropriateness of the 
+project. c. A reference document to show how the research was carrie d out. d. All of the above  
+9. The proposal should start with ______________.  
+
+--- Page 4 ---
+a. Sampling technique. b. An overview of the main area under study. c. The proposed structure 
+of the report. d. A time frame of the proposed research  
+10. Which of the following is not a function of a research proposal of a study?  
+a. What answers have been found to what is proposed. b. What is proposed to be done in a 
+study. c. How answers will be found to what is proposed. d. Why proposed strategies of 
+investigation are selected  
+Short Answer Type Questions  
+1. Define a research paper briefly.  
+2. What role does the literature review play in a research paper?  
+3. Explain the role of proper referencing in a research paper.  
+4. Define the function of the methodology section in a thesis.  
+Descriptive type Questions  
+1. State and explain at least 8 key reasons why writing research papers is important.  
+2. Explain briefly the steps involved in writing research papers with the help of a flow chart.  
+3. Discuss briefly the different sections in the IMRaD style of writing research article.  
+4. Assume a research topic of your choice and give the complete format of its research report.   
+5. Compare between SYNOPSIS and ABSTRACT in Thesis Writing.  
+6. What do you mean by Thesis Writing? Explain briefly the typical components of a Thesis.  
+7. Briefly explain the common types of research projects.  
+8. Discuss the preliminary requirements for research proposal writing.  
+9. Briefly explain the different standard heads in research proposal writing.  
+10. How do you prepare your project presentation? What are the basic elements of a research 
+proposal?  
+11. Lucidly present the stages for preparation of a research report.  
+12. Explain essential features of report writing highlighting the importance and implication of 
+research outcomes.  
+*****  
+ 
+ 
+
+
+================================================================================
+FILE: QB 3&4.pdf
+================================================================================
+
+--- Page 1 ---
+RMI (22RMI57) Question Bank  
+Module 3  
+Short Answer Type Questions (02 Marks)  
+1. Define ‘Intellectual Property’.  
+2. What are the needs for Intellectual Property Right?  
+3. List the types of IPR in India.  
+4. Name any 4 leading International Instruments concerning Intellectual Property Rights.  
+5. Enlist the features of TRIPS agreement.  
+6. What are the objectives of securing a Patent protection for the inventions.  
+7. What are the conditions of patentability?  
+8. List the patentable subject matters.  
+9. Name any 4 types of Patent Applications.  
+10. List the acts that leads to Patent Infringement?  
+Descriptive Type Questions (8 or 10 marks)  
+1. Trace the relevance of Intellectual Property Rights in the businesses today.  
+2. Explain briefly, the role of Intellectual Property as an effective instrument of Development.  
+3. Briefly discuss the five important types of Intellectual Property in India.  
+4. Discuss in brief any two leading International Instruments concerning Intellectual Property 
+Rights.  
+5. Discuss in brief about TRIPS agreement.  
+6. Discuss the objectives and salient features of National IPR Policy 2016 in India.  
+7. Enumerate the objectives and salient features of Indian Patent Act 1970.  
+8. Discuss the Patentability Criteria in India.  
+9. Write a note on patentable and non -patentable subject matter.  
+10. With the help of flow chart, explain the steps involved in patent granting procedure in India.  
+ 
+ 
+ 
+ 
+ 
+
+--- Page 2 ---
+Module 4  
+Short Answer Type Questions (02 Marks)  
+1. List the FOUR salient features of the Indian Copyright Act 1957.  
+2. Briefly explain the term “copyright”.  
+3. How an author has been defined under the Copyright Act?  
+4. List FOUR acts that are regarded as an infringement of Copyrights.   
+5. Write a note on ‘Term of Copyright’.  
+6. What is the distinction between trade mark and certification mark?  
+7. Explain the term ‘Well -known trade mark’.  
+8. What are the grounds for refusal of registration of a trade mark?  
+9. What actions under the Trade Marks Rules , 2017  constitute infringement of a trade mark?  
+10.What do you mean by Administrative Remedies for Trade mark infringement ? 
+Descriptive type Questions (8 or 10 marks)  
+1. What is Copyright? Explain the classes of works for which copyright protection is available 
+in India.  
+2. How an author has been defined under the Copyright Act 1957? Explain types of rights given 
+to the Author.  
+3. Briefly explain the salient features of the Indian Copyright Act 1957.  
+4. Briefly describe the systematic process for copyright registration in India with a flow chart.  
+5. Enumerate the functions of the copyright board.  
+6. Enumerate the salient features of the Trade Marks Rules , 2017.  
+7. Explain the Absolute Grounds and Relative Grounds for refusal of registration of a trade 
+mark.  
+8. List the exclusive rights conferred by the registration of the Trade Mark on the registered 
+proprietor.  
+9. With a neat flowchart, explain the procedure of registration of Trade Mark in India.  
+10. What do you mean by infringement of registered Trade Mark? Explain the remedies 
+available under the Trade Marks Rules , 2017. 

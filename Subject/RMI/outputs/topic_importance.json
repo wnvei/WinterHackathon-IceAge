@@ -1,0 +1,137 @@
+{
+  "topics": [
+    {
+      "topic": "Research Methodology",
+      "module": "MODULE-1",
+      "question_count": 6,
+      "score": 0,
+      "importance": "HIGH"
+    },
+    {
+      "topic": "Research process",
+      "module": "MODULE-1",
+      "question_count": 1,
+      "score": 0,
+      "importance": "MEDIUM"
+    },
+    {
+      "topic": "Literature Survey, Literature Review",
+      "module": "MODULE-1",
+      "question_count": 3,
+      "score": 0,
+      "importance": "MEDIUM"
+    },
+    {
+      "topic": "Plagiarism",
+      "module": "MODULE-1",
+      "question_count": 4,
+      "score": 0,
+      "importance": "MEDIUM"
+    },
+    {
+      "topic": "Types of research",
+      "module": "MODULE-1",
+      "question_count": 1,
+      "score": 0,
+      "importance": "LOW"
+    },
+    {
+      "topic": "Research process, Criteria of good research.",
+      "module": "MODULE-1",
+      "question_count": 1,
+      "score": 0,
+      "importance": "LOW"
+    },
+    {
+      "topic": "Literature Review",
+      "module": "MODULE-1",
+      "question_count": 1,
+      "score": 0,
+      "importance": "LOW"
+    },
+    {
+      "topic": "Research Paper Writing",
+      "module": "MODULE-2",
+      "question_count": 10,
+      "score": 0,
+      "importance": "HIGH"
+    },
+    {
+      "topic": "Thesis Writing",
+      "module": "MODULE-2",
+      "question_count": 3,
+      "score": 0,
+      "importance": "MEDIUM"
+    },
+    {
+      "topic": "Research Proposal Writing",
+      "module": "MODULE-2",
+      "question_count": 4,
+      "score": 0,
+      "importance": "LOW"
+    },
+    {
+      "topic": "Introduction to Intellectual Property",
+      "module": "MODULE-3",
+      "question_count": 6,
+      "score": 0,
+      "importance": "HIGH"
+    },
+    {
+      "topic": "Patents: Conditions for patent, Non -patentable matters, Inventions Eligible for Patenting , Salient features of the Indian Patent 1970, Process of patenting, Types of patent applications, Patent infringements. Case examples .",
+      "module": "MODULE-3",
+      "question_count": 2,
+      "score": 0,
+      "importance": "MEDIUM"
+    },
+    {
+      "topic": "Patents",
+      "module": "MODULE-3",
+      "question_count": 2,
+      "score": 0,
+      "importance": "MEDIUM"
+    },
+    {
+      "topic": "Case examples",
+      "module": "MODULE-3",
+      "question_count": 1,
+      "score": 0,
+      "importance": "LOW"
+    },
+    {
+      "topic": "Patents: Conditions for patent, Non -patentable matters, Inventions Eligible for Patenting , Salient features of the Indian Patent 1970, Process of patenting, Types of patent applications, Patent infringements. Case examples",
+      "module": "MODULE-3",
+      "question_count": 1,
+      "score": 0,
+      "importance": "LOW"
+    },
+    {
+      "topic": "Copyright",
+      "module": "MODULE-4",
+      "question_count": 4,
+      "score": 0,
+      "importance": "HIGH"
+    },
+    {
+      "topic": "Copyright Infringements",
+      "module": "MODULE-4",
+      "question_count": 1,
+      "score": 0,
+      "importance": "MEDIUM"
+    },
+    {
+      "topic": "Trademark",
+      "module": "MODULE-4",
+      "question_count": 2,
+      "score": 0,
+      "importance": "LOW"
+    },
+    {
+      "topic": "Industrial Designs",
+      "module": "MODULE-5",
+      "question_count": 2,
+      "score": 0,
+      "importance": "HIGH"
+    }
+  ]
+}

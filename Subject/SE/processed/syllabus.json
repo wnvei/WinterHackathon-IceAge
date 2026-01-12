@@ -1,0 +1,92 @@
+{
+  "MODULE -1 PHASES AND LIFE CYCLE MODELS OF SOFTWARE DEVELOPMENT (8 HOURS)": {
+    "Introduction": [
+      "Professional software development"
+    ],
+    "Software engineering": [
+      "ethics and case studies Software processes : Software processes Models"
+    ],
+    "The waterfall model, Incremental development, Integration and configuration": [
+      "The waterfall model, Incremental development, Integration and configuration"
+    ],
+    "Applications": [
+      "Identifying phases and Life cycle models of Software Development Text book 1: Chapter 1: 1.1-1.3 Chapter 2: 2.1"
+    ]
+  },
+  "MODULE -2": {
+    "Software Process activities, Agile software Development and Requirements Analysis (8 hours) Process activities": [
+      "Software specification",
+      "Software design and implementation",
+      "Software validation",
+      "Software evolution"
+    ],
+    "Agile Software development": [
+      "Agile methods",
+      "Agile development techniques",
+      "Extreme Programming",
+      "Agile project Management Software requirements: Functional and non -functional requirements"
+    ],
+    "Requirements engineering Process, Requirement elicitation, Requirement specification, Requirement Validation and management Applications": [
+      "Systematically identifying the requirements and usi ng agile method for software development Text book 1: Chapter 2: 2.2 Chapter 3: 3.1-3.3",
+      "Chapter 4: 4.1 -4.6"
+    ]
+  },
+  "MODULE -3 SYSTEM MODELING(8 HOURS)": {
+    "System models": [
+      "Context models"
+    ],
+    "Interaction models": [
+      "Interaction models"
+    ],
+    "sequence diagram Structured methods": [
+      "sequence diagram Structured methods"
+    ],
+    "class diagram, generalization, Aggregation": [
+      "class diagram, generalization, Aggregation"
+    ],
+    "Behavioral Models -Data driven modeling": [
+      "Behavioral Models -Data driven modeling"
+    ],
+    "Event driven modeling, Model driven engineering Applications": [
+      "Concept learning to develop system models based on software requirements"
+    ],
+    "Text book 1": [
+      "Chapter 5: 5.1 -5.5"
+    ]
+  },
+  "MODULE -4 SOFTWARE DESIGN AND TESTING (8 HOURS)": {
+    "Software Design": [
+      "Object -oriented design using the UML",
+      "Design Patterns",
+      "Implementation Issues"
+    ],
+    "Software testing": [
+      "Development testing",
+      "Test-driven development",
+      "Release testing",
+      "User testing"
+    ],
+    "Applications": [
+      "Selecting the right method for testing software and maintaining the system"
+    ],
+    "Text book 1": [
+      "Chapter 7: 7.1 -7.3 Chapter 8: 8.1 -8.4"
+    ]
+  },
+  "MODULE -5 EVOLUTION OF SOFTWARE AND PROJECT MANAGEMENT (8 HOURS)": {
+    "Software evolution": [
+      "Evolution processes",
+      "Legacy system management"
+    ],
+    "Project management": [
+      "Risk management",
+      "Project planning: Software pricing",
+      "Plan -driven development",
+      "Quality management: Software quality",
+      "Software standards"
+    ],
+    "Web links and Video Lectures (e-Resources)": [
+      " Software Engineering Essentials: https://www.edx.org/course/software -engineering -essentials  Basics to Advanced fundamentals of SE: https://www.udemy.com/the -complete -software -engineering -from -basics -to-advanced/  Agile Software Development: https://www.udemy.com/fundamentals -of-agile -software -development/  Scrum Master Tales: https://www.udemy.com/scrumtalesstoriesfromascrummas tersdiary/  Test your agile and scrum knowledge: https://www.udemy.com/test -your-agile -and-scrum - knowledge/?couponCode=DISCUDEMY.COM"
+    ]
+  }
+}

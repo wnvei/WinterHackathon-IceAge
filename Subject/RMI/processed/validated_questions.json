@@ -1,0 +1,886 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "module": "MODULE-5",
+      "topic": "Industrial Designs",
+      "question": "Discuss briefly registrable and non-registrable designs.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "22RMI57_Model QP-1.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 2,
+      "module": "MODULE-2",
+      "topic": "Research Paper Writing",
+      "question": "State and explain at least 8 key reasons why writing research papers is important.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "22RMI57_Model QP-2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 3,
+      "module": "MODULE-5",
+      "topic": "Industrial Designs",
+      "question": "What is an Industrial Design? Discuss the need for protection of Industrial Designs as IP in India.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "22RMI57_Model QP-2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 4,
+      "module": "MODULE-3",
+      "topic": "Introduction to Intellectual Property",
+      "question": "Explain briefly the need for protection of India’s Traditional Knowledge under Intellectual Property regime.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "22RMI57_Model QP-2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "NOT_FOUND"
+    },
+    {
+      "id": 7,
+      "module": "MODULE-1",
+      "topic": "Research Methodology",
+      "question": "Distinguish between qualitative and quantitative research.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 9,
+      "module": "MODULE-1",
+      "topic": "Research Methodology",
+      "question": "What do you mean by Research Methods and Research Methodology?",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 10,
+      "module": "MODULE-1",
+      "topic": "Research process",
+      "question": "What do you understand by Sample Design in the Research Process?",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 11,
+      "module": "MODULE-1",
+      "topic": "Research Methodology",
+      "question": "List any 3 components of Research Design.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "PARTIAL"
+    },
+    {
+      "id": 13,
+      "module": "MODULE-1",
+      "topic": "Literature Survey, Literature Review",
+      "question": "What do you mean by the impact factor of journals?",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 15,
+      "module": "MODULE-1",
+      "topic": "Plagiarism",
+      "question": "Name any four plagiarism detection tools.",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 16,
+      "module": "MODULE-1",
+      "topic": "Plagiarism",
+      "question": "How can you ensure that your research report is free from plagiarism before submission?",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 18,
+      "module": "MODULE-1",
+      "topic": "Types of research",
+      "question": "Explain any 4 basic types of Research.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 20,
+      "module": "MODULE-1",
+      "topic": "Research process, Criteria of good research.",
+      "question": "Discuss the criteria for good research.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 21,
+      "module": "MODULE-1",
+      "topic": "Research Methodology",
+      "question": "Research is much concerned with proper findings, analysis and evaluation. Do you agree with this statement? Give reasons in support of your answer.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 22,
+      "module": "MODULE-1",
+      "topic": "Literature Review",
+      "question": "List and explain the steps involved in the literature review process.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 23,
+      "module": "MODULE-1",
+      "topic": "Plagiarism",
+      "question": "What do you mean by Plagiarism? Explain at least 5 key practices to help prevent plagiarism.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 24,
+      "module": "MODULE-1",
+      "topic": "Literature Survey, Literature Review",
+      "question": "What are the primary goals of conducting a literature review in academic research?",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 25,
+      "module": "MODULE-1",
+      "topic": "Plagiarism",
+      "question": "Describe how you will avoid plagiarism in your assignment submissions.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 27,
+      "module": "MODULE-1",
+      "topic": "Literature Survey, Literature Review",
+      "question": "Write a note on Author Metrics and Journal Metrics.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 28,
+      "module": "MODULE-2",
+      "topic": "Research Paper Writing",
+      "question": "Which section of a research paper outlines the specific aims or objectives of the study?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "PARTIAL"
+    },
+    {
+      "id": 29,
+      "module": "MODULE-2",
+      "topic": "Research Paper Writing",
+      "question": "What does the \"methods\" section of a research paper primarily describe?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 30,
+      "module": "MODULE-2",
+      "topic": "Research Paper Writing",
+      "question": "What is the function of the \"discussion\" section in a research paper?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "NOT_FOUND"
+    },
+    {
+      "id": 31,
+      "module": "MODULE-2",
+      "topic": "Research Paper Writing",
+      "question": "What should the \"references\" section of a research paper contain?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 32,
+      "module": "MODULE-2",
+      "topic": "Thesis Writing",
+      "question": "What is the significance of the \"Literature Review\" section in a thesis?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 33,
+      "module": "MODULE-2",
+      "topic": "Research Paper Writing",
+      "question": "Which of the following statement is not true: a) Results and discussions follow materials and methods; b) Both results and discussions can be written separately; c) References should be the latest one, preferably; d) You can criticize any previous study if it contrasts yours?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "PARTIAL"
+    },
+    {
+      "id": 34,
+      "module": "MODULE-2",
+      "topic": "Research Proposal Writing",
+      "question": "What does the \"Significance/Justification\" section in a research proposal focus on?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "PARTIAL"
+    },
+    {
+      "id": 36,
+      "module": "MODULE-2",
+      "topic": "Research Paper Writing",
+      "question": "Define a research paper briefly.",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 38,
+      "module": "MODULE-2",
+      "topic": "Research Paper Writing",
+      "question": "Explain the role of proper referencing in a research paper.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 40,
+      "module": "MODULE-2",
+      "topic": "Research Paper Writing",
+      "question": "State and explain at least 8 key reasons why writing research papers is important.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 41,
+      "module": "MODULE-2",
+      "topic": "Research Paper Writing",
+      "question": "Explain briefly the steps involved in writing research papers with the help of a flow chart.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 42,
+      "module": "MODULE-2",
+      "topic": "Research Paper Writing",
+      "question": "Discuss briefly the different sections in the IMRaD style of writing a research article.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 43,
+      "module": "MODULE-1",
+      "topic": "Research Methodology",
+      "question": "Assume a research topic of your choice and give the complete format of its research report.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "PARTIAL"
+    },
+    {
+      "id": 44,
+      "module": "MODULE-2",
+      "topic": "Thesis Writing",
+      "question": "Compare SYNOPSIS and ABSTRACT in thesis writing.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "PARTIAL"
+    },
+    {
+      "id": 45,
+      "module": "MODULE-2",
+      "topic": "Thesis Writing",
+      "question": "What do you mean by Thesis Writing, and explain briefly the typical components of a thesis?",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 47,
+      "module": "MODULE-2",
+      "topic": "Research Proposal Writing",
+      "question": "Discuss the preliminary requirements for research proposal writing.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 48,
+      "module": "MODULE-2",
+      "topic": "Research Proposal Writing",
+      "question": "Briefly explain the different standard heads in research proposal writing.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 49,
+      "module": "MODULE-2",
+      "topic": "Research Proposal Writing",
+      "question": "How do you prepare your project presentation, and what are the basic elements of a research proposal?",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 50,
+      "module": "MODULE-1",
+      "topic": "Research Methodology",
+      "question": "Lucidly present the stages for preparation of a research report.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 51,
+      "module": "MODULE-2",
+      "topic": "Thesis Writing",
+      "question": "Explain essential features of report writing highlighting the importance and implication of research outcomes.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "NOT_FOUND"
+    },
+    {
+      "id": 53,
+      "module": "MODULE-3",
+      "topic": "Introduction to Intellectual Property",
+      "question": "What are the needs for Intellectual Property Right?",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 54,
+      "module": "MODULE-3",
+      "topic": "Introduction to Intellectual Property",
+      "question": "List the types of IPR in India.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 55,
+      "module": "MODULE-3",
+      "topic": "Introduction to Intellectual Property",
+      "question": "Name any four leading international instruments concerning Intellectual Property Rights.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 56,
+      "module": "MODULE-3",
+      "topic": "Introduction to IPR AND PATENTS",
+      "question": "Enlist the features of TRIPS agreement.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "NOT_FOUND"
+    },
+    {
+      "id": 57,
+      "module": "MODULE-3",
+      "topic": "Introduction to Intellectual Property",
+      "question": "What are the objectives of securing patent protection for inventions?",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 58,
+      "module": "MODULE-3",
+      "topic": "Patents: Conditions for patent, Non -patentable matters, Inventions Eligible for Patenting , Salient features of the Indian Patent 1970, Process of patenting, Types of patent applications, Patent infringements. Case examples .",
+      "question": "What are the conditions of patentability?",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 59,
+      "module": "MODULE-3",
+      "topic": "Patents",
+      "question": "List the patentable subject matters.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 60,
+      "module": "MODULE-3",
+      "topic": "Patents",
+      "question": "Name any four types of patent applications.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 61,
+      "module": "MODULE-3",
+      "topic": "Patents: Conditions for patent, Non -patentable matters, Inventions Eligible for Patenting , Salient features of the Indian Patent 1970, Process of patenting, Types of patent applications, Patent infringements. Case examples .",
+      "question": "List the acts that lead to patent infringement.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 62,
+      "module": "MODULE-3",
+      "topic": "Case examples",
+      "question": "Trace the relevance of Intellectual Property Rights in businesses today.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "PARTIAL"
+    },
+    {
+      "id": 64,
+      "module": "MODULE-3",
+      "topic": "Introduction to Intellectual Property",
+      "question": "Briefly discuss the five important types of Intellectual Property in India.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 65,
+      "module": "MODULE-3",
+      "topic": "Introduction to Intellectual Property",
+      "question": "Discuss in brief any two leading International Instruments concerning Intellectual Property Rights.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 71,
+      "module": "MODULE-3",
+      "topic": "Patents: Conditions for patent, Non -patentable matters, Inventions Eligible for Patenting , Salient features of the Indian Patent 1970, Process of patenting, Types of patent applications, Patent infringements. Case examples",
+      "question": "With the help of a flow chart, explain the steps involved in the patent granting procedure in India.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 72,
+      "module": "MODULE-4",
+      "topic": "Copyright",
+      "question": "List the four salient features of the Indian Copyright Act 1957.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 73,
+      "module": "MODULE-4",
+      "topic": "Copyright",
+      "question": "Briefly explain the term “copyright”.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 74,
+      "module": "MODULE-4",
+      "topic": "Copyright",
+      "question": "How has an author been defined under the Copyright Act?",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 75,
+      "module": "MODULE-4",
+      "topic": "Copyright Infringements",
+      "question": "List FOUR acts that are regarded as an infringement of Copyrights.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 79,
+      "module": "MODULE-4",
+      "topic": "Trademark",
+      "question": "What are the grounds for refusal of registration of a trade mark?",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "NOT_FOUND"
+    },
+    {
+      "id": 80,
+      "module": "MODULE-4",
+      "topic": "Trademark",
+      "question": "What actions under the Trade Marks Rules, 2017 constitute infringement of a trade mark?",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 82,
+      "module": "MODULE-4",
+      "topic": "Copyright",
+      "question": "What is copyright, and what are the classes of works for which copyright protection is available in India?",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 86,
+      "module": "MODULE-4",
+      "topic": "Copyright",
+      "question": "Enumerate the functions of the copyright board.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "NOT_FOUND"
+    },
+    {
+      "id": 88,
+      "module": "MODULE-4",
+      "topic": "Trademark",
+      "question": "Explain the absolute grounds and relative grounds for refusal of registration of a trade mark.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "NOT_FOUND"
+    },
+    {
+      "id": 89,
+      "module": "MODULE-4",
+      "topic": "Trademark",
+      "question": "List the exclusive rights conferred by the registration of the Trade Mark on the registered proprietor.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "NOT_FOUND"
+    },
+    {
+      "id": 91,
+      "module": "MODULE-4",
+      "topic": "Trademark",
+      "question": "What do you mean by infringement of a registered trademark? Explain the remedies available under the Trade Marks Rules, 2017.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    }
+  ]
+}

@@ -35,7 +35,7 @@ def analyze_importance():
         topic_map = {}
 
         for q in questions:
-            topic = q.get('final_topic')
+            topic = q.get('topic') or q.get('final_topic')
             module = q.get('module')
             importance = q.get('importance', 'LOW').upper()
             

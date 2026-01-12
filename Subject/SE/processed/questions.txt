@@ -1,0 +1,2587 @@
+
+================================================================================
+FILE: Jan_2025(2022Scheme).pdf
+================================================================================
+
+--- Page 1 ---
+ 
+ 
+ 
+ 
+ 
+Duration : 3 Hrs                           Maximum Marks: 100  
+   
+SOFTWARE ENGINEERING  AND PROJECT MANAGEMENT  
+ 
+Note:   
+1. Part -A is mandatory.  
+2. Answer any five full questions from Part -B choosing at least one from each module.  
+3. Missing data may be suitably assumed.  
+PART -A 
+Q.No.  Question  BL CO PO Marks  
+1 Identify the difference between generic software product 
+development and custom software development?  L3 CO1  PO3 02 
+2 List out phases of software development life cycle (SDLC) . L1 CO1  PO7 02 
+3 Explain stages of software testing.  L2 CO2  PO 02 
+4 Explain  Agile  manifesto.  L2 CO2  PO 02 
+5 Explain  key elements of a sequence diagram.  L2 CO3  PO 02 
+6 Outline  differences between aggregation and generalization.  L2 CO3  PO 02 
+7 Outline common implementation challenges in software design.  L2 CO4  PO 02 
+8 Explain  how test -driven development (TDD) helps in software  
+quality . L2 CO4  PO 02 
+9 List two challenges in managing legacy systems.  L1 CO5  PO 02 
+10 Explain  risk identification with the help of risk item checklist.  L2 CO5  PO 02 
+ PART -B     
+ Module -1     
+1 a) What is Software Engineering? Outline the need for Software 
+Engineering.  L2 CO1  PO1 06 
+b) With sketch, explain  the activity model of the insulin pump 
+control system.  L2 CO1  PO7 05 
+c) Compare and contrast Incremental Model and waterfall model . L4 CO1  PO1 05 
+ OR     
+2 a) Outline the four important attributes of good software and the 
+ethical responsibilities of all software professionals . L2 CO1  PO1 06 
+b) Explain Reuse oriented software engineering.  L2 CO1  PO7 05 
+c) With sketch explain  the water -fall model. Critically analyze 
+advantages and disadvantages of the water -fall model.  L4 CO1  PO1 05 
+ Module -2     
+3 a) Explain the difference between Functional and Non -Functional 
+requirements.  L2 CO2 PO1 06 
+ST JOSEPH ENGINEERING COLLEGE, MANGALURU  
+An Autonomous Institution  
+        Fifth  Semester B.E. Degree  (Autonomous) Examinations January -2025 
+   
+USN:  22CSE5 1 
+
+--- Page 2 ---
+Q.No.  Question  BL CO PO Marks   
+2 | 2 P a g e                                                               22 C S E 5 1 
+  
+ 
+ 
+ 
+ 
+  b) Explain Scrum and demonstrate the sprint cycle of a 
+development process with suitable example.  L2 CO2  PO4 05 
+c) Explain  phases of requirement elicitation.  L2 CO2 PO8 05 
+ OR     
+4 a) Outline the principles of agile methods.  L2 CO2 PO1
+0 06 
+b) Discuss  Requirement Engineering and illustrate the steps 
+involved in its process with suitable example . L6 CO2  PO4 05 
+c) Demonstrate the extreme programming and its release cycle.  L2 CO2 PO7 05 
+ Module -3     
+5 a) Bring out the difference between a context model and a use 
+case model. Explain  how do they complement each other?  L2 CO3  PO3 08 
+b) Identify  the key elements of a sequence diagram, and how do 
+they contribute to understanding system behavior?  L3 CO3  PO4 08 
+ OR     
+6 a) Explain the difference between a ggregation and generalization.  L2 CO3  PO3 08 
+b) What are UML Diagrams? Outline  the main components of an 
+use case  diagram.  L2 CO3  PO4 08 
+ Module -4     
+7 a) Explain five different stages in an object -oriented design 
+process.  L2 CO4  PO3 08 
+b) Illustrate how design models are the bridge between the system 
+requirements and the implementation of a system. Draw a 
+sequence diagram describing data collection of weather 
+information systems and state diagram for the weather station . L3 CO4  PO4 08 
+ OR     
+8 a) What is design pattern? Explain four essential elements of 
+design pattern.  L2 CO4  PO4 08 
+b) Illustrate  the object -oriented design process with an emphasis 
+on its phases as outlined in UML . L3 CO4  PO5 08 
+ Module -5     
+9 a) With appropriate block diagram, explain the software evolution 
+process.  L2 CO5  PO4 08 
+b) What is the need of risk management and explain various 
+activities connected to risk management?  L2 CO5  PO5 08 
+ OR     
+10 a) What are legacy systems? Explain the components of legacy 
+system with neat diagram.  L2 CO5  PO4 08 
+b) Explain the factors considered to assess technical quality of an 
+application system of legacy system management.  L2 CO5  PO5 08 
+
+
+
+================================================================================
+FILE: Mar_Apr_2024(2021Scheme) (4) (2).pdf
+================================================================================
+
+--- Page 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Duration : 3 Hrs          Maximum Marks: 100  
+ 
+SOFTWARE ENGINEERING AND PROJECT MANAGEMENT  
+ 
+Note:   
+1. Part -A is mandatory.  
+2. Answer any five full questions from Part -B choosing at least one from each module.  
+3. Missing data may be suitably assumed.  
+PART -A 
+Q.No.  Question  BL CO PO Marks  
+1 Software Engineering  is L2 1 PO1,
+PO7  1 
+a) Designing a software  b) Testing a software  
+c) Application of engineering 
+principles to the design a 
+software  d) None of the above  
+2 Functional Requirement  L2 2 PO1,
+PO7  1 
+a) specifies the tasks the 
+program must complete  b) specifies the tasks the 
+program should not 
+complete  
+c) specifies the tasks the 
+program must not work  d) All of the mentioned  
+3 Attributes of good software is  L2 1 PO1,
+PO7  1 
+a) Development  b) Maintainability & 
+functionality  
+c) Functionality  d) Maintainability  
+4 Agile Software Development is based on which of the following 
+type L2 2 PO1,
+PO7  1 
+a) Iterative Development  b) Incremental Development  
+c) Both Incremental and 
+Iterative  Development  d) Linear Development  
+5 Which of the following document contains the user system requirements  L2 3 PO3,
+PO4  1 
+a) SRD  b) DDD  
+c) SDD  d) SRS 
+6 The word which describes the importance of software design is?  L2 4 PO4,
+PO5  1 
+a) Complexity  b) Quality  
+c) Efficiency  d) Accuracy  
+7 Unit testing is done by  L2 4 PO4,
+PO5  1 
+a) Users  b) Developers  
+c) Customers  d) None of the above  ST JOSEPH ENGINEERING COLLEGE, MANGALURU  
+An Autonomous Institution  
+     Fifth Semester B.E. Degree (Autonomous) Examinations Mar /Apr -2024  
+   
+USN:  21CSE501  
+
+--- Page 2 ---
+Q.No.  Question  BL CO PO Marks   
+2 | 3P a g e                                                           2 1 C S E 5 0 1  
+ 8 Which Agile practice emphasizes delivering small, incremental 
+improvements to the software?  L2 2 PO1,
+PO7  1 
+a) Sprint planning  b) Continuous integration  
+c) Iterative development  d) Waterfall approach  
+9 Which model is also known as verification and validation model  L2 4 PO4,
+PO5  1 
+a) Waterfall  b) Prototype  
+c) V-model  d) Evolutionary  
+10 What is the primary goal of Agile development?  L2 2 PO1,
+PO7  1 
+a) Comprehensive documentation  b) Following a strict plan  
+c) Responding to change and 
+delivering working software  d) Adhering to a fixed schedule  
+11 What is the key benefit of using Agile development practices?  L2 2 PO1,
+PO7  2 
+12 What is the primary goal of regression testing?  L2 4 PO4,
+PO5  2 
+13 Which phase of the software development life cycle typically involves 
+User Acceptance Testing (UAT)?  Why?  L2 4 PO4,
+PO5  2 
+14 Differentiate  functional and non-functional requirements?  L2 2 PO1,
+PO7  2 
+15 What is the purpose of project planning?  L2 5 PO4,
+PO5  2 
+ PART -B     
+ Module -1     
+1 a) Define Software Engineering. Explain Software Engineering 
+ethics.  L2 1 PO1,
+PO7  8 
+b) With the diagram, Explain the architecture of digital online 
+(Virtual) learning environment for school. Describe the types of 
+services in the system.  L2 1 PO1,
+PO7  8 
+ OR     
+2 a) Explain Incremental development process model with a neat 
+block diagram.  L2 1 PO1,
+PO7  8 
+b) What are the good attributes of software? Explain key 
+challenges faced in software engineering.  L2 1 PO1,
+PO7  8 
+ Module -2     
+3 a) What is requirement specification? Explain various ways of 
+writing system requirements.  L2 2 PO1,
+PO7  8 
+b) What is software design and implementation? Explain the 
+general model of design process with the neat diagram.  L2 2 PO1,
+PO7  8 
+ OR     
+4 a) With the neat diagram explain requirement elicitation and 
+analysis process.  L2 2 PO4,
+PO7  8 
+b) Explain the following : 1) Non -functional requirements with 
+example  
+2) Extreme programming (XP)  L2 2 PO4,
+PO7  8 
+ Module -3     
+5 a) Describe interaction model with example.  L2 3 PO3,
+PO4  8 
+b) Draw and explain state diagram for the microwave oven.  L2 3 PO3,
+PO4  8 
+
+--- Page 3 ---
+Q.No.  Question  BL CO PO Marks   
+3 | 3P a g e                                                           2 1 C S E 5 0 1  
+  
+ 
+  OR     
+6 a) Explain with neat diagram three types of abstract system model 
+recommended by model driven engineering.  L2 3 PO3,
+PO4  8 
+b) Draw and explain sequence diagram with example to view 
+patient information.  L2 3 PO3,
+PO4  8 
+ Module -4     
+7 a) Describe the three different types of user testing.  L2 4 PO4,
+PO5  8 
+b) Explain four elements of design pattern.  L2 4 PO4,
+PO5  8 
+ OR     
+8 a) With the neat diagram explain the test driven development 
+process and its benefits.  L2 4 PO4,
+PO5  8 
+b) What  is component testing? What are the different types of 
+interface to be tested during component testing? Explain.  L2 4 PO4,
+PO5  8 
+ Module -5     
+9 a) What are the strategic opinions involved in legacy system 
+management? Explain the factors affecting software pricing?  L2 5 PO4,
+PO5  8 
+b) Discuss software quality and its attributes. Explain process 
+based quality.  L2 5 PO4,
+PO5  8 
+ OR     
+10 a) Discuss project plan. Explain sections of project plan  L2 5 PO4,
+PO5  8 
+b) Describe risk identification with the help of risk item checklist.  L2 5 PO4,
+PO5  8 
+
+
+
+================================================================================
+FILE: SEPM Questions.pdf
+================================================================================
+
+--- Page 1 ---
+1. List and explain any 4 system perspectives in system modeling  
+2. Demonstrate scenario testing with an example.  
+3. Explain user testing? List 3 types.  
+4. Explain the different types of UML Diagrams.  
+5. Illustrate what is event driven modeling.  
+6. Explain sequence diagram with the help of an example  
+7. What is event -driven modeling. Show a simple diagram of state model for microwave oven operation  
+8. Illustrate class diagrams with the help of an example diagram. How effective is it in system modelin g? 
+9. Explain behavioural models. Draw a simple activity model of the insulin pump’s operation  
+10. Compare software inspection and software testing. Model the software testing process with 
+a diagram.  
+11. Explain the Observer design pattern in detail.  
+12. W hat is test -driven development (TDD)? Identify the activities and benefits of TDD  
+13. What is release testing? How does it differ from system testing.  
+14. Explain aggregation and generalization in System Modeling.  
+15. Compare state diagram and activity dia gram types.  
+16. What is system modeling? Explain the role of use case diagrams.  
+17. Demonstrate scenario testing with an example  
+18. What is a design model. Show the 2 types of design models.  
+20. What are the key elements of a Sequence Diagram? Explain how  they contribute to 
+understanding system behavior with a Sequence Diagram for “View Patient Information.”  
+ 
+21. Illustrate the concept of Model Driven Engineering. What are its benefits and challenges?  
+22. Explain the difference between a context model and a use case model. How do they complement 
+each other?  
+22. What is test -driven development (TDD)? Illustrate with an example how test -driven development 
+(TDD) helps improve code reliability.  
+23. What is a design pattern? Identify the four essential elements of design patterns. Outline any 4 
+patterns used in design problems  
+24. What is Component Testing? Outline the different types of interface errors that can occur. Also list 
+interface testing guidelines  
+25. What is user testing? Examine the six stages of acceptance testing    
+ process with a neat diagram.  
+ 
+
+
+================================================================================
+FILE: SEP_22CSE51_QUESTION_BANK.docx.pdf
+================================================================================
+
+--- Page 1 ---
+Module-1
+ 
+ 
+1.
+ 
+What
+ 
+is
+ 
+Software
+ 
+Engineering?
+ 
+Briefly
+ 
+discuss
+ 
+the
+ 
+need
+ 
+for
+ 
+Software
+ 
+Engineering.
+ 
+2.
+ 
+Discuss
+ 
+the
+ 
+four
+ 
+important
+ 
+attributes
+ 
+of
+ 
+good
+ 
+software
+ 
+and
+ 
+ethical
+ 
+responsibilities
+ 
+that
+ 
+all
+ 
+software
+ 
+professionals
+ 
+should
+ 
+have.
+ 
+3.
+ 
+List
+ 
+out
+ 
+the
+ 
+difference
+ 
+between
+ 
+generic
+ 
+and
+ 
+customized
+ 
+products
+ 
+4.
+ 
+What
+ 
+is
+ 
+the
+ 
+difference
+ 
+between
+ 
+Software
+ 
+Engineering
+ 
+and
+ 
+Computer
+ 
+Science?.
+ 
+ 
+5.
+ 
+Compare
+ 
+the
+ 
+terms
+ 
+Software
+ 
+Engineering
+ 
+and
+ 
+System
+ 
+Engineering
+ 
+6.
+ 
+Explain
+ 
+in
+ 
+brief
+ 
+about
+ 
+web-based
+ 
+software
+ 
+engineering
+ 
+methods
+ 
+and
+ 
+tools
+ 
+used.
+ 
+7.
+ 
+Briefly
+ 
+explain
+ 
+the
+ 
+4
+ 
+fundamental
+ 
+activities
+ 
+common
+ 
+to
+ 
+all
+ 
+software
+ 
+process?
+ 
+ 
+8.
+ 
+Explain
+ 
+the
+ 
+essential
+ 
+attributes
+ 
+of
+ 
+good
+ 
+software.
+ 
+9.
+ 
+With
+ 
+a
+ 
+neat
+ 
+diagram,
+ 
+explain
+ 
+the
+ 
+activity
+ 
+model
+ 
+of
+ 
+the
+ 
+insulin
+ 
+pump
+ 
+control
+ 
+system.
+ 
+10.
+ 
+What
+ 
+are
+ 
+some
+ 
+general
+ 
+issues
+ 
+facing
+ 
+software
+ 
+engineering?
+ 
+ 
+11.
+ 
+What
+ 
+are
+ 
+the
+ 
+different
+ 
+application
+ 
+types?
+ 
+12.
+ 
+What
+ 
+is
+ 
+the
+ 
+rationale
+ 
+for
+ 
+the
+ 
+ACM/IEEE
+ 
+code
+ 
+of
+ 
+ethics?
+ 
+List
+ 
+any
+ 
+5
+ 
+ethical
+ 
+principles.
+ 
+13.
+ 
+Explain
+ 
+about
+ 
+the
+ 
+4
+ 
+issues
+ 
+of
+ 
+professional
+ 
+responsibility .
+ 
+14.
+ 
+Discuss
+ 
+the
+ 
+reasons
+ 
+why
+ 
+software
+ 
+projects
+ 
+fail.
+ 
+Also
+ 
+explain
+ 
+about
+ 
+software
+ 
+costs.
+ 
+15.
+ 
+Give
+ 
+two
+ 
+examples
+ 
+of
+ 
+ethical
+ 
+dilemmas.
+ 
+16.
+ 
+What
+ 
+differences
+ 
+has
+ 
+the
+ 
+web
+ 
+made
+ 
+to
+ 
+software
+ 
+engineering?
+ 
+17.
+ 
+Describe
+ 
+any
+ 
+two
+ 
+concerns
+ 
+of
+ 
+a
+ 
+software
+ 
+system
+ 
+for
+ 
+mental
+ 
+health
+ 
+care.
+ 
+ 
+ 
+ 
+ 
+Module-2
+ 
+ 
+1.
+ 
+List
+ 
+two
+ 
+types
+ 
+of
+ 
+reusable
+ 
+software.
+ 
+2.
+ 
+What
+ 
+are
+ 
+the
+ 
+advantages
+ 
+and
+ 
+disadvantages
+ 
+of
+ 
+reuse
+ 
+oriented
+ 
+software.
+ 
+3.
+ 
+Discuss
+ 
+in
+ 
+detail
+ 
+the
+ 
+Waterfall
+ 
+Model
+ 
+with
+ 
+the
+ 
+help
+ 
+of
+ 
+a
+ 
+neat
+ 
+diagram.
+ 
+Write
+ 
+down
+ 
+the
+ 
+advantages
+ 
+and
+ 
+disadvantages
+ 
+of
+ 
+the
+ 
+waterfall
+ 
+model.
+ 
+4.
+ 
+With
+ 
+a
+ 
+neat
+ 
+block
+ 
+diagram
+ 
+explain
+ 
+Incremental
+ 
+Model.
+ 
+How
+ 
+does
+ 
+it
+ 
+overcome
+ 
+the
+ 
+problem
+ 
+of
+ 
+the
+ 
+waterfall
+ 
+model.
+ 
+5.
+ 
+In
+ 
+general,
+ 
+explain
+ 
+what
+ 
+are
+ 
+the
+ 
+different
+ 
+processes
+ 
+involved
+ 
+in
+ 
+developing
+ 
+software.
+ 
+6.
+ 
+What
+ 
+are
+ 
+the
+ 
+different
+ 
+software
+ 
+process
+ 
+models?
+ 
+Explain
+ 
+any
+ 
+two..
+ 
+7.
+ 
+Discuss
+ 
+in
+ 
+detail
+ 
+the
+ 
+incremental
+ 
+development
+ 
+model
+ 
+with
+ 
+the
+ 
+help
+ 
+of
+ 
+a
+ 
+neat
+ 
+diagram.
+ 
+Write
+ 
+down
+ 
+the
+ 
+advantages
+ 
+and
+ 
+disadvantages
+ 
+of
+ 
+the
+ 
+model.
+ 
+8.
+ 
+Explain
+ 
+Reuse-oriented
+ 
+software
+ 
+engineering
+ 
+with
+ 
+the
+ 
+help
+ 
+of
+ 
+a
+ 
+diagram.
+ 
+9.
+ 
+With
+ 
+a
+ 
+diagram
+ 
+explain
+ 
+the
+ 
+requirements
+ 
+engineering
+ 
+process.
+ 
+10.
+ 
+Explain
+ 
+about
+ 
+the
+ 
+four
+ 
+common
+ 
+design
+ 
+activities.
+ 
+11.
+ 
+What
+ 
+do
+ 
+you
+ 
+understand
+ 
+about
+ 
+software
+ 
+design
+ 
+and
+ 
+implementation?
+ 
+Explain.
+ 
+12.
+ 
+Explain
+ 
+process
+ 
+improvement
+ 
+cycle
+ 
+and
+ 
+activities
+ 
+with
+ 
+the
+ 
+help
+ 
+of
+ 
+a
+ 
+diagram.
+ 
+13.
+ 
+With
+ 
+a
+ 
+neat
+ 
+diagram
+ 
+explain
+ 
+the
+ 
+testing
+ 
+phases
+ 
+in
+ 
+a
+ 
+plan-driven
+ 
+software
+ 
+process
+ 
+(V-model)
+ 
+14.
+ 
+Explain
+ 
+system
+ 
+evolution
+ 
+process
+ 
+with
+ 
+a
+ 
+diagram.
+ 
+15.
+ 
+List
+ 
+the
+ 
+3
+ 
+stages
+ 
+of
+ 
+testing
+ 
+.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- Page 2 ---
+1.
+ 
+What
+ 
+are
+ 
+the
+ 
+principles
+ 
+of
+ 
+agile
+ 
+methods?
+ 
+Explain.
+ 
+2.
+ 
+With
+ 
+the
+ 
+help
+ 
+of
+ 
+a
+ 
+diagram
+ 
+explain
+ 
+the
+ 
+extreme
+ 
+programming
+ 
+release
+ 
+cycle.
+ 
+3.
+ 
+List
+ 
+and
+ 
+explain
+ 
+any
+ 
+5
+ 
+extreme
+ 
+programming
+ 
+practices.
+ 
+4.
+ 
+Explain
+ 
+the
+ 
+following:
+ 
+i.
+ 
+Refactoring
+ 
+ii.
+ 
+User
+ 
+stories
+ 
+iii.
+ 
+Test
+ 
+driven
+ 
+development
+ 
+5.
+ 
+What
+ 
+are
+ 
+the
+ 
+phases
+ 
+of
+ 
+Scrum?
+ 
+Also
+ 
+list
+ 
+some
+ 
+of
+ 
+the
+ 
+benefits
+ 
+of
+ 
+scrum
+ 
+6.
+ 
+Where
+ 
+are
+ 
+agile
+ 
+methods
+ 
+used
+ 
+and
+ 
+why?
+ 
+7.
+ 
+Explain
+ 
+with
+ 
+the
+ 
+help
+ 
+of
+ 
+a
+ 
+diagram,
+ 
+the
+ 
+scrum
+ 
+sprint
+ 
+cycle.
+ 
+8.
+ 
+List
+ 
+and
+ 
+explain
+ 
+5
+ 
+agile
+ 
+principles
+ 
+in
+ 
+organisational
+ 
+practice.
+ 
+9.
+ 
+Explain
+ 
+what
+ 
+is
+ 
+meant
+ 
+by
+ 
+test
+ 
+automation.
+ 
+10.
+ 
+Explain
+ 
+what
+ 
+is
+ 
+meant
+ 
+by
+ 
+user
+ 
+stories
+ 
+for
+ 
+software
+ 
+requirements.
+ 
+Give
+ 
+a
+ 
+simple
+ 
+example.
+ 
+11.
+ 
+Explain
+ 
+refactoring
+ 
+with
+ 
+the
+ 
+help
+ 
+of
+ 
+examples.
+ 
+12.
+ 
+Outline
+ 
+the
+ 
+role
+ 
+of
+ 
+scrum
+ 
+master
+ 
+in
+ 
+scrum.
+ 
+ 
+ 
+Module-3
+ 
+1.
+     
+Explain
+ 
+the
+ 
+difference
+ 
+between
+ 
+a
+ 
+context
+ 
+model
+ 
+and
+ 
+a
+ 
+use
+ 
+case
+ 
+model.
+ 
+How
+ 
+do
+ 
+they
+ 
+complement
+ 
+each
+ 
+other?
+ 
+2.What
+ 
+is
+ 
+aggregation
+ 
+and
+ 
+generalization?
+ 
+3.What
+ 
+is
+ 
+system
+ 
+modeling?
+ 
+Discuss
+ 
+the
+ 
+use
+ 
+of
+ 
+class
+ 
+diagrams?
+ 
+4.What
+ 
+are
+ 
+UML
+ 
+Diagrams?
+ 
+What
+ 
+are
+ 
+the
+ 
+main
+ 
+components
+ 
+in
+ 
+an
+ 
+use
+ 
+case?
+ 
+5.Compare:
+ 
+state
+ 
+diagram
+ 
+and
+ 
+an
+ 
+activity
+ 
+diagram.
+ 
+6.What
+ 
+are
+ 
+the
+ 
+key
+ 
+elements
+ 
+of
+ 
+a
+ 
+sequence
+ 
+diagram,
+ 
+and
+ 
+how
+ 
+do
+ 
+they
+ 
+contribute
+ 
+to
+ 
+understanding
+ 
+system
+ 
+behavior?
+ 
+7.With
+ 
+a
+ 
+neat
+ 
+diagram,
+ 
+explain
+ 
+class
+ 
+diagram.How
+ 
+effective
+ 
+is
+ 
+it
+ 
+in
+ 
+system
+ 
+modeling?
+ 
+8.What
+ 
+are
+ 
+Use
+ 
+case
+ 
+diagrams.Explain
+ 
+with
+ 
+an
+ 
+example.
+ 
+ 
+9.Explain
+ 
+the
+ 
+concept
+ 
+of
+ 
+Model
+ 
+Driven
+ 
+Engineering
+ 
+concept.What
+ 
+are
+ 
+its
+ 
+benefits
+ 
+and
+ 
+   
+challenges?
+ 
+10.
+ 
+Explain
+ 
+the
+ 
+difference
+ 
+between
+ 
+a
+ 
+system
+ 
+model
+ 
+and
+ 
+a
+ 
+context
+ 
+model.
+ 
+11.
+ 
+What
+ 
+is
+ 
+event-driven
+ 
+modeling,
+ 
+and
+ 
+why
+ 
+is
+ 
+it
+ 
+used
+ 
+in
+ 
+certain
+ 
+types
+ 
+of
+ 
+systems?
+ 
+12.
+ 
+Draw
+ 
+a
+ 
+simple
+ 
+class
+ 
+diagram
+ 
+for
+ 
+a
+ 
+school
+ 
+system,
+ 
+including
+ 
+classes
+ 
+like
+ 
+"Student"
+ 
+and
+ 
+"Teacher.
+ 
+13.Explain
+ 
+behavioural
+ 
+model
+ 
+and
+ 
+its
+ 
+types
+ 
+with
+ 
+real
+ 
+world
+ 
+examples.
+ 
+14.Explain
+ 
+the
+ 
+concept
+ 
+and
+ 
+components
+ 
+of
+ 
+a
+ 
+sequence
+ 
+diagram
+ 
+in
+ 
+UML
+ 
+using
+ 
+an
+ 
+Online
+ 
+payment
+ 
+system..
+ 
+—---------------------------------------------------------------------------------------------------------------------
+ 
+ 
+
+--- Page 3 ---
+ 
+ 
+Module-4
+ 
+ 
+1.
+ 
+Explain
+ 
+five
+ 
+different
+ 
+stages
+ 
+in
+ 
+an
+ 
+object-oriented
+ 
+design
+ 
+process.
+ 
+2.
+ 
+Draw
+ 
+the
+ 
+use
+ 
+case
+ 
+of
+ 
+a
+ 
+weather
+ 
+station
+ 
+and
+ 
+explain
+ 
+the
+ 
+use
+ 
+case
+ 
+description
+ 
+3.
+ 
+Define
+ 
+software
+ 
+reuse
+ 
+and
+ 
+explain
+ 
+its
+ 
+levels
+ 
+(abstraction,
+ 
+object,
+ 
+component,
+ 
+system).
+ 
+4.
+ 
+Illustrate
+ 
+how
+ 
+design
+ 
+models
+ 
+are
+ 
+the
+ 
+bridge
+ 
+between
+ 
+the
+ 
+system
+ 
+requirements
+ 
+and
+ 
+the
+ 
+implementation
+ 
+of
+ 
+a
+ 
+system.
+ 
+Draw
+ 
+a
+ 
+sequence
+ 
+diagram
+ 
+describing
+ 
+data
+ 
+collection
+ 
+of
+ 
+weather
+ 
+information
+ 
+systems
+ 
+and
+ 
+state
+ 
+diagram
+ 
+for
+ 
+the
+ 
+weather
+ 
+station.
+ 
+5.
+ 
+What
+ 
+is
+ 
+design
+ 
+pattern?
+ 
+Explain
+ 
+four
+ 
+essential
+ 
+elements
+ 
+of
+ 
+design
+ 
+pattern.
+ 
+6.
+ 
+Describe
+ 
+the
+ 
+Observer
+ 
+pattern
+ 
+with
+ 
+an
+ 
+example.
+ 
+7.
+ 
+Explain
+ 
+the
+ 
+various
+ 
+aspects
+ 
+of
+ 
+implementation
+ 
+that
+ 
+are
+ 
+particularly
+ 
+important
+ 
+to
+ 
+software
+ 
+engineering
+ 
+8.
+ 
+What
+ 
+is
+ 
+host-tar get
+ 
+development?
+ 
+Why
+ 
+is
+ 
+it
+ 
+needed?
+ 
+9.
+ 
+What
+ 
+is
+ 
+configuration
+ 
+management?
+ 
+Explain
+ 
+its
+ 
+four
+ 
+fundamental
+ 
+activities.
+ 
+10.
+ 
+What
+ 
+is
+ 
+development
+ 
+testing?
+ 
+How
+ 
+is
+ 
+it
+ 
+different
+ 
+from
+ 
+debugging?
+ 
+11.
+ 
+Differentiate
+ 
+between
+ 
+i.
+ 
+Validation
+ 
+and
+ 
+verification.
+ 
+ii.
+ 
+Black
+ 
+Box
+ 
+testing
+ 
+and
+ 
+White
+ 
+Box
+ 
+testing
+ 
+with
+ 
+an
+ 
+example
+ 
+iii.
+ 
+Software
+ 
+inspection
+ 
+and
+ 
+Testing
+ 
+iv.
+ 
+Alpha
+ 
+testing
+ 
+and
+ 
+beta
+ 
+testing
+ 
+12.
+ 
+Explain
+ 
+the
+ 
+software
+ 
+testing
+ 
+process
+ 
+13.
+ 
+Explain
+ 
+component
+ 
+testing?
+ 
+14.
+ 
+What
+ 
+is
+ 
+system
+ 
+testing?
+ 
+How
+ 
+does
+ 
+it
+ 
+differ
+ 
+from
+ 
+component
+ 
+testing?
+ 
+15.
+ 
+Explain
+ 
+requirements-based
+ 
+testing
+ 
+with
+ 
+an
+ 
+example.
+ 
+16.
+ 
+What
+ 
+is
+ 
+scenario
+ 
+testing?
+ 
+Explain
+ 
+with
+ 
+an
+ 
+example.
+ 
+17.
+ 
+Explain
+ 
+the
+ 
+six
+ 
+stages
+ 
+of
+ 
+acceptance
+ 
+testing
+ 
+process
+ 
+18.
+ 
+What
+ 
+is
+ 
+user
+ 
+testing?
+ 
+Why
+ 
+is
+ 
+it
+ 
+important?
+ 
+19.
+ 
+What
+ 
+is
+ 
+release
+ 
+testing?
+ 
+How
+ 
+does
+ 
+it
+ 
+differ
+ 
+from
+ 
+development
+ 
+testing?
+ 
+20.
+ 
+Explain
+ 
+test
+ 
+driven
+ 
+software
+ 
+development
+ 
+with
+ 
+a
+ 
+neat
+ 
+diagram
+ 
+and
+ 
+its
+ 
+benefits
+ 
+ 
+ 
+ 
+ 
+Module-5
+ 
+ 
+1.
+ 
+What
+ 
+are
+ 
+legacy
+ 
+systems?
+ 
+Explain
+ 
+the
+ 
+components
+ 
+of
+ 
+legacy
+ 
+system
+ 
+with
+ 
+neat
+ 
+diagram.
+ 
+2.
+ 
+Explain
+ 
+about
+ 
+the
+ 
+layers
+ 
+of
+ 
+a
+ 
+legacy
+ 
+system
+ 
+with
+ 
+a
+ 
+diagram.
+ 
+3.
+ 
+Explain
+ 
+the
+ 
+project
+ 
+planning
+ 
+process
+ 
+with
+ 
+the
+ 
+help
+ 
+of
+ 
+a
+ 
+neat
+ 
+diagram.
+ 
+4.
+ 
+What
+ 
+is
+ 
+software
+ 
+pricing?
+ 
+List
+ 
+and
+ 
+briefly
+ 
+explain
+ 
+the
+ 
+factors
+ 
+affecting
+ 
+software
+ 
+pricing.
+ 
+5.
+ 
+What
+ 
+are
+ 
+the
+ 
+risks
+ 
+involved
+ 
+for
+ 
+legacy
+ 
+system
+ 
+replacement.
+ 
+Explain
+ 
+any
+ 
+5.
+ 
+6.
+ 
+Describe
+ 
+risk
+ 
+identification
+ 
+with
+ 
+the
+ 
+help
+ 
+of
+ 
+risk
+ 
+item
+ 
+checklist.
+ 
+
+--- Page 4 ---
+7.
+ 
+Briefly
+ 
+explain
+ 
+about
+ 
+different
+ 
+categories
+ 
+of
+ 
+risks
+ 
+in
+ 
+risk
+ 
+management.
+ 
+8.
+ 
+What
+ 
+is
+ 
+the
+ 
+need
+ 
+of
+ 
+Risk
+ 
+Management
+ 
+and
+ 
+explain
+ 
+various
+ 
+activities
+ 
+connected
+ 
+to
+ 
+Risk
+ 
+Management?
+ 
+9.
+ 
+Explain
+ 
+the
+ 
+product
+ 
+and
+ 
+process
+ 
+standards
+ 
+in
+ 
+software
+ 
+quality
+ 
+management.
+ 
+10.
+ 
+Explain
+ 
+the
+ 
+software
+ 
+evolution
+ 
+process
+ 
+with
+ 
+a
+ 
+neat
+ 
+diagram.
+ 
+11.
+ 
+Explain
+ 
+the
+ 
+four
+ 
+strategic
+ 
+options
+ 
+of
+ 
+legacy
+ 
+system
+ 
+management.
+ 
+12.
+ 
+Draw
+ 
+a
+ 
+chart
+ 
+showing
+ 
+relative
+ 
+business
+ 
+value
+ 
+and
+ 
+system
+ 
+quality
+ 
+of
+ 
+legacy
+ 
+system
+ 
+management
+ 
+and
+ 
+explain
+ 
+four
+ 
+clusters
+ 
+of
+ 
+systems.
+ 
+13.
+ 
+Explain
+ 
+the
+ 
+factors
+ 
+considered
+ 
+to
+ 
+assess
+ 
+technical
+ 
+quality
+ 
+of
+ 
+an
+ 
+application
+ 
+system
+ 
+of
+ 
+legacy
+ 
+system
+ 
+management.
+ 
+ 
+
+--- Page 5 ---
+ 
+ 
+ 
+ 

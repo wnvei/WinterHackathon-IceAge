@@ -8,88 +8,94 @@ def parse_syllabus_hierarchical(text: str) -> dict:
     syllabus = {}
     lines = text.split('\n')
     clean_lines = []
+    
+    # Pre-processing: Remove obvious noise and document headers
     for line in lines:
         l = line.strip()
         if not l or l.startswith('--- Page') or l.startswith('FILE:') or l.startswith('====='):
             continue
-        if re.match(r'Chapter\s+\d+:', l, re.IGNORECASE):
+        # Skip common headers that aren't content
+        if re.match(r'^(Chapter|Section)\s+\d+:', l, re.IGNORECASE):
             continue
         clean_lines.append(l)
     
     clean_text = " ".join(clean_lines)
     clean_text = re.sub(r'\s+', ' ', clean_text) 
     
-
-    module_pattern = r'(Module\s*[-–]?\s*\d+|Unit\s*\d+)'
+    # Universal Module/Unit pattern
+    module_pattern = r'(Module\s*[-–]?\s*[IVX\d]+|Unit\s*[IVX\d]+|PART\s*[IVX\d]+)'
     
+    # Stop words for ending syllabus extraction
     stop_words = [
-        r'A–Demonstration',
-        r'B–Exercise',
-        r'C–Structured Enquiry',
-        r'D–Open Ended Experiments',
         r'Course Outcomes:', 
         r'Articulation Matrix', 
         r'Textbooks?', 
         r'Reference Books?', 
-        r'Suggested Learning Resources'
+        r'Suggested Learning Resources',
+        r'Self Learning Component',
+        r'Laboratory Experiments',
+        r'Tutorials?'
     ]
+    
     for stop_word in stop_words:
         stop_match = re.search(stop_word, clean_text, re.IGNORECASE)
         if stop_match:
             clean_text = clean_text[:stop_match.start()]
             break
             
-    # Get all start positions of modules
-    starts = [m.start() for m in re.finditer(module_pattern, clean_text, re.IGNORECASE)]
+    # Find all module starts
+    matches = list(re.finditer(module_pattern, clean_text, re.IGNORECASE))
     
-    for i in range(len(starts)):
-        end = starts[i+1] if i+1 < len(starts) else len(clean_text)
-        block = clean_text[starts[i]:end].strip()
+    if not matches:
+        # Fallback: Treat the whole thing as one module if no structure found
+        matches = [re.match(r'^', clean_text)] # Dummy match at start
+    
+    for i, match in enumerate(matches):
+        start = match.start()
+        end = matches[i+1].start() if i+1 < len(matches) else len(clean_text)
+        block = clean_text[start:end].strip()
         
         # Split block into Header and Content
-        module_match = re.search(module_pattern, block, re.IGNORECASE)
-        header_end = module_match.end()
+        # Typically Header ends with "hours)" or a colon, or after the module name itself
+        header_match = re.search(module_pattern, block, re.IGNORECASE)
+        if not header_match: continue
         
-        # Look for "(0X hours)"
-        hours_match = re.search(r'\(\s*\d+\s*hours\s*\)', block, re.IGNORECASE)
+        header_end = header_match.end()
         
-        if hours_match:
+        # Look for "(0X hours)" or similar hour decorations
+        hours_match = re.search(r'\(\s*\d+\s*(hours|hrs)\s*\)', block, re.IGNORECASE)
+        if hours_match and hours_match.start() < header_end + 100:
             header_end = hours_match.end()
         else:
-            # Fallback for modules without hours: look for first colon
-            first_colon = block.find(':')
-            if first_colon != -1:
-                header_end = min(header_end + 40, first_colon)
-            else:
-                header_end = min(len(block), header_end + 40)
-             
-        # Extract Module Header
-        module_header = block[:header_end].strip()
+            # Look for the first major separator after the header
+            first_sep = re.search(r'[:\-–]', block[header_end:header_end+50])
+            if first_sep:
+                header_end += first_sep.end()
+              
+        module_header = block[:header_end].strip().strip(':').strip('-').strip()
         module_content = block[header_end:].strip()
         
-        # If the first topic is merged into header (no colon yet), 
-        # try to split if we see a clear topic-like start
-        if module_content and not module_content.startswith((':', ';')):
-            # If the first word of content is capitalized and followed by colon later
-            pass
+        # If header is too long, it probably leaked content
+        if len(module_header) > 100:
+             module_header = block[:header_match.end()].strip()
+             module_content = block[header_match.end():].strip()
 
         topics_dict = {}
         
-        # Split module content into segments by semicolon or period (if not in middle of word)
-        segments = re.split(r';|\.\s+(?=[A-Z])', module_content)
+        # Robust topic splitting: Semicolons are best, then periods followed by Capitalized words
+        # Also handle numbered lists like 1. Topic 2. Topic
+        segments = re.split(r';|\.\s+(?=[A-Z])|\d+\.\s+(?=[A-Z])', module_content)
         
         for segment in segments:
             segment = segment.strip()
-            # Filter out segments that start with/are just "Textbook" or "Chapter"
-            if not segment or len(segment) < 3:
+            if not segment or len(segment) < 4:
                 continue
-            if re.match(r'^(Textbook|Chapter|Ref)\b', segment, re.IGNORECASE):
-                continue
-                
-            # Remove trailing periods and leaked textbook references from within the text
-            segment = segment.rstrip('.')
-            segment = re.sub(r'\s*Textbook\s*\d+.*$', '', segment, flags=re.IGNORECASE).strip()
             
+            # Remove trailing punctuation and common artifacts
+            segment = segment.rstrip('.').rstrip(',')
+            segment = re.sub(r'\(Ref:.*?\)', '', segment, flags=re.IGNORECASE).strip()
+            segment = re.sub(r'Textbook\s*\d+.*$', '', segment, flags=re.IGNORECASE).strip()
+
             if not segment: continue
 
             # Check for "Topic: Subtopic1, Subtopic2"
@@ -97,25 +103,30 @@ def parse_syllabus_hierarchical(text: str) -> dict:
                 parts = segment.split(':', 1)
                 topic_name = parts[0].strip()
                 subtopics_str = parts[1].strip()
-                if re.match(r'^(Textbook|Chapter)\b', topic_name, re.IGNORECASE):
-                    continue
-                subtopics = []
-                for s in subtopics_str.split(','):
-                    s_clean = s.strip()
-                    # Skip if subtopic is just a number or textbook ref
-                    if s_clean and not re.match(r'^\d+$', s_clean) and not re.search(r'Textbook|Chapter', s_clean, re.IGNORECASE):
-                        subtopics.append(s_clean)
                 
-                if subtopics:
+                # If topic name is just a common word like "Chapter", skip or merge
+                if re.match(r'^(Topic|Chapter|Lesson|Unit)\b', topic_name, re.IGNORECASE):
+                    # Try to use the first subtopic as the name
+                    sub_parts = [s.strip() for s in subtopics_str.split(',') if s.strip()]
+                    if sub_parts:
+                        topic_name = sub_parts[0]
+                        subtopics = sub_parts
+                    else:
+                        continue
+                else:
+                    subtopics = [s.strip() for s in subtopics_str.split(',') if s.strip()]
+                
+                if topic_name and subtopics:
                     topics_dict[topic_name] = subtopics
             else:
-                # If it's a long segment without a colon, it's just a topic
-                # Filter out generic page-leaked chapters or textbook headers
-                if not re.search(r'Textbook|Chapter', segment, re.IGNORECASE):
+                # Direct topic
+                if not re.search(r'^(Textbook|Reference|Author|Publisher)', segment, re.IGNORECASE):
                     topics_dict[segment] = [segment]
         
         if topics_dict:
-            syllabus[module_header] = topics_dict
+            # Normalize module header for key consistency
+            norm_header = re.sub(r'\s+', ' ', module_header).upper()
+            syllabus[norm_header] = topics_dict
                 
     return syllabus
 
@@ -133,43 +144,45 @@ def main():
     base_dir = Path(__file__).parent.parent
     data_dir = base_dir / "Subject"
     
-    # Check for targeted subject argument
     target_subject = sys.argv[1] if len(sys.argv) > 1 else None
 
     if not data_dir.exists():
         print(f"Error: Data directory not found at {data_dir}")
         exit(1)
     
+    subjects_found = 0
     for subject_dir in data_dir.iterdir():
         if not subject_dir.is_dir():
             continue
         
-        # If a target subject is specified, skip others
         if target_subject and subject_dir.name.lower() != target_subject.lower():
             continue
 
-        print(f"\nProcessing subject: {subject_dir.name}")
+        subjects_found += 1
+        print(f"\nProcessing syllabus for: {subject_dir.name}")
         
         processed_dir = subject_dir / "processed"
         syllabus_txt_path = processed_dir / "syllabus.txt"
         syllabus_json_path = processed_dir / "syllabus.json"
         
         if not syllabus_txt_path.exists():
-            print(f"Warning: syllabus.txt not found at {syllabus_txt_path}")
+            print(f"  Warning: syllabus.txt not found at {syllabus_txt_path}")
             continue
         
-        print(f"Loading syllabus from: {syllabus_txt_path}")
         with open(syllabus_txt_path, 'r', encoding='utf-8') as f:
             syllabus_text = f.read()
         
-        print("Parsing syllabus hierarchically...")
+        print("  Parsing hierarchical content...")
         syllabus_dict = parse_syllabus_hierarchical(syllabus_text)
         
         if syllabus_dict:
-            print(f"Extracted {len(syllabus_dict)} modules.")
+            print(f"  Extracted {len(syllabus_dict)} modules.")
             save_syllabus_json(syllabus_dict, str(syllabus_json_path))
         else:
-            print("Warning: Could not extract structured syllabus data.")
+            print("  Warning: Could not extract structured syllabus data.")
+
+    if subjects_found == 0:
+        print(f"No subjects found to process.")
 
 if __name__ == "__main__":
     main()

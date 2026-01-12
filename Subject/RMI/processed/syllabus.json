@@ -1,0 +1,109 @@
+{
+  "MODULE -1 RESEARCH METHODOLOGY AND LITERATURE SURVEY (5 HOURS)": {
+    "Research Methodology": [
+      "Meaning",
+      "Objectives",
+      "Types of research",
+      "Method versus methodology",
+      "Research process",
+      "Criteria of good research"
+    ],
+    "Literature Survey, Literature Review": [
+      "Introduction",
+      "process",
+      "databases and management tools"
+    ],
+    "Identifying gap areas from literatur e review": [
+      "Identifying gap areas from literatur e review"
+    ],
+    "Plagiarism": [
+      "Introduction",
+      "tools for detection",
+      "avoiding plagiarism"
+    ],
+    "Illustrations": [
+      "Illustrations"
+    ]
+  },
+  "MODULE -2 TECHNICAL WRITING AND PRESENTATIONS (5 HOURS)": {
+    "Research Paper Writing": [
+      "Importance",
+      "steps of writing research papers",
+      "Contents of a research article",
+      "Illustrations"
+    ],
+    "Thesis Writing": [
+      "Synopsis",
+      "Introduction",
+      "Literature review",
+      "Aim and Objectives",
+      "Methodology",
+      "Time frame",
+      "Results and discussions",
+      "Conclusions"
+    ],
+    "Illustrations": [
+      "Illustrations"
+    ],
+    "Research Proposal Writing": [
+      "Preliminary requirements for proposal writing",
+      "Standard heads in research proposal"
+    ]
+  },
+  "MODULE -3 INTRODUCTION TO IPR AND PATENTS (5 HOURS)": {
+    "Introduction to Intellectual Property": [
+      "Types of IP",
+      "Role of IP in the economic and cultural development of the society",
+      "IP governance",
+      "IP as a global indicator of innovation",
+      "National IPR Policy in India"
+    ],
+    "Case examples": [
+      "Case examples"
+    ]
+  },
+  "MODULE -4 COPYRIGHT AND TRADEMARKS (5 HOURS)": {
+    "Copyright": [
+      "Classes of copyrights",
+      "Salient features of the Indian Copyright Act 1957",
+      "Criteria for copyright",
+      "Copyrights of the author",
+      "Copyright Infringements",
+      "Non -Copyright Work",
+      "Process of copyright registration"
+    ],
+    "Copyright cases": [
+      "Copyright cases"
+    ],
+    "Trademark": [
+      "Eligibility Criteria",
+      "Classification",
+      "Trade Mark Rules 2017",
+      "Advantages of registration",
+      "Types of trademark registered in India",
+      "Process for Trademarks Registration",
+      "Case examples"
+    ]
+  },
+  "MODULE -5 INDUSTRIAL DESIGNS AND GEOGRAPHICAL IND ICATIONS (5 HOURS)": {
+    "Industrial Designs": [
+      "Introduction",
+      "Eligibility criteria",
+      "Famous industrial designs",
+      "Features of Design Act 2000",
+      "Non -Protectable industrial designs in India",
+      "Procedure for Registration of Industrial Designs",
+      "Case examples"
+    ],
+    "Geographical I ndications (GIs)": [
+      "Introduction",
+      "Rights granted to holders",
+      "Popular GIs registered in India",
+      "salient features of Geographical Indications of Goods (Registration & Protection) Act",
+      "1999",
+      "Non -Registerable GI",
+      "Procedure for GI Registration",
+      "Case examples"
+    ]
+  }
+}

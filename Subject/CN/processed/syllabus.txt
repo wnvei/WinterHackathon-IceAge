@@ -1,0 +1,159 @@
+
+================================================================================
+FILE: CN Syllabus.pdf
+================================================================================
+
+--- Page 1 ---
+  
+Computer Networks  
+Course Code  22CSE52  CIE Marks  50 
+Course Type 
+(Theory/Practical/Integrated)  Integrated  SEE Marks  50 
+Total Marks  100 
+Teaching Hours/Week (L:T:P)  3:0:2  SEE 3 Hours  
+Total Hours  40 hours Theory + 10 Lab slots  Credits  04 
+Course Learning Objectives: The objective of the course is to  
+● Develop knowledge of network elements and associated network layer protocols and uses 
+of computer networks.  
+● Analyze various network layers’ design issues and its quality -of-service requirements.  
+● Apply the knowledge of computer networking to develop network applications.  
+●    Develop the knowledge of computer networking modern tools and technological 
+advancements..  
+Module -1 Introduction  (08 hours)  
+Uses   of   computer networks: Business Applications, Home Application, Mobile Users, Social 
+Issues; Network   hardware: Local Area Networks, Metropolitan Area Networks, Wide Area 
+Networks, Wireless Networks, Home Networks, Internet works; Network software: Protocol 
+Hierarchies, Design Issues fo r the Layers, Connection -Oriented and Connectionless Services, Service 
+Primitives. Reference Models: OSI Reference Model and TCP/IP Reference Model.  
+Chapter 1: 1.1 -1.3, 1.4.1, 1.4.2  
+Module -2 Network Layer - Routing and Congestion Control  ( 8 hours)  
+Routing algorithms:  The Optimality Principle, Shortest Path Routing, Flooding, Distance Vector 
+Routing, Link state Routing, Hierarchical Routing.  
+Congestion Control Algorithms : General Principles of Congestion Control, Congestion Prevention 
+Policies, Conge stion Control in Virtual -Circuit Subnets, Congestion Control in Datagram Subnets, 
+Load Shedding, Jitter Control.  
+Chapter 5: 5.2, 5.3  
+Module -3 Quality of Service in Networks and Internetworking ( 8 hours)  
+Quality of Service:  Application Requirements, Traffic Shaping, Packet Scheduling, Admission 
+Control.  
+Internetworking:  How networks differ, How Networks Can Be Connected, Tunneling, Internetwork 
+Routing, Fragmentation ; The Network Layer in the Internet: The IPv4 Protocol, IP Addresses, IPv6, 
+Internet Control Protocols.  
+Chapter 5: 5.4, 5.5, 5.6: 5.6.1 -5.6.4, 5.6.6 -5.6.8  
+Module -4 The Transport Layer ( 8 hours)  
+The Transport Service:  Services Provided to the Upper Layers, Transport Service Primitives, An 
+Example of Socket Programming. Elements of Transport Protocols:  Addressing, Connection 
+Establishment, Connection Release.  
+The Internet Transport Protocols (UDP and TCP):  Introduction to UDP, Introduction to TCP, The 
+TCP Service Model, The TCP Protocol, The TCP Segment Header, TCP Connection Establishment, 
+TCP Connection Release, and Sliding Window protocols.   
+Chapter 6: 6.1,6.2,6.4,6.5  
+Module -5 The Application Layer (8 hours)  
+The Domain Name System DNS: The DNS Name Space, Domain Resource Records, Name Servers, 
+Electronic Mail:  Architecture and Services, The User Agent, Message Formats  
+WWW: Architectural overview, Static Web Pages, Dynamic Web Pages and  
+. HTTP (Hypertext Trans fer Protocol), Web Search.  
+Chapter 7: 7.1, 7.2, 7.3  
+ 
+
+--- Page 2 ---
+ A–Demonstration (Compulsorily to be conducted):  
+A1. Implement three nodes point –to–point networks with duplex links between them using NS2.   
+       Set the queue size, vary the bandwidth, and find the number of packets dropped.  
+A2. Implement transmission of ping messages/traceroute over a network topology consisting of 6  
+       nodes using NS2 and find the number of packets dropped due to cong estion.  
+B–Exercise (compulsorily to be conducted):  
+B1. Write a program to find the shortest path between vertices using the bellman -ford algorithm  
+B2. Write a program for congestion control using a leaky bucket algorithm.  
+B3. Using TCP/IP sockets, write a client -server program to make client sending the file name and  
+       the server to send back the contents of the requested file if present.  
+C–Structured Enquiry (compulsorily any 4 to be conducted):  
+C1. Analyze network p ackets using Wireshark (IPv6, Ipv4, ICMP, and ICMP6).  
+C2. Implement an Ethernet LAN using n nodes and set multiple traffic nodes using NS2 and plot  
+       conges the window for different source/destination.  
+C3. Develop a program such that client will sen d a simple ping message to a server and receive a  
+       corresponding pong message back from the server using any programming message.  
+C4. Implement IPv4 address classifier (A, B, C, D, and E) using any programming language.  
+C5. Implement simple FTP prot ocol using any programming language.  
+C6. Create  IPv4 or IPv6 packets using any programming language.  
+ 
+D–Open Ended Experiments (any one):  
+D1. Implement IPv4 router using any programming language.  
+D2. Implement packet sniffer using any programming language.  
+ 
+ 
+Course Outcomes: At the end of the course the student will be able to:  
+22CSE52.1  Identify various uses of networks, Design issue of network layers, and summarize 
+its quality -of-service requirements.  
+22CSE52.2   Illustrate various routing and congestion control algorithms.  
+22CSE52.3   Outline the internet protocol’s structure and demonstrate the working of internet    
+ protocols.  
+22CSE52.4   Identify transport layer services and show the working of transport layer  
+ protocols.  
+22CSE52.5    Appraise application layer protocols.  
+22CSE52.6  Apply modern networking tools.  
+ 
+ 
+ 
+Sl. 
+No. Title of the Book  Name of the 
+Author/s  Name of 
+the 
+Publisher  Edition and 
+Year  
+Textbooks  
+1 Computer Networks  Andrew S. 
+Tanenbaum David J. 
+Wetherall  Pearson  4th Edition,  2014  
+2 A First Course in the Finite 
+Element Method  Daryl L. Logan  Cengage 
+Learning India  5th Edition , 2020  
+ Reference Books  
+
+--- Page 3 ---
+ 1 Computer Networking. 
+A Top -Down Approach  Kurose and Ross  Tata 
+McGraw -Hill 5th Edition, 2010  
+2 Computer Networks: A 
+Systems Approach  Bruce S. Davie and 
+Larry L. Peterso  The Morgan 
+Kaufmann 
+Series in 
+Networking  5th Edition, 2011  
+ 
+ 
+Web links and Video Lectures (e-Resources):  
+● Computer Networks and Internet Protocol, IIT Kharagpur:   
+https://www.youtube.com/playlist?list=PLbRMhDVUMngf -peFloB7kyiA40EptH1up  
+● TCP/IP Tutorial and Technical Overview: 
+https://www.redbooks.ibm.com/redbooks/pdfs/gg243376.pdf  
+● RFCs: http://www.ietf.org/rfc.html   
+● Computer Networks:  https://www.cse.iitk.ac.in/users/dheeraj/cs425/  
+● Web Resources for Computer Networks, 5/e:  https://www.cs.vu.nl/~ast/CN5/  
+ 
+Course Articulation Matrix  
+ 
+ 
+1: Low  2: Medium 3: High  
+ Course  
+Outcomes 
+(COs)  Program Outcomes (POs)  PO1  
+PO2  
+PO3  
+PO4  
+PO5  
+PO6  
+PO7  
+PO8  
+PO9  
+PO10  
+PO11  
+PO12  
+PSO1  
+PSO2  
+22CSE52.1     3  3   3      
+22CSE52.2  2    2         2 
+22CSE52.3     2     2      
+22CSE52.4    2          2  
+22CSE52.5    2   2        2 
+22CSE52.6      3    1     2 

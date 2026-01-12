@@ -1,0 +1,1785 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "module": "MODULE-2",
+      "topic": "Agile Software development",
+      "question": "3 a) Explain the difference between Functional and Non -Functional requirements. L2 CO2 PO1 06",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "Jan_2025(2022Scheme).pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 2,
+      "module": "MODULE-2",
+      "topic": "Agile Software development",
+      "question": "Extreme programming (XP) L2 2 PO4, PO7 8",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "Mar_Apr_2024(2021Scheme) (4) (2).pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 3,
+      "module": "MODULE-3",
+      "topic": "Interaction models",
+      "question": "5 a) Describe interaction model with example. L2 3 PO3, PO4 8 b) Draw and explain state diagram for the microwave oven. L2 3 PO3, PO4 8",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "Mar_Apr_2024(2021Scheme) (4) (2).pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 4,
+      "module": "MODULE-5",
+      "topic": "Web links and Video Lectures (e-Resources)",
+      "question": "List and explain any 4 system perspectives in system modeling",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEPM Questions.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 5,
+      "module": "MODULE-5",
+      "topic": null,
+      "question": "Demonstrate scenario testing with an example",
+      "marks": null,
+      "syllabus_status": "OUT_OF_SYLLABUS",
+      "repeat_count": 2,
+      "sources": [
+        "SEPM Questions.pdf"
+      ],
+      "importance": "MEDIUM"
+    },
+    {
+      "id": 6,
+      "module": "MODULE-5",
+      "topic": null,
+      "question": "Explain user testing? List 3 types",
+      "marks": null,
+      "syllabus_status": "OUT_OF_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEPM Questions.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 7,
+      "module": "MODULE-5",
+      "topic": "Web links and Video Lectures (e-Resources)",
+      "question": "Explain the different types of UML Diagrams",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEPM Questions.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 8,
+      "module": "MODULE-5",
+      "topic": "Project management",
+      "question": "Illustrate what is event driven modeling",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEPM Questions.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 9,
+      "module": "MODULE-5",
+      "topic": "Web links and Video Lectures (e-Resources)",
+      "question": "Explain sequence diagram with the help of an example",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEPM Questions.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 10,
+      "module": "MODULE-5",
+      "topic": "Project management",
+      "question": "What is event -driven modeling. Show a simple diagram of state model for microwave oven operation",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEPM Questions.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 11,
+      "module": "MODULE-5",
+      "topic": "Software evolution",
+      "question": "Illustrate class diagrams with the help of an example diagram. How effective is it in system modelin g?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEPM Questions.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 12,
+      "module": "MODULE-5",
+      "topic": "Web links and Video Lectures (e-Resources)",
+      "question": "Explain behavioural models. Draw a simple activity model of the insulin pump’s operation",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEPM Questions.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 13,
+      "module": "MODULE-5",
+      "topic": "Web links and Video Lectures (e-Resources)",
+      "question": "Compare software inspection and software testing. Model the software testing process with a diagram",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEPM Questions.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 14,
+      "module": "MODULE-5",
+      "topic": "Web links and Video Lectures (e-Resources)",
+      "question": "Explain the Observer design pattern in detail",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEPM Questions.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 15,
+      "module": "MODULE-5",
+      "topic": "Web links and Video Lectures (e-Resources)",
+      "question": "W hat is test -driven development (TDD)? Identify the activities and benefits of TDD",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEPM Questions.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 16,
+      "module": "MODULE-5",
+      "topic": "Software evolution",
+      "question": "What is release testing? How does it differ from system testing",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEPM Questions.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 17,
+      "module": "MODULE-5",
+      "topic": "Web links and Video Lectures (e-Resources)",
+      "question": "Explain aggregation and generalization in System Modeling",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEPM Questions.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 18,
+      "module": "MODULE-5",
+      "topic": "Web links and Video Lectures (e-Resources)",
+      "question": "Compare state diagram and activity dia gram types",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEPM Questions.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 19,
+      "module": "MODULE-5",
+      "topic": "Software evolution",
+      "question": "What is system modeling? Explain the role of use case diagrams",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEPM Questions.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 20,
+      "module": "MODULE-5",
+      "topic": "Web links and Video Lectures (e-Resources)",
+      "question": "What is a design model. Show the 2 types of design models",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEPM Questions.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 21,
+      "module": "MODULE-5",
+      "topic": "Software evolution",
+      "question": "What are the key elements of a Sequence Diagram? Explain how they contribute to understanding system behavior with a Sequence Diagram for “View Patient Information.”",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEPM Questions.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 22,
+      "module": "MODULE-5",
+      "topic": "Web links and Video Lectures (e-Resources)",
+      "question": "Illustrate the concept of Model Driven Engineering. What are its benefits and challenges?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEPM Questions.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 23,
+      "module": "MODULE-5",
+      "topic": "Web links and Video Lectures (e-Resources)",
+      "question": "Explain the difference between a context model and a use case model. How do they complement each other?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEPM Questions.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 24,
+      "module": "MODULE-5",
+      "topic": "Project management",
+      "question": "What is test -driven development (TDD)? Illustrate with an example how test -driven development (TDD) helps improve code reliability",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEPM Questions.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 25,
+      "module": "MODULE-5",
+      "topic": "Web links and Video Lectures (e-Resources)",
+      "question": "What is a design pattern? Identify the four essential elements of design patterns. Outline any 4 patterns used in design problems",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEPM Questions.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 26,
+      "module": "MODULE-5",
+      "topic": "Web links and Video Lectures (e-Resources)",
+      "question": "What is Component Testing? Outline the different types of interface errors that can occur. Also list interface testing guidelines",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEPM Questions.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 27,
+      "module": "MODULE-5",
+      "topic": "Web links and Video Lectures (e-Resources)",
+      "question": "What is user testing? Examine the six stages of acceptance testing process with a neat diagram",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEPM Questions.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 28,
+      "module": "MODULE-1",
+      "topic": "Software engineering",
+      "question": "What is Software Engineering?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 29,
+      "module": "MODULE-1",
+      "topic": "Software engineering",
+      "question": "Briefly discuss the need for Software Engineering",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 30,
+      "module": "MODULE-1",
+      "topic": "The waterfall model, Incremental development, Integration and configuration",
+      "question": "Discuss the four important attributes of good software and ethical responsibilities that all software professionals should have",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 31,
+      "module": "MODULE-1",
+      "topic": "The waterfall model, Incremental development, Integration and configuration",
+      "question": "List out the difference between generic and customized products",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 32,
+      "module": "MODULE-1",
+      "topic": "Software engineering",
+      "question": "What is the difference between Software Engineering and Computer Science?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 33,
+      "module": "MODULE-1",
+      "topic": "Software engineering",
+      "question": "Compare the terms Software Engineering and System Engineering",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 34,
+      "module": "MODULE-1",
+      "topic": "Software engineering",
+      "question": "Explain in brief about web-based software engineering methods and tools used",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 35,
+      "module": "MODULE-1",
+      "topic": "Software engineering",
+      "question": "Briefly explain the 4 fundamental activities common to all software process?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 36,
+      "module": "MODULE-1",
+      "topic": "Software engineering",
+      "question": "Explain the essential attributes of good software",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 37,
+      "module": "MODULE-1",
+      "topic": "The waterfall model, Incremental development, Integration and configuration",
+      "question": "With a neat diagram, explain the activity model of the insulin pump control system",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 38,
+      "module": "MODULE-1",
+      "topic": "Software engineering",
+      "question": "What are some general issues facing software engineering?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 39,
+      "module": "MODULE-1",
+      "topic": "The waterfall model, Incremental development, Integration and configuration",
+      "question": "What are the different application types?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 40,
+      "module": "MODULE-1",
+      "topic": "The waterfall model, Incremental development, Integration and configuration",
+      "question": "What is the rationale for the ACM/IEEE code of ethics?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 41,
+      "module": "MODULE-1",
+      "topic": null,
+      "question": "List any 5 ethical principles",
+      "marks": null,
+      "syllabus_status": "OUT_OF_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 42,
+      "module": "MODULE-1",
+      "topic": "The waterfall model, Incremental development, Integration and configuration",
+      "question": "Explain about the 4 issues of professional responsibility",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 43,
+      "module": "MODULE-1",
+      "topic": "Software engineering",
+      "question": "Discuss the reasons why software projects fail. Also explain about software costs",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 44,
+      "module": "MODULE-1",
+      "topic": null,
+      "question": "Give two examples of ethical dilemmas",
+      "marks": null,
+      "syllabus_status": "OUT_OF_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 45,
+      "module": "MODULE-1",
+      "topic": "Software engineering",
+      "question": "What differences has the web made to software engineering?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 46,
+      "module": "MODULE-1",
+      "topic": "Software engineering",
+      "question": "Describe any two concerns of a software system for mental health care",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 47,
+      "module": "MODULE-2",
+      "topic": "Software Process activities, Agile software Development and Requirements Analysis (8 hours) Process activities",
+      "question": "List two types of reusable software",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 48,
+      "module": "MODULE-2",
+      "topic": "Requirements engineering Process, Requirement elicitation, Requirement specification, Requirement Validation and management Applications",
+      "question": "What are the advantages and disadvantages of reuse oriented software",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 49,
+      "module": "MODULE-2",
+      "topic": "Requirements engineering Process, Requirement elicitation, Requirement specification, Requirement Validation and management Applications",
+      "question": "Discuss in detail the Waterfall Model with the help of a neat diagram",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 50,
+      "module": "MODULE-2",
+      "topic": "Requirements engineering Process, Requirement elicitation, Requirement specification, Requirement Validation and management Applications",
+      "question": "Write down the advantages and disadvantages of the waterfall model",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 51,
+      "module": "MODULE-2",
+      "topic": null,
+      "question": "With a neat block diagram explain Incremental Model",
+      "marks": null,
+      "syllabus_status": "OUT_OF_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 52,
+      "module": "MODULE-2",
+      "topic": "Requirements engineering Process, Requirement elicitation, Requirement specification, Requirement Validation and management Applications",
+      "question": "How does it overcome the problem of the waterfall model",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 53,
+      "module": "MODULE-2",
+      "topic": "Requirements engineering Process, Requirement elicitation, Requirement specification, Requirement Validation and management Applications",
+      "question": "In general, explain what are the different processes involved in developing software",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 54,
+      "module": "MODULE-2",
+      "topic": "Software Process activities, Agile software Development and Requirements Analysis (8 hours) Process activities",
+      "question": "What are the different software process models?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 55,
+      "module": "MODULE-2",
+      "topic": "Requirements engineering Process, Requirement elicitation, Requirement specification, Requirement Validation and management Applications",
+      "question": "Discuss in detail the incremental development model with the help of a neat diagram",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 56,
+      "module": "MODULE-2",
+      "topic": "Requirements engineering Process, Requirement elicitation, Requirement specification, Requirement Validation and management Applications",
+      "question": "Write down the advantages and disadvantages of the model",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 57,
+      "module": "MODULE-2",
+      "topic": "Requirements engineering Process, Requirement elicitation, Requirement specification, Requirement Validation and management Applications",
+      "question": "Explain Reuse-oriented software engineering with the help of a diagram",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 58,
+      "module": "MODULE-2",
+      "topic": "Requirements engineering Process, Requirement elicitation, Requirement specification, Requirement Validation and management Applications",
+      "question": "With a diagram explain the requirements engineering process",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 59,
+      "module": "MODULE-2",
+      "topic": "Software Process activities, Agile software Development and Requirements Analysis (8 hours) Process activities",
+      "question": "Explain about the four common design activities",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 60,
+      "module": "MODULE-2",
+      "topic": "Software Process activities, Agile software Development and Requirements Analysis (8 hours) Process activities",
+      "question": "What do you understand about software design and implementation?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 61,
+      "module": "MODULE-2",
+      "topic": "Software Process activities, Agile software Development and Requirements Analysis (8 hours) Process activities",
+      "question": "Explain process improvement cycle and activities with the help of a diagram",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 62,
+      "module": "MODULE-2",
+      "topic": "Software Process activities, Agile software Development and Requirements Analysis (8 hours) Process activities",
+      "question": "With a neat diagram explain the testing phases in a plan-driven software process (V-model)",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 63,
+      "module": "MODULE-2",
+      "topic": "Software Process activities, Agile software Development and Requirements Analysis (8 hours) Process activities",
+      "question": "Explain system evolution process with a diagram",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 64,
+      "module": "MODULE-2",
+      "topic": "Requirements engineering Process, Requirement elicitation, Requirement specification, Requirement Validation and management Applications",
+      "question": "List the 3 stages of testing",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 65,
+      "module": "MODULE-2",
+      "topic": "Agile Software development",
+      "question": "What are the principles of agile methods?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 66,
+      "module": "MODULE-2",
+      "topic": "Agile Software development",
+      "question": "With the help of a diagram explain the extreme programming release cycle",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 67,
+      "module": "MODULE-2",
+      "topic": "Agile Software development",
+      "question": "List and explain any 5 extreme programming practices",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 68,
+      "module": "MODULE-2",
+      "topic": "Requirements engineering Process, Requirement elicitation, Requirement specification, Requirement Validation and management Applications",
+      "question": "Explain the following: i. Refactoring ii. User stories iii. Test driven development",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 69,
+      "module": "MODULE-2",
+      "topic": "Requirements engineering Process, Requirement elicitation, Requirement specification, Requirement Validation and management Applications",
+      "question": "What are the phases of Scrum? Also list some of the benefits of scrum",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 70,
+      "module": "MODULE-2",
+      "topic": "Software Process activities, Agile software Development and Requirements Analysis (8 hours) Process activities",
+      "question": "Where are agile methods used and why?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 71,
+      "module": "MODULE-2",
+      "topic": "Requirements engineering Process, Requirement elicitation, Requirement specification, Requirement Validation and management Applications",
+      "question": "Explain with the help of a diagram, the scrum sprint cycle",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 72,
+      "module": "MODULE-2",
+      "topic": "Software Process activities, Agile software Development and Requirements Analysis (8 hours) Process activities",
+      "question": "List and explain 5 agile principles in organisational practice",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 73,
+      "module": "MODULE-2",
+      "topic": null,
+      "question": "Explain what is meant by test automation",
+      "marks": null,
+      "syllabus_status": "OUT_OF_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 74,
+      "module": "MODULE-2",
+      "topic": "Requirements engineering Process, Requirement elicitation, Requirement specification, Requirement Validation and management Applications",
+      "question": "Explain what is meant by user stories for software requirements",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 75,
+      "module": "MODULE-2",
+      "topic": null,
+      "question": "Give a simple example",
+      "marks": null,
+      "syllabus_status": "OUT_OF_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 76,
+      "module": "MODULE-2",
+      "topic": "Requirements engineering Process, Requirement elicitation, Requirement specification, Requirement Validation and management Applications",
+      "question": "Explain refactoring with the help of examples",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 77,
+      "module": "MODULE-2",
+      "topic": "Requirements engineering Process, Requirement elicitation, Requirement specification, Requirement Validation and management Applications",
+      "question": "Outline the role of scrum master in scrum",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 78,
+      "module": "MODULE-3",
+      "topic": "Event driven modeling, Model driven engineering Applications",
+      "question": "Explain the difference between a context model and a use case model",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 79,
+      "module": "MODULE-3",
+      "topic": null,
+      "question": "How do they complement each other?",
+      "marks": null,
+      "syllabus_status": "OUT_OF_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 80,
+      "module": "MODULE-3",
+      "topic": "class diagram, generalization, Aggregation",
+      "question": "What is aggregation and generalization?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 81,
+      "module": "MODULE-3",
+      "topic": "System models",
+      "question": "What is system modeling?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 82,
+      "module": "MODULE-3",
+      "topic": "class diagram, generalization, Aggregation",
+      "question": "Discuss the use of class diagrams?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 83,
+      "module": "MODULE-3",
+      "topic": null,
+      "question": "What are UML Diagrams?",
+      "marks": null,
+      "syllabus_status": "OUT_OF_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 84,
+      "module": "MODULE-3",
+      "topic": null,
+      "question": "What are the main components in an use case?",
+      "marks": null,
+      "syllabus_status": "OUT_OF_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 85,
+      "module": "MODULE-3",
+      "topic": "sequence diagram Structured methods",
+      "question": "Compare: state diagram and an activity diagram",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 86,
+      "module": "MODULE-3",
+      "topic": "sequence diagram Structured methods",
+      "question": "What are the key elements of a sequence diagram, and how do they contribute to understanding system behavior?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 87,
+      "module": "MODULE-3",
+      "topic": "class diagram, generalization, Aggregation",
+      "question": "With a neat diagram, explain class diagram.How effective is it in system modeling?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 88,
+      "module": "MODULE-3",
+      "topic": null,
+      "question": "What are Use case diagrams.Explain with an example",
+      "marks": null,
+      "syllabus_status": "OUT_OF_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 89,
+      "module": "MODULE-3",
+      "topic": "Event driven modeling, Model driven engineering Applications",
+      "question": "Explain the concept of Model Driven Engineering concept.What are its benefits and challenges?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 90,
+      "module": "MODULE-3",
+      "topic": "System models",
+      "question": "Explain the difference between a system model and a context model",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 91,
+      "module": "MODULE-3",
+      "topic": "Event driven modeling, Model driven engineering Applications",
+      "question": "What is event-driven modeling, and why is it used in certain types of systems?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 92,
+      "module": "MODULE-3",
+      "topic": "class diagram, generalization, Aggregation",
+      "question": "Draw a simple class diagram for a school system, including classes like \"Student\" and \"Teacher",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 93,
+      "module": "MODULE-3",
+      "topic": "Event driven modeling, Model driven engineering Applications",
+      "question": "Explain behavioural model and its types with real world examples",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 94,
+      "module": "MODULE-3",
+      "topic": "sequence diagram Structured methods",
+      "question": "Explain the concept and components of a sequence diagram in UML using an Online payment system.. —",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 95,
+      "module": "MODULE-4",
+      "topic": "Software Design",
+      "question": "Explain five different stages in an object-oriented design process",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 96,
+      "module": "MODULE-4",
+      "topic": "Applications",
+      "question": "Draw the use case of a weather station and explain the use case description",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 97,
+      "module": "MODULE-4",
+      "topic": "Applications",
+      "question": "Define software reuse and explain its levels (abstraction, object, component, system)",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 98,
+      "module": "MODULE-4",
+      "topic": "Applications",
+      "question": "Illustrate how design models are the bridge between the system requirements and the implementation of a system. Draw a sequence diagram describing data collection of weather information systems and state diagram for the weather station",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 99,
+      "module": "MODULE-4",
+      "topic": "Software Design",
+      "question": "What is design pattern?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 100,
+      "module": "MODULE-4",
+      "topic": "Software Design",
+      "question": "Explain four essential elements of design pattern",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 101,
+      "module": "MODULE-4",
+      "topic": "Software Design",
+      "question": "Describe the Observer pattern with an example",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 102,
+      "module": "MODULE-4",
+      "topic": "Applications",
+      "question": "Explain the various aspects of implementation that are particularly important to software engineering",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 103,
+      "module": "MODULE-4",
+      "topic": "Software testing",
+      "question": "What is host-tar get development?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 104,
+      "module": "MODULE-4",
+      "topic": null,
+      "question": "Why is it needed?",
+      "marks": null,
+      "syllabus_status": "OUT_OF_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 105,
+      "module": "MODULE-4",
+      "topic": null,
+      "question": "What is configuration management?",
+      "marks": null,
+      "syllabus_status": "OUT_OF_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 106,
+      "module": "MODULE-4",
+      "topic": null,
+      "question": "Explain its four fundamental activities",
+      "marks": null,
+      "syllabus_status": "OUT_OF_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 107,
+      "module": "MODULE-4",
+      "topic": "Software testing",
+      "question": "What is development testing?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 108,
+      "module": "MODULE-4",
+      "topic": null,
+      "question": "How is it different from debugging?",
+      "marks": null,
+      "syllabus_status": "OUT_OF_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 109,
+      "module": "MODULE-4",
+      "topic": "Applications",
+      "question": "Differentiate between i. Validation and verification. ii. Black Box testing and White Box testing with an example iii. Software inspection and Testing iv. Alpha testing and beta testing",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 110,
+      "module": "MODULE-4",
+      "topic": "Applications",
+      "question": "Explain the software testing process",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 111,
+      "module": "MODULE-4",
+      "topic": "Software testing",
+      "question": "Explain component testing?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 112,
+      "module": "MODULE-4",
+      "topic": "Applications",
+      "question": "What is system testing?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 113,
+      "module": "MODULE-4",
+      "topic": "Software testing",
+      "question": "How does it differ from component testing?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 114,
+      "module": "MODULE-4",
+      "topic": "Software testing",
+      "question": "Explain requirements-based testing with an example",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 115,
+      "module": "MODULE-4",
+      "topic": "Software testing",
+      "question": "What is scenario testing?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 116,
+      "module": "MODULE-4",
+      "topic": null,
+      "question": "Explain with an example",
+      "marks": null,
+      "syllabus_status": "OUT_OF_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 117,
+      "module": "MODULE-4",
+      "topic": "Applications",
+      "question": "Explain the six stages of acceptance testing process",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 118,
+      "module": "MODULE-4",
+      "topic": "Software testing",
+      "question": "What is user testing?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 119,
+      "module": "MODULE-4",
+      "topic": null,
+      "question": "Why is it important?",
+      "marks": null,
+      "syllabus_status": "OUT_OF_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 120,
+      "module": "MODULE-4",
+      "topic": "Software testing",
+      "question": "What is release testing?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 121,
+      "module": "MODULE-4",
+      "topic": "Software testing",
+      "question": "How does it differ from development testing?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 122,
+      "module": "MODULE-4",
+      "topic": "Software testing",
+      "question": "Explain test driven software development with a neat diagram and its benefits",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 123,
+      "module": "MODULE-5",
+      "topic": "Software evolution",
+      "question": "What are legacy systems?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 124,
+      "module": "MODULE-5",
+      "topic": "Software evolution",
+      "question": "Explain the components of legacy system with neat diagram",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 125,
+      "module": "MODULE-5",
+      "topic": "Software evolution",
+      "question": "Explain about the layers of a legacy system with a diagram",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 126,
+      "module": "MODULE-5",
+      "topic": "Project management",
+      "question": "Explain the project planning process with the help of a neat diagram",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 127,
+      "module": "MODULE-5",
+      "topic": "Project management",
+      "question": "What is software pricing?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 128,
+      "module": "MODULE-5",
+      "topic": "Web links and Video Lectures (e-Resources)",
+      "question": "List and briefly explain the factors affecting software pricing",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 129,
+      "module": "MODULE-5",
+      "topic": "Software evolution",
+      "question": "What are the risks involved for legacy system replacement",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 130,
+      "module": "MODULE-5",
+      "topic": "Project management",
+      "question": "Describe risk identification with the help of risk item checklist",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 131,
+      "module": "MODULE-5",
+      "topic": "Project management",
+      "question": "Briefly explain about different categories of risks in risk management",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 132,
+      "module": "MODULE-5",
+      "topic": "Project management",
+      "question": "What is the need of Risk Management and explain various activities connected to Risk Management?",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 133,
+      "module": "MODULE-5",
+      "topic": "Project management",
+      "question": "Explain the product and process standards in software quality management",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 134,
+      "module": "MODULE-5",
+      "topic": "Software evolution",
+      "question": "Explain the software evolution process with a neat diagram",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 135,
+      "module": "MODULE-5",
+      "topic": "Software evolution",
+      "question": "Explain the four strategic options of legacy system management",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 136,
+      "module": "MODULE-5",
+      "topic": "Software evolution",
+      "question": "Draw a chart showing relative business value and system quality of legacy system management and explain four clusters of systems",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    },
+    {
+      "id": 137,
+      "module": "MODULE-5",
+      "topic": "Software evolution",
+      "question": "Explain the factors considered to assess technical quality of an application system of legacy system management",
+      "marks": null,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "SEP_22CSE51_QUESTION_BANK.docx.pdf"
+      ],
+      "importance": "LOW"
+    }
+  ]
+}

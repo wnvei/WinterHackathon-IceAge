@@ -1,0 +1,1962 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "module": "MODULE-1",
+      "topic": "Network hardware",
+      "question": "What is a computer network?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 4,
+      "module": "MODULE-1",
+      "topic": "Uses of computer networks",
+      "question": "What is VoIP?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 6,
+      "module": "MODULE-2",
+      "topic": "Routing algorithms",
+      "question": "What is a routing algorithm?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 7,
+      "module": "MODULE-2",
+      "topic": "Routing algorithms",
+      "question": "What is a forwarding algorithm?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 10,
+      "module": "MODULE-1",
+      "topic": "Network software",
+      "question": "What is a protocol?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 11,
+      "module": "MODULE-2",
+      "topic": "Routing algorithms",
+      "question": "What is routing?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 12,
+      "module": "MODULE-1",
+      "topic": "Network software",
+      "question": "What is addressing or naming?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 13,
+      "module": "MODULE-1",
+      "topic": "Network software",
+      "question": "What is flow control?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 14,
+      "module": "MODULE-2",
+      "topic": "Congestion Control Algorithms",
+      "question": "What is congestion?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 15,
+      "module": "MODULE-1",
+      "topic": "Reference Models",
+      "question": "Write any two principles of the OSI model.",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 16,
+      "module": "MODULE-1",
+      "topic": "Network software",
+      "question": "Differentiate between connection-oriented and connectionless services.",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 17,
+      "module": "MODULE-4",
+      "topic": "The Internet Transport Protocols (UDP and TCP)",
+      "question": "Differentiate between TCP and UDP.",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 4,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx",
+        "QB.pdf"
+      ],
+      "importance": "HIGH",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 18,
+      "module": "MODULE-1",
+      "topic": "Network hardware",
+      "question": "Differentiate between store-and-forward switching and cut-through switching.",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "PARTIAL"
+    },
+    {
+      "id": 19,
+      "module": "MODULE-1",
+      "topic": "Service Primitives",
+      "question": "What are two service primitives and their meanings?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 20,
+      "module": "MODULE-1",
+      "topic": "Reference Models",
+      "question": "In the data link layer, what does the sender do with the input data?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 21,
+      "module": "MODULE-1",
+      "topic": "Network hardware",
+      "question": "What are the devices used in the physical layer?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 22,
+      "module": "MODULE-1",
+      "topic": "Network hardware",
+      "question": "What devices are used in the data link layer?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 23,
+      "module": "MODULE-1",
+      "topic": "Reference Models",
+      "question": "Which layer is the router used in?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 24,
+      "module": "MODULE-3",
+      "topic": "Quality of Service",
+      "question": "In the network layer, what is data referred to as?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 25,
+      "module": "MODULE-1",
+      "topic": "Network hardware",
+      "question": "Which address is used for data transmission in the datalink layer?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 27,
+      "module": "MODULE-5",
+      "topic": "The Application Layer",
+      "question": "Mention any two protocols used in the application layer.",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 28,
+      "module": "MODULE-1",
+      "topic": "Uses of computer networks",
+      "question": "Briefly describe the uses of computer network.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 29,
+      "module": "MODULE-1",
+      "topic": "Network hardware",
+      "question": "Explain the two technical issues in network hardware design.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 30,
+      "module": "MODULE-1",
+      "topic": "Network hardware",
+      "question": "Explain the categories of network with suitable diagram and example.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 3,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx",
+        "QB.pdf",
+        "Question Bank - CN.docx"
+      ],
+      "importance": "HIGH",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 31,
+      "module": "MODULE-1",
+      "topic": "Network hardware",
+      "question": "Differentiate between LAN, WAN, and MAN.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 32,
+      "module": "MODULE-1",
+      "topic": "Network hardware",
+      "question": "List and explain the categories of network hardware classification based on scale.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 33,
+      "module": "MODULE-1",
+      "topic": "Network software",
+      "question": "Write a note on i) Internetworking ii) Protocol Hierarchy.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 2,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx",
+        "QB.pdf"
+      ],
+      "importance": "MEDIUM",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 34,
+      "module": "MODULE-1",
+      "topic": "Network software",
+      "question": "List and explain the design issues in network software design.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 2,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx",
+        "QB.pdf"
+      ],
+      "importance": "MEDIUM",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 35,
+      "module": "MODULE-1",
+      "topic": "Network software",
+      "question": "Differentiate between connection-oriented and connectionless service.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 3,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx",
+        "QB.pdf",
+        "Question Bank - CN.docx"
+      ],
+      "importance": "HIGH",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 36,
+      "module": "MODULE-1",
+      "topic": "Network software",
+      "question": "Explain the service primitives with a neat diagram.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 37,
+      "module": "MODULE-1",
+      "topic": "Reference Models",
+      "question": "Explain the OSI reference model with a neat diagram, detailing the functions of each layer.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 2,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx",
+        "QB.pdf"
+      ],
+      "importance": "MEDIUM",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 38,
+      "module": "MODULE-1",
+      "topic": "Reference Models",
+      "question": "Explain the TCP/IP reference model with a neat diagram.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 39,
+      "module": "MODULE-1",
+      "topic": "Reference Models",
+      "question": "Differentiate between the OSI reference model and the TCP/IP model.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 3,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx",
+        "QB.pdf",
+        "Question Bank - CN.docx"
+      ],
+      "importance": "HIGH",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 40,
+      "module": "MODULE-2",
+      "topic": "Routing algorithms",
+      "question": "What is the difference between routing and forwarding?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 41,
+      "module": "MODULE-2",
+      "topic": "Routing algorithms",
+      "question": "What are the two classes of routing algorithms?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 43,
+      "module": "MODULE-2",
+      "topic": "Routing algorithms",
+      "question": "Name any two algorithms for static routing and dynamic routing.",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 44,
+      "module": "MODULE-2",
+      "topic": "Routing algorithms",
+      "question": "Describe the optimality principle.",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 45,
+      "module": "MODULE-2",
+      "topic": "Routing algorithms",
+      "question": "Write the link state packet for node G for the below graph.",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 46,
+      "module": "MODULE-2",
+      "topic": "Routing algorithms",
+      "question": "What is the count to infinity problem?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 47,
+      "module": "MODULE-2",
+      "topic": "Congestion Control Algorithms",
+      "question": "What is the definition of congestion in a network?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 48,
+      "module": "MODULE-2",
+      "topic": "Routing algorithms",
+      "question": "Solve the following to find the shortest path from A to D using Dijkstra’s algorithm, where any graph can be given.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 49,
+      "module": "MODULE-2",
+      "topic": "Routing algorithms",
+      "question": "Explain any two static algorithms (nonadaptive).",
+      "marks": 10,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "PARTIAL"
+    },
+    {
+      "id": 50,
+      "module": "MODULE-2",
+      "topic": "Routing algorithms",
+      "question": "Explain Link State Routing in detail.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 51,
+      "module": "MODULE-2",
+      "topic": "Routing algorithms",
+      "question": "Explain the dynamic programming algorithm used in Bellman-Ford routing.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "PARTIAL"
+    },
+    {
+      "id": 53,
+      "module": "MODULE-2",
+      "topic": "Congestion Control Algorithms",
+      "question": "Explain the different approaches to control congestion.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 54,
+      "module": "MODULE-2",
+      "topic": "Congestion Control Algorithms",
+      "question": "Write a note on Load Shedding and Jitter.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 55,
+      "module": "MODULE-2",
+      "topic": "Flooding",
+      "question": "Explain flooding with its advantages.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 56,
+      "module": "MODULE-2",
+      "topic": "Routing algorithms",
+      "question": "Discuss the drawbacks of the distance vector algorithm and how these can be resolved.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 3,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx",
+        "QB.pdf",
+        "Question Bank - CN.docx"
+      ],
+      "importance": "HIGH",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 57,
+      "module": "MODULE-2",
+      "topic": "Routing algorithms",
+      "question": "Explain hierarchical routing in network.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 3,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx",
+        "QB.pdf",
+        "Question Bank - CN.docx"
+      ],
+      "importance": "HIGH",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 58,
+      "module": "MODULE-2",
+      "topic": "Congestion Control Algorithms",
+      "question": "Explain the congestion control in virtual circuit subnets and datagram subnets.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 59,
+      "module": "MODULE-2",
+      "topic": "Congestion Control Algorithms",
+      "question": "Explain the congestion prevention policies.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 60,
+      "module": "MODULE-3",
+      "topic": "Quality of Service",
+      "question": "Define quality of service in networking.",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 61,
+      "module": "MODULE-3",
+      "topic": "Quality of Service",
+      "question": "What are the primary parameters that define the Quality of Service (QoS)?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 62,
+      "module": "MODULE-3",
+      "topic": "Tunneling",
+      "question": "What is tunneling?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 63,
+      "module": "MODULE-3",
+      "topic": "Internetworking",
+      "question": "What is an Autonomous System in internetworking?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 64,
+      "module": "MODULE-3",
+      "topic": "The Network Layer in the Internet",
+      "question": "What is Internet Protocol (IP)?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 65,
+      "module": "MODULE-3",
+      "topic": "The Network Layer in the Internet",
+      "question": "What is the address length of IPv4?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 66,
+      "module": "MODULE-3",
+      "topic": "The Network Layer in the Internet",
+      "question": "What is the address length of IPv6?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 68,
+      "module": "MODULE-3",
+      "topic": "Quality of Service",
+      "question": "List and explain the techniques for achieving good Quality of Service.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 2,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx",
+        "Question Bank - CN.docx"
+      ],
+      "importance": "MEDIUM",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 69,
+      "module": "MODULE-3",
+      "topic": "Traffic Shaping",
+      "question": "Describe traffic shaping with algorithms.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 3,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx",
+        "QB.pdf",
+        "Question Bank - CN.docx"
+      ],
+      "importance": "HIGH",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 70,
+      "module": "MODULE-3",
+      "topic": "Quality of Service",
+      "question": "Differentiate between leaky bucket and token bucket algorithms.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 6,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx",
+        "QB.pdf",
+        "Question Bank - CN.docx"
+      ],
+      "importance": "HIGH",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 71,
+      "module": "MODULE-3",
+      "topic": "Quality of Service",
+      "question": "Explain why packet scheduling is required and describe the different strategies for packet scheduling.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 2,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx",
+        "Question Bank - CN.docx"
+      ],
+      "importance": "MEDIUM",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 72,
+      "module": "MODULE-3",
+      "topic": "Quality of Service",
+      "question": "Explain the function of RSVP or Flow based algorithm.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 73,
+      "module": "MODULE-3",
+      "topic": "Quality of Service",
+      "question": "Write a note on Differentiated Services.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 74,
+      "module": "MODULE-3",
+      "topic": "Internetworking",
+      "question": "Write a note on i) tunneling ii) fragmentation.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 75,
+      "module": "MODULE-3",
+      "topic": "The Network Layer in the Internet",
+      "question": "List and explain the principles of the network layer in the Internet.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 76,
+      "module": "MODULE-3",
+      "topic": "The Network Layer in the Internet",
+      "question": "Describe the structure of an IPv4 header and explain all of its fields.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 3,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx",
+        "QB.pdf",
+        "Question Bank - CN.docx"
+      ],
+      "importance": "HIGH",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 77,
+      "module": "MODULE-3",
+      "topic": "The Network Layer in the Internet",
+      "question": "Explain the classful addressing with a neat diagram.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 3,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx",
+        "QB.pdf",
+        "Question Bank - CN.docx"
+      ],
+      "importance": "HIGH",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 78,
+      "module": "MODULE-3",
+      "topic": "The Network Layer in the Internet",
+      "question": "Describe subnet addressing with an example.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 3,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx",
+        "QB.pdf",
+        "Question Bank - CN.docx"
+      ],
+      "importance": "HIGH",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 79,
+      "module": "MODULE-3",
+      "topic": "The Network Layer in the Internet",
+      "question": "Describe Classless Inter-Domain Routing (CIDR) with an example.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 3,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx",
+        "QB.pdf",
+        "Question Bank - CN.docx"
+      ],
+      "importance": "HIGH",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 81,
+      "module": "MODULE-3",
+      "topic": "The Network Layer in the Internet",
+      "question": "Write a note on i) NAT ii) ARP iii) DHCP.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 82,
+      "module": "MODULE-3",
+      "topic": "The Network Layer in the Internet",
+      "question": "What is the structure of the IPv6 header, and explain all of its fields?",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 3,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx",
+        "QB.pdf",
+        "Question Bank - CN.docx"
+      ],
+      "importance": "HIGH",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 83,
+      "module": "MODULE-4",
+      "topic": "The Transport Service",
+      "question": "What is the transport entity?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "PARTIAL"
+    },
+    {
+      "id": 84,
+      "module": "MODULE-4",
+      "topic": "Elements of Transport Protocols",
+      "question": "What are two socket primitives?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 88,
+      "module": "MODULE-4",
+      "topic": "The Internet Transport Protocols (UDP and TCP)",
+      "question": "Describe the header structure for UDP.",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 89,
+      "module": "MODULE-5",
+      "topic": "HTTP (Hypertext Trans fer Protocol), Web Search",
+      "question": "Differentiate between Client Stub and Server Stub.",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 92,
+      "module": "MODULE-4",
+      "topic": "The Transport Service",
+      "question": "Explain the services provided by the transport layer to the upper layers.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 3,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx",
+        "QB.pdf",
+        "Question Bank - CN.docx"
+      ],
+      "importance": "HIGH",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 93,
+      "module": "MODULE-5",
+      "topic": "The Domain Name System DNS",
+      "question": "Explain the Remote Procedure Call (RPC) with a neat diagram.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 94,
+      "module": "MODULE-4",
+      "topic": "Elements of Transport Protocols",
+      "question": "Explain the elements of the transport layer.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 96,
+      "module": "MODULE-4",
+      "topic": "Elements of Transport Protocols",
+      "question": "Explain the cases of three-way handshake for connection establishment in the transport layer with neat diagrams.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 97,
+      "module": "MODULE-4",
+      "topic": "Connection Release",
+      "question": "Explain the cases of the three-way handshake for connection release with diagrams.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 99,
+      "module": "MODULE-4",
+      "topic": "The TCP Segment Header",
+      "question": "Explain the TCP segment header with a neat diagram.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 2,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx",
+        "QB.pdf"
+      ],
+      "importance": "MEDIUM",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 100,
+      "module": "MODULE-4",
+      "topic": "Elements of Transport Protocols",
+      "question": "Explain how flow control and buffering are achieved at the transport layer.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 101,
+      "module": "MODULE-4",
+      "topic": "TCP Connection Establishment",
+      "question": "Explain TCP connection establishment and connection release.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 102,
+      "module": "MODULE-2",
+      "topic": "Congestion Control Algorithms",
+      "question": "Explain Congestion Control in TCP.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 103,
+      "module": "MODULE-4",
+      "topic": "The Internet Transport Protocols (UDP and TCP)",
+      "question": "Explain the TCP transmission policy.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 3,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx",
+        "QB.pdf",
+        "Question Bank - CN.docx"
+      ],
+      "importance": "HIGH",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 104,
+      "module": "MODULE-4",
+      "topic": "The Internet Transport Protocols (UDP and TCP)",
+      "question": "Explain window management in TCP with a neat diagram.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 105,
+      "module": "MODULE-4",
+      "topic": "Elements of Transport Protocols",
+      "question": "Explain the Sliding Window Protocol.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 106,
+      "module": "MODULE-5",
+      "topic": "HTTP (Hypertext Trans fer Protocol), Web Search",
+      "question": "What is the World Wide Web (WWW)?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 107,
+      "module": "MODULE-5",
+      "topic": "Web Search",
+      "question": "What is web crawling?",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 109,
+      "module": "MODULE-1",
+      "topic": "Social Issues",
+      "question": "What are statelessness and cookies?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 110,
+      "module": "MODULE-5",
+      "topic": "The Domain Name System DNS",
+      "question": "Describe the different query mechanisms used to resolve names in the Domain Name System (DNS).",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 3,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx",
+        "QB.pdf",
+        "Question Bank - CN.docx"
+      ],
+      "importance": "HIGH",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 111,
+      "module": "MODULE-5",
+      "topic": "The Domain Name System DNS",
+      "question": "Write a note on i) DNS name space ii) Name servers.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 112,
+      "module": "MODULE-5",
+      "topic": "The Domain Name System DNS",
+      "question": "Write a note on Resource Records.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 113,
+      "module": "MODULE-5",
+      "topic": "HTTP (Hypertext Trans fer Protocol), Web Search",
+      "question": "Describe the Hyper Text Transfer Protocol.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 2,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx",
+        "QB.pdf"
+      ],
+      "importance": "MEDIUM",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 114,
+      "module": "MODULE-5",
+      "topic": "The Domain Name System DNS",
+      "question": "Describe the architecture of electronic mail.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 115,
+      "module": "MODULE-5",
+      "topic": "Electronic Mail",
+      "question": "Explain the message format of email.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 3,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx",
+        "QB.pdf",
+        "Question Bank - CN.docx"
+      ],
+      "importance": "HIGH",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 116,
+      "module": "MODULE-5",
+      "topic": "HTTP (Hypertext Trans fer Protocol), Web Search",
+      "question": "Explain the server side communication in WWW architecture.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 2,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx",
+        "Question Bank - CN.docx"
+      ],
+      "importance": "MEDIUM",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 117,
+      "module": "MODULE-5",
+      "topic": "HTTP (Hypertext Trans fer Protocol), Web Search",
+      "question": "Describe MIME—The Multipurpose Internet Mail Extensions—along with its header information.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 120,
+      "module": "MODULE-5",
+      "topic": "HTTP (Hypertext Trans fer Protocol), Web Search",
+      "question": "Explain the parts of the Web model with a neat diagram.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 2,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx",
+        "Question Bank - CN.docx"
+      ],
+      "importance": "MEDIUM",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 121,
+      "module": "MODULE-5",
+      "topic": "HTTP (Hypertext Trans fer Protocol), Web Search",
+      "question": "Explain the different HTTP request methods used in creating an HTTP message.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 3,
+      "sources": [
+        "CNQuestionBank-22CSE52.docx",
+        "QB.pdf",
+        "Question Bank - CN.docx"
+      ],
+      "importance": "HIGH",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 122,
+      "module": "MODULE-1",
+      "topic": "Uses of computer networks",
+      "question": "Define computer network and briefly describe its uses.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 2,
+      "sources": [
+        "QB.pdf",
+        "Question Bank - CN.docx"
+      ],
+      "importance": "MEDIUM",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 123,
+      "module": "MODULE-1",
+      "topic": "Network hardware",
+      "question": "What are the two technical issues in network hardware design? Explain.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 2,
+      "sources": [
+        "QB.pdf",
+        "Question Bank - CN.docx"
+      ],
+      "importance": "MEDIUM",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 124,
+      "module": "MODULE-1",
+      "topic": "Network hardware",
+      "question": "Differentiate between LAN, WAN, and MAN.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 125,
+      "module": "MODULE-1",
+      "topic": "Network hardware",
+      "question": "List and explain the categories of network hardware based on scale.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 126,
+      "module": "MODULE-1",
+      "topic": "Reference Models",
+      "question": "Briefly explain the TCP/IP reference model.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 2,
+      "sources": [
+        "QB.pdf",
+        "Question Bank - CN.docx"
+      ],
+      "importance": "MEDIUM",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 127,
+      "module": "MODULE-2",
+      "topic": "Routing algorithms",
+      "question": "Define routing and write the difference between routing and forwarding.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 128,
+      "module": "MODULE-2",
+      "topic": "Routing algorithms",
+      "question": "Describe the optimality principle and solve the given problem to find the shortest path from A to D using Dijkstra’s algorithm.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 130,
+      "module": "MODULE-2",
+      "topic": "Routing algorithms",
+      "question": "Write and explain the Bellman-Ford algorithm with an example.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 131,
+      "module": "MODULE-2",
+      "topic": "Congestion Control Algorithms",
+      "question": "Define congestion in a network and describe the different approaches to control congestion.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 2,
+      "sources": [
+        "QB.pdf",
+        "Question Bank - CN.docx"
+      ],
+      "importance": "MEDIUM",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 132,
+      "module": "MODULE-2",
+      "topic": "Load Shedding",
+      "question": "Write a note on Load Shedding and flooding.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 2,
+      "sources": [
+        "QB.pdf",
+        "Question Bank - CN.docx"
+      ],
+      "importance": "MEDIUM",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 133,
+      "module": "MODULE-2",
+      "topic": "Routing algorithms",
+      "question": "Write a note on multicast routing and routing in ad-hoc networks.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 135,
+      "module": "MODULE-2",
+      "topic": "Routing algorithms",
+      "question": "Explain the steps involved in the Link state algorithm.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 136,
+      "module": "MODULE-3",
+      "topic": "Quality of Service",
+      "question": "Define quality of service in networking and explain the primary parameters which define the QOS.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 2,
+      "sources": [
+        "QB.pdf",
+        "Question Bank - CN.docx"
+      ],
+      "importance": "MEDIUM",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 137,
+      "module": "MODULE-3",
+      "topic": "Quality of Service",
+      "question": "List and explain the techniques for achieving good quality of service.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 138,
+      "module": "MODULE-3",
+      "topic": "Packet Scheduling",
+      "question": "Explain why packet scheduling is required and describe the different strategies for packet scheduling.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 139,
+      "module": "MODULE-4",
+      "topic": "Connection Establishment",
+      "question": "Explain the three-way handshake protocol used for connection establishment and connection release with neat diagrams.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 2,
+      "sources": [
+        "QB.pdf",
+        "Question Bank - CN.docx"
+      ],
+      "importance": "MEDIUM",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 140,
+      "module": "MODULE-4",
+      "topic": "The Internet Transport Protocols (UDP and TCP)",
+      "question": "Explain TCP IP socket programming.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 2,
+      "sources": [
+        "QB.pdf",
+        "Question Bank - CN.docx"
+      ],
+      "importance": "MEDIUM",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 141,
+      "module": "MODULE-4",
+      "topic": "The Internet Transport Protocols (UDP and TCP)",
+      "question": "Explain the User Datagram Protocol with its header format.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 2,
+      "sources": [
+        "QB.pdf",
+        "Question Bank - CN.docx"
+      ],
+      "importance": "MEDIUM",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 142,
+      "module": "MODULE-4",
+      "topic": "Elements of Transport Protocols",
+      "question": "Explain how flow control and error control are achieved at the transport layer.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 143,
+      "module": "MODULE-4",
+      "topic": "The Internet Transport Protocols (UDP and TCP)",
+      "question": "Explain TCP connection establishment.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 144,
+      "module": "MODULE-2",
+      "topic": "Congestion Control Algorithms",
+      "question": "Explain how congestion can be avoided in TCP.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 2,
+      "sources": [
+        "QB.pdf",
+        "Question Bank - CN.docx"
+      ],
+      "importance": "MEDIUM",
+      "notes_validation": "PARTIAL"
+    },
+    {
+      "id": 145,
+      "module": "MODULE-5",
+      "topic": "Mail Services : Provide email service.",
+      "question": "Describe the architecture of electronic mail and explain SMTP.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 146,
+      "module": "MODULE-5",
+      "topic": "HTTP (Hypertext Trans fer Protocol), Web Search",
+      "question": "Explain the server side communication in WWW architecture.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 147,
+      "module": "MODULE-5",
+      "topic": "Electronic Mail",
+      "question": "Describe MIME (Multipurpose Internet Mail Extensions) along with its header information.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 148,
+      "module": "MODULE-5",
+      "topic": "The World Wide Web",
+      "question": "Explain the parts of the Web model with a neat diagram.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 150,
+      "module": "MODULE-1",
+      "topic": "Network hardware",
+      "question": "Differentiate between LAN, WAN, and MAN, and explain the categories of network hardware based on scale.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "Question Bank - CN.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 151,
+      "module": "MODULE-1",
+      "topic": "Network software",
+      "question": "Write a note on the Internetworking Protocol Hierarchy List and explain the design issues in network software design.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "Question Bank - CN.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 152,
+      "module": "MODULE-1",
+      "topic": "Reference Models",
+      "question": "Differentiate between TCP and UDP. With a neat diagram, explain the OSI reference model and the functions of each layer.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "Question Bank - CN.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 153,
+      "module": "MODULE-2",
+      "topic": "Routing algorithms",
+      "question": "Define routing, write the difference between routing and forwarding, describe the optimality principle, and solve the problem to find the shortest path from A to D using Dijkstra’s algorithm, given a graph.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "Question Bank - CN.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 154,
+      "module": "MODULE-2",
+      "topic": "Link state Routing",
+      "question": "Explain the steps involved in the Link State algorithm.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "Question Bank - CN.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 155,
+      "module": "MODULE-5",
+      "topic": "HTTP (Hypertext Trans fer Protocol), Web Search",
+      "question": "Explain Border Gateway Protocol (BGP) and Open Shortest Path First (OSPF).",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "Question Bank - CN.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 156,
+      "module": "MODULE-4",
+      "topic": "The Internet Transport Protocols (UDP and TCP)",
+      "question": "Differentiate between TCP and UDP, and explain the TCP segment header with a neat diagram.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "Question Bank - CN.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 157,
+      "module": "MODULE-4",
+      "topic": "Elements of Transport Protocols",
+      "question": "Explain how flow control and error control are achieved at the transport layer and describe TCP connection establishment.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "Question Bank - CN.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 158,
+      "module": "MODULE-5",
+      "topic": "HTTP (Hypertext Trans fer Protocol), Web Search",
+      "question": "Describe the Hyper Text Transfer Protocol, give the architecture of electronic mail, and explain SMTP.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "Question Bank - CN.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    },
+    {
+      "id": 159,
+      "module": "MODULE-5",
+      "topic": "The Application Layer",
+      "question": "Write a note on URL, describe MIME - The Multipurpose Internet Mail Extensions along with its header information.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "Question Bank - CN.docx"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "MODULE -1 INTRODUCTION (08 HOURS)": {
+    "Uses of computer networks": [
+      "Business Applications",
+      "Home Application",
+      "Mobile Users",
+      "Social Issues"
+    ],
+    "Network hardware": [
+      "Local Area Networks",
+      "Metropolitan Area Networks",
+      "Wide Area Networks",
+      "Wireless Networks",
+      "Home Networks",
+      "Internet works"
+    ],
+    "Network software": [
+      "Protocol Hierarchies",
+      "Design Issues fo r the Layers",
+      "Connection -Oriented and Connectionless Services",
+      "Service Primitives"
+    ],
+    "Reference Models": [
+      "OSI Reference Model and TCP/IP Reference Model"
+    ]
+  },
+  "MODULE -2 NETWORK LAYER - ROUTING AND CONGESTION CONTROL ( 8 HOURS)": {
+    "Routing algorithms": [
+      "The Optimality Principle",
+      "Shortest Path Routing",
+      "Flooding",
+      "Distance Vector Routing",
+      "Link state Routing",
+      "Hierarchical Routing"
+    ],
+    "Congestion Control Algorithms": [
+      "General Principles of Congestion Control",
+      "Congestion Prevention Policies",
+      "Conge stion Control in Virtual -Circuit Subnets",
+      "Congestion Control in Datagram Subnets",
+      "Load Shedding",
+      "Jitter Control"
+    ]
+  },
+  "MODULE -3 QUALITY OF SERVICE IN NETWORKS AND INTERNETWORKING ( 8 HOURS)": {
+    "Quality of Service": [
+      "Application Requirements",
+      "Traffic Shaping",
+      "Packet Scheduling",
+      "Admission Control"
+    ],
+    "Internetworking": [
+      "How networks differ",
+      "How Networks Can Be Connected",
+      "Tunneling",
+      "Internetwork Routing",
+      "Fragmentation"
+    ],
+    "The Network Layer in the Internet": [
+      "The IPv4 Protocol",
+      "IP Addresses",
+      "IPv6",
+      "Internet Control Protocols"
+    ]
+  },
+  "MODULE -4 THE TRANSPORT LAYER ( 8 HOURS)": {
+    "The Transport Service": [
+      "Services Provided to the Upper Layers",
+      "Transport Service Primitives",
+      "An Example of Socket Programming"
+    ],
+    "Elements of Transport Protocols": [
+      "Addressing",
+      "Connection Establishment",
+      "Connection Release"
+    ],
+    "The Internet Transport Protocols (UDP and TCP)": [
+      "Introduction to UDP",
+      "Introduction to TCP",
+      "The TCP Service Model",
+      "The TCP Protocol",
+      "The TCP Segment Header",
+      "TCP Connection Establishment",
+      "TCP Connection Release",
+      "and Sliding Window protocols"
+    ]
+  },
+  "MODULE -5 THE APPLICATION LAYER (8 HOURS)": {
+    "The Domain Name System DNS": [
+      "The DNS Name Space",
+      "Domain Resource Records",
+      "Name Servers",
+      "Electronic Mail: Architecture and Services",
+      "The User Agent",
+      "Message Formats WWW: Architectural overview",
+      "Static Web Pages",
+      "Dynamic Web Pages and"
+    ],
+    "HTTP (Hypertext Trans fer Protocol), Web Search": [
+      "HTTP (Hypertext Trans fer Protocol), Web Search"
+    ],
+    "A–Demonstration (Compulsorily to be conducted)": [
+      "A"
+    ],
+    "Implement three nodes point –to–point networks with duplex links between them using NS": [
+      "Implement three nodes point –to–point networks with duplex links between them using NS"
+    ],
+    "Set the queue size, vary the bandwidth, and find the number of packets dropped": [
+      "Set the queue size, vary the bandwidth, and find the number of packets dropped"
+    ],
+    "Implement transmission of ping messages/traceroute over a network topology consisting of 6 nodes using NS2 and find the number of packets dropped due to cong estion": [
+      "Implement transmission of ping messages/traceroute over a network topology consisting of 6 nodes using NS2 and find the number of packets dropped due to cong estion"
+    ],
+    "B–Exercise (compulsorily to be conducted)": [
+      "B"
+    ],
+    "Write a program to find the shortest path between vertices using the bellman -ford algorithm B": [
+      "Write a program to find the shortest path between vertices using the bellman -ford algorithm B"
+    ],
+    "Write a program for congestion control using a leaky bucket algorithm": [
+      "Write a program for congestion control using a leaky bucket algorithm"
+    ],
+    "Using TCP/IP sockets, write a client -server program to make client sending the file name and the server to send back the contents of the requested file if present": [
+      "Using TCP/IP sockets, write a client -server program to make client sending the file name and the server to send back the contents of the requested file if present"
+    ],
+    "C–Structured Enquiry (compulsorily any 4 to be conducted)": [
+      "C"
+    ],
+    "Analyze network p ackets using Wireshark (IPv6, Ipv4, ICMP, and ICMP6)": [
+      "Analyze network p ackets using Wireshark (IPv6, Ipv4, ICMP, and ICMP6)"
+    ],
+    "Implement an Ethernet LAN using n nodes and set multiple traffic nodes using NS2 and plot conges the window for different source/destination": [
+      "Implement an Ethernet LAN using n nodes and set multiple traffic nodes using NS2 and plot conges the window for different source/destination"
+    ],
+    "Develop a program such that client will sen d a simple ping message to a server and receive a corresponding pong message back from the server using any programming message": [
+      "Develop a program such that client will sen d a simple ping message to a server and receive a corresponding pong message back from the server using any programming message"
+    ],
+    "Implement IPv4 address classifier (A, B, C, D, and E) using any programming language": [
+      "Implement IPv4 address classifier (A, B, C, D, and E) using any programming language"
+    ],
+    "Implement simple FTP prot ocol using any programming language": [
+      "Implement simple FTP prot ocol using any programming language"
+    ],
+    "Create IPv4 or IPv6 packets using any programming language": [
+      "Create IPv4 or IPv6 packets using any programming language"
+    ],
+    "D–Open Ended Experiments (any one)": [
+      "D"
+    ],
+    "Implement IPv4 router using any programming language": [
+      "Implement IPv4 router using any programming language"
+    ],
+    "Implement packet sniffer using any programming language": [
+      "Implement packet sniffer using any programming language"
+    ]
+  }
+}

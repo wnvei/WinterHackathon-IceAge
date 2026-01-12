@@ -3,199 +3,208 @@ import os
 import sys
 import re
 import time
+import random
 from pathlib import Path
 from google import genai
 from dotenv import load_dotenv
+from collections import defaultdict
 
 # Load environment variables from .env
 load_dotenv()
+
+def roman_to_int(s):
+    rom_val = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}
+    int_val = 0
+    for i in range(len(s)):
+        if i > 0 and rom_val[s[i]] > rom_val[s[i-1]]:
+            int_val += rom_val[s[i]] - 2 * rom_val[s[i-1]]
+        else:
+            int_val += rom_val[s[i]]
+    return int_val
+
+def normalize_module_name(name):
+    if name is None: return None
+    match = re.search(r'(?:MODULE|UNIT|PART)\s*[-–]?\s*([IVX\d]+)', name, re.IGNORECASE)
+    if match:
+        val = match.group(1).upper()
+        if re.match(r'^[IVXLC]+$', val):
+            try: return f"MODULE-{roman_to_int(val)}"
+            except: pass
+        return f"MODULE-{val}"
+    match_just_digit = re.search(r'(\d+)', name)
+    if match_just_digit:
+        return f"MODULE-{match_just_digit.group(1)}"
+    return name.strip().upper()
 
 def index_notes_by_module(text):
     index = {}
     current_mod = None
     lines = text.split('\n')
     for line in lines:
-        mod_match = re.search(r'(MODULE|UNIT)\s*[-–]?\s*(\d+)', line, re.IGNORECASE)
+        mod_match = re.search(r'(MODULE|UNIT|PART)\s*[-–]?\s*([IVX\d]+)', line, re.IGNORECASE)
         if mod_match:
-            current_mod = f"MODULE-{mod_match.group(2)}"
+            current_mod = normalize_module_name(line)
             if current_mod not in index: index[current_mod] = ""
         if current_mod:
             index[current_mod] += " " + line
     return index
 
 def get_allowed_topics(syllabus_data, module_name):
-    if module_name is None: return []
-    topics = []
-    mod_num_match = re.search(r'(\d+)', module_name)
-    if not mod_num_match: return []
-    target_num = mod_num_match.group(1)
-
-    for full_mod_key, categories in syllabus_data.items():
-        if re.search(r'(?:MODULE|UNIT)\s*[-–]?\s*' + target_num, full_mod_key, re.IGNORECASE):
-            for category, subtopics in categories.items():
-                topics.append(category)
-                topics.extend(subtopics)
-            break
-    return list(set(topics))
+    if not module_name: return []
+    norm_target = normalize_module_name(module_name)
+    
+    for full_mod_key, topics_info in syllabus_data.items():
+        if normalize_module_name(full_mod_key) == norm_target:
+            allowed = []
+            for topic, subtopics in topics_info.items():
+                allowed.append(topic)
+                allowed.extend(subtopics)
+            return list(set(allowed))
+    return []
 
 def validate_questions():
-    # 1. Initialize Client
     api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
         print("ERROR: GEMINI_API_KEY environment variable not set.")
         return
 
     client = genai.Client(api_key=api_key)
-
-    # 2. Iterate through all subjects in Subject/
-    base_dir = Path(__file__).parent.parent
+    base_dir = Path(__file__).resolve().parent.parent
     data_dir = base_dir / "Subject"
     
-    # Check for targeted subject argument
     target_subject = sys.argv[1] if len(sys.argv) > 1 else None
 
+    if not data_dir.exists():
+        print(f"Error: Data directory not found at {data_dir}")
+        return
+
     for subject_dir in data_dir.iterdir():
-        if not subject_dir.is_dir():
-            continue
-            
-        # If a target subject is specified, skip others
-        if target_subject and subject_dir.name.lower() != target_subject.lower():
-            continue
+        if not subject_dir.is_dir(): continue
+        if target_subject and subject_dir.name.lower() != target_subject.lower(): continue
 
         processed_dir = subject_dir / "processed"
-        
         questions_path = processed_dir / "questions.json"
         syllabus_path = processed_dir / "syllabus.json"
         notes_path = processed_dir / "notes.txt"
         output_path = processed_dir / "validated_questions.json"
 
-        if not questions_path.exists() or not syllabus_path.exists():
+        if not questions_path.exists() or not syllabus_path.exists() or not notes_path.exists():
+            print(f"Skipping {subject_dir.name}: Missing core files.")
             continue
 
         print(f"\nAI Validation for {subject_dir.name}...")
 
-        # 3. Load Files
-        try:
-            with open(questions_path, 'r', encoding='utf-8') as f:
-                questions_data = json.load(f).get('questions', [])
-            with open(syllabus_path, 'r', encoding='utf-8') as f:
-                syllabus_data = json.load(f)
-            with open(notes_path, 'r', encoding='utf-8') as f:
-                notes_index = index_notes_by_module(f.read())
-        except FileNotFoundError as e:
-            print(f"  ERROR: Missing input file: {e}")
-            continue
+        with open(questions_path, 'r', encoding='utf-8') as f:
+            questions_data = json.load(f).get('questions', [])
+        with open(syllabus_path, 'r', encoding='utf-8') as f:
+            syllabus_data = json.load(f)
+        with open(notes_path, 'r', encoding='utf-8') as f:
+            full_notes = f.read()
 
-        # 4. Filter and Process
         updated_questions = []
-        stats = {
-            "CONFIRMED": 0,
-            "REASSIGNED": 0,
-            "UNKNOWN": 0,
-            "NOTES_CONFIRMED": 0,
-            "NOT_FOUND": 0,
-            "ERRORS": 0
-        }
-
-        print(f"  Processing {len(questions_data)} questions via Gemini...")
+        stats = defaultdict(int)
 
         for q in questions_data:
-            module = q.get('module', 'UNKNOWN')
-            allowed_topics = get_allowed_topics(syllabus_data, module)
-            
-            if not allowed_topics:
-                q['topic_validation'] = 'UNKNOWN'
-                q['notes_validation'] = 'ERROR'
-                q['final_topic'] = q.get('topic')
-                updated_questions.append(q)
-                stats["UNKNOWN"] += 1
-                continue
+            module = q.get('module') or "UNKNOWN"
+            # If module is unknown, we give the AI the full syllabus keys to pick from
+            syllabus_summary = {}
+            for m_key, m_info in syllabus_data.items():
+                syllabus_summary[m_key] = list(m_info.keys())
 
-            # Get module-specific notes
-            notes_context = notes_index.get(module, "")
-            # Truncate for prompt safety if very large
-            notes_context = notes_context[:30000]
+            notes_context = full_notes
 
             prompt = f"""
-    You are an academic expert. 
-    Question: "{q['question']}"
-    Assigned Module: {module}
-    Allowed topics for this module: {json.dumps(allowed_topics)}
+            Task: Deep clean and validate an academic question.
+            
+            Raw Question: "{q['question']}"
+            Stated Marks: {q.get('marks') or "null"}
+            Stated Module: {module}
+            
+            Syllabus (Available Modules & Topics):
+            {json.dumps(syllabus_summary, indent=2)}
+            
+            Context (Notes for grounding):
+            \"\"\"{notes_context}\"\"\"
 
-    Grounding Context (Official Notes):
-    \"\"\"{notes_context}\"\"\"
+            Rules:
+            1. is_junk: If the 'Raw Question' is just noise, a header, or an instruction (e.g., "Answer any five"), set to true.
+            2. cleaned_question: Rewrite the question as a clear, professional English sentence. Remove only the non-text "fluff" / metadata (e.g., "L2", "CO1", "PO6", "10 Marks", "(a)", "Q.No"). Keep the actual question text and command verbs.
+            3. module: IGNORE 'Stated Module' if incorrect. Match the question content to the 'Syllabus' keys provided. Output the exact Module key (e.g., "MODULE-1").
+            4. topic: Maps to the most relevant topic key from the syllabus for that module. MANDATORY: Must be one of the keys or sub-keys from the provided syllabus. Do NOT return null.
+            5. marks: Inferred marks (integer) if missing, based on question complexity (2, 5, or 8).
+            6. notes_validation:
+               - 'CONFIRMED': The answer is explicitly or implicitly present in the Context. Semantic matches (diction vs phrasing) are ACCEPTABLE.
+               - 'PARTIAL': The core concept is mentioned, but specific details/list items asked for might be missing.
+               - 'NOT_FOUND': The concept is completely absent from the notes.
+            7. syllabus_status: If you can map it to a module/topic, return "IN_SYLLABUS". Else "OUT_OF_SYLLABUS".
 
-    Task:
-    1. Topic Correction: Select the most accurate topic from the "Allowed topics" list above. If the original topic "{q['topic']}" is perfect, keep it. If another topic from the allowed list is more accurate, select it.
-    2. Notes Validation: Check if the concept required to answer this question is present in the provided "Grounding Context".
+            Output JSON Format:
+            {{
+                "is_junk": boolean,
+                "cleaned_question": "string",
+                "module": "string",
+                "topic": "string",
+                "marks": integer,
+                "notes_validation": "CONFIRMED | PARTIAL | NOT_FOUND",
+                "syllabus_status": "IN_SYLLABUS | OUT_OF_SYLLABUS"
+            }}
+            """
+            # Backoff Logic
+            max_retries = 5
+            base_delay = 5
+            
+            ai_res = None
+            for attempt in range(max_retries):
+                try:
+                    response = client.models.generate_content(
+                        model='gemini-2.0-flash',
+                        contents=prompt,
+                        config={"response_mime_type": "application/json"}
+                    )
+                    ai_res = json.loads(response.text.strip())
+                    break # Success
+                except Exception as e:
+                    if "429" in str(e) or "RESOURCE_EXHAUSTED" in str(e):
+                        if attempt < max_retries - 1:
+                            wait_time = base_delay * (2 ** attempt) + random.uniform(0, 2)
+                            print(f"  Rate limited. Retrying in {wait_time:.1f}s...")
+                            time.sleep(wait_time)
+                        else:
+                            print(f"Error validating {q['id']} after retries: {e}")
+                            stats["ERROR"] += 1
+                    else:
+                        print(f"Error validating {q['id']}: {e}")
+                        stats["ERROR"] += 1
+                        break
 
-    Output:
-    Return ONLY a valid JSON object in the exact format below.
+            if not ai_res:
+                continue
 
-    {{
-    "final_topic": "exact topic name or null",
-    "notes_validation": "CONFIRMED | NOT_FOUND"
-    }}
-    """
-            try:
-                # Call Gemini using new SDK
-                response = client.models.generate_content(
-                    model='gemini-2.0-flash',
-                    contents=prompt
-                )
+            if isinstance(ai_res, list):
+                ai_res = ai_res[0] if ai_res else {}
+
+            if ai_res.get('is_junk'):
+                stats["JUNK"] += 1
+                continue
+
+            q['question'] = ai_res.get('cleaned_question', q['question'])
+            q['module'] = normalize_module_name(ai_res.get('module', q['module']))
+            q['topic'] = ai_res.get('topic', q.get('topic'))
+            q['marks'] = ai_res.get('marks', q.get('marks'))
+            q['notes_validation'] = ai_res.get('notes_validation', 'NOT_FOUND')
+            q['syllabus_status'] = ai_res.get('syllabus_status', "IN_SYLLABUS")
+
+            if q['notes_validation'] == 'CONFIRMED': stats["VERIFIED"] += 1
+            elif q['notes_validation'] == 'PARTIAL': stats["VERIFIED"] += 1 # Count partial as verified for stats
+            stats["VALID"] += 1
                 
-                res_text = response.text.strip()
-                # Simple cleaning in case of markdown
-                if "```json" in res_text:
-                    res_text = res_text.split("```json")[1].split("```")[0].strip()
-                
-                ai_res = json.loads(res_text)
-                
-                # Logic for topic_validation status
-                final_t = ai_res.get('final_topic')
-                orig_t = q.get('topic')
-
-                if final_t == orig_t:
-                    q['topic_validation'] = 'CONFIRMED'
-                    stats["CONFIRMED"] += 1
-                elif final_t in allowed_topics:
-                    q['topic_validation'] = 'REASSIGNED'
-                    stats["REASSIGNED"] += 1
-                else:
-                    q['topic_validation'] = 'UNKNOWN'
-                    stats["UNKNOWN"] += 1
-
-                q['final_topic'] = final_t
-                q['notes_validation'] = ai_res.get('notes_validation', 'NOT_FOUND')
-                
-                if q['notes_validation'] == 'CONFIRMED':
-                    stats["NOTES_CONFIRMED"] += 1
-                else:
-                    stats["NOT_FOUND"] += 1
-
-            except Exception as e:
-                print(f"    Error processing ID {q['id']}: {e}")
-                q['topic_validation'] = 'ERROR'
-                q['notes_validation'] = 'ERROR'
-                q['final_topic'] = q.get('topic')
-                stats["ERRORS"] += 1
-
             updated_questions.append(q)
-            # Short sleep to avoid rate limiting
-            time.sleep(0.5)
+            time.sleep(0.3)
 
-        # 5. Save Results
         with open(output_path, 'w', encoding='utf-8') as f:
             json.dump({"questions": updated_questions}, f, indent=2, ensure_ascii=False)
 
-        # 6. Final Summary
-        print(f"  Validation complete for {subject_dir.name}!")
-        print(f"  - Confirmed Topics: {stats['CONFIRMED']}")
-        print(f"  - Reassigned Topics: {stats['REASSIGNED']}")
-        print(f"  - Unknown/Errors: {stats['UNKNOWN'] + stats['ERRORS']}")
-        print(f"  - Verified In Notes: {stats['NOTES_CONFIRMED']}")
-        print(f"  - Missing From Notes: {stats['NOT_FOUND']}")
-        print(f"  Output saved to: {output_path}")
+        print(f"  Done. Valid: {stats['VALID']}, Verified in Notes: {stats['VERIFIED']}, Junk Filtered: {stats['JUNK']}, Errors: {stats['ERROR']}")
 
 if __name__ == "__main__":
     validate_questions()

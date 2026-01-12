@@ -1,0 +1,949 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "module": "MODULE-5",
+      "topic": "Industrial Designs",
+      "question": "Discuss briefly registrable and non-registrable designs.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "22RMI57_Model QP-1.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "Registered designs are protected for 10 years initially, extendable by 5 years, offering a maximum protection of 15 years. For a design to be registrable, it should be novel, original, not previously published, and applied to an article via an industrial process. Also, the features should be purely aesthetic, not functional, and should appeal to and be judged solely by the eye. Furthermore, it should not be contrary to public order or morality, should not be a mere mechanical device, and should not be a trademark or an artistic work already protected. \n\nNon-registrable designs include those against public moral values; designs that include flags, emblems, or signs of any country; and designs of integrated circuits. Also, industrial designs that describe the process of making an article, and certain artistic works such as paintings, sculptures, drawings, and photographs are not registrable. Trademarks are also excluded from industrial design registration."
+    },
+    {
+      "id": 2,
+      "module": "MODULE-2",
+      "topic": "Research Paper Writing",
+      "question": "State and explain at least 8 key reasons why writing research papers is important.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "22RMI57_Model QP-2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "The notes outline eight key reasons why writing research papers is important:\n\n1.  **Contribution to Knowledge:** Research papers facilitate the sharing of findings, insights, and discoveries, which contributes to the expansion of knowledge in a specific field and advances the understanding of a subject.\n2.  **Critical Thinking and Problem-Solving:** The research and writing process encourages critical thinking by involving the analysis of information, synthesis of ideas, and drawing of conclusions. These skills are essential for problem-solving in both academic and professional environments.\n3.  **Documentation of Findings:** Research papers document the methodologies, results, and conclusions of a study, thereby providing a reference point for other researchers. This documentation enables the replication of experiments and building upon previous work.\n4.  **Communication Skills:** The writing of research papers enhances communication skills, as researchers must articulate their ideas clearly and effectively to convey complex information to a broader audience.\n5.  **Academic Recognition and Career Advancement:** Publishing research papers is often a prerequisite for academic advancement, leading to recognition within a field and opportunities for grants, collaborations, promotions, and tenure.\n6.  **Peer Review and Quality Assurance:** The publishing process involves peer review, where experts evaluate the research for its quality, accuracy, and contribution. This ensures the credibility and validity of the research.\n7.  **Impact and Influence:** Impactful research papers can influence policies, practices, and future research, shaping discussions, inspiring new ideas, and driving innovation.\n8.  **Education and Learning Process:** Writing research papers is an integral part of education, allowing students to delve deeply into a subject, fostering a greater understanding and appreciation for the research process.\n\nThe notes also allude to two further points:\n\n9.  **Documentation and Preservation of Knowledge:** Research papers act as a permanent record of scholarly work, contributing to the preservation of knowledge for future researchers and students.\n10. **Personal and Intellectual Growth:** Engaging in research and writing papers is intellectually stimulating, challenging individuals to expand their knowledge, explore new concepts, and develop their abilities as researchers and scholars."
+    },
+    {
+      "id": 3,
+      "module": "MODULE-5",
+      "topic": "Industrial Designs",
+      "question": "What is an Industrial Design? Discuss the need for protection of Industrial Designs as IP in India.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "22RMI57_Model QP-2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "An Industrial Design relates to the \\\"appearance of an article\\\" i.e. how the product looks and its design, but it doesn’t protect its technical or functional features i.e. how a product works. Industrial designs are applied to a variety of products of industry and handicraft. An industrial design consists of two -dimensional figures such as lines, color, patterns of an article as well it consists of three -dimensional figures such as the shape of an article. For example, two -dimensional figures – the pattern of textile, three -dimensional figure – round tail of a bike. \n\nNeed for protection of Industrial Designs:\n\n1.  **Customer Purchase Choice**: A customer’s purchase choice, purchase decision, and opinion about a product is based on the product or article aesthetics, i.e. appearance such as patterns, shapes, looks, colors, combinations, etc.\n2.  **Monetary Gain**: Industrial designs must be protected and registered in order to gain many benefits such as monetary gain, making a brand, etc.\n3.  **Quality Standard**: They also link a product with a particular quality standard based on the article’s appearance or product aesthetics.\n4.  **Differentiating Products**: For an enterprise, the design of a product is an uncomplicated or the simplest way of differentiating one product from other competing products.\n5.  **Prevent Copying**: companies making imitation products usually copy the design of a product, to gain value in the market share.\n6.  **Business Asset**: For business owners, a registration of an industrial design may be a valuable business asset.\n7.   **Influence Success**: The success of a product is usually influenced by its appearance in an aesthetic -driven consumer base, the looks of a fashionable product can often be equally or more important than its functionality.\n8.  **Exclusive Rights**: Obtaining exclusive rights to a product or an article with a particular appearance may result in a substantial return on the investment because it will allow you to prevent others from reproducing a popular design.\n9.  **Revenue Generator**\n10. **Return on Investments**\n11. **Promotes Brand Value**\n12. **Facilitates Marketing and Commercialization**\n13. **Unique Selling Propositions**\n14. **Reward and Encourages Creativity** industrial design protection rewards and encourages creativity and innovation to benefit the consumers and the public at large and thus leads to more attractive and diversified products.\n15. **Manufacturing Sector Benefits:** Protecting industrial designs may benefit the manufacturing and industrial sector as well as it injects into creativity it contributes to the development and enlargement of commercial activities, and build -up the potential of exports of national products. As the protection of industrial designs is relatively simple and inexpensive to develop. Hence they are rationally reachable to small and medium undertakings and even to the individual artists and craftsmen in both industrialized and developing countries."
+    },
+    {
+      "id": 4,
+      "module": "MODULE-3",
+      "topic": "Introduction to Intellectual Property",
+      "question": "Explain briefly the need for protection of India’s Traditional Knowledge under Intellectual Property regime.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "22RMI57_Model QP-2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "NOT_FOUND",
+      "answer": "India's Traditional Knowledge (TK), often developed over generations, is a valuable resource. Protecting it under the Intellectual Property (IP) regime is crucial for several reasons:\n\n1.  **Preventing Misappropriation:** Without protection, TK is vulnerable to being patented or commercially exploited by others without acknowledging or compensating the original holders. This is also called as biopiracy, and it can lead to economic loss and erosion of cultural heritage for local communities.\n2.  **Promoting Economic Growth:** By protecting TK, India can foster innovation and entrepreneurship based on its traditional knowledge systems. This can lead to the development of new products and services, creating economic opportunities for local communities and contributing to the country's economic growth.\n3.  **Safeguarding Cultural Heritage:** TK is an integral part of India's cultural identity and heritage. Protecting it under the IP regime helps preserve this heritage for future generations, ensuring its continued use and transmission. Landmark cases like the Turmeric and Neem patent cases showcase this need.\n4.  **Ensuring Equitable Benefit Sharing:** IP protection can facilitate benefit-sharing mechanisms, ensuring that local communities receive a fair share of the profits arising from the commercialization of their TK.\n5.  **Fostering Innovation and Creativity:** Protecting TK encourages further research and development in traditional knowledge systems, leading to new innovations and discoveries that can benefit society as a whole."
+    },
+    {
+      "id": 7,
+      "module": "MODULE-1",
+      "topic": "Research Methodology",
+      "question": "Distinguish between qualitative and quantitative research.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "Quantitative research is based on the measurement of quantity or amount and is applicable to phenomena that can be expressed in terms of quantity. Qualitative research, on the other hand, is concerned with qualitative phenomenon, i.e., phenomena relating to or involving quality or kind. For instance, investigating the reasons for human behaviour, i.e., why people think or do certain things, is an important type of qualitative research known as ‘Motivation Research’."
+    },
+    {
+      "id": 9,
+      "module": "MODULE-1",
+      "topic": "Research Methodology",
+      "question": "What do you mean by Research Methods and Research Methodology?",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "Error during generation."
+    },
+    {
+      "id": 10,
+      "module": "MODULE-1",
+      "topic": "Research process",
+      "question": "What do you understand by Sample Design in the Research Process?",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "Error during generation."
+    },
+    {
+      "id": 11,
+      "module": "MODULE-1",
+      "topic": "Research Methodology",
+      "question": "List any 3 components of Research Design.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "PARTIAL",
+      "answer": "Based on the notes provided, here are three components of Research Design, though they are not explicitly listed under that title. Instead, they are mentioned within the context of 'Preparing the research design'.\n\n1.  **(i) the means of obtaining the information;** This involves deciding on the methods for collecting data, whether through experiments, surveys, or other techniques.\n\n2.  **(iv) the time available for research;** The time frame for the research is a critical component, influencing the scope and methods used.\n\n3.  **(v) the cost factor relating to research, i.e., the finance available for the purpose.** Financial resources are a key consideration in research design, affecting the feasibility of different approaches and data collection methods."
+    },
+    {
+      "id": 13,
+      "module": "MODULE-1",
+      "topic": "Literature Survey, Literature Review",
+      "question": "What do you mean by the impact factor of journals?",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "Error during generation."
+    },
+    {
+      "id": 15,
+      "module": "MODULE-1",
+      "topic": "Plagiarism",
+      "question": "Name any four plagiarism detection tools.",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "Four plagiarism detection tools are Turnitin, Grammarly, Copyscape, and Plagscan."
+    },
+    {
+      "id": 16,
+      "module": "MODULE-1",
+      "topic": "Plagiarism",
+      "question": "How can you ensure that your research report is free from plagiarism before submission?",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "Error during generation."
+    },
+    {
+      "id": 18,
+      "module": "MODULE-1",
+      "topic": "Types of research",
+      "question": "Explain any 4 basic types of Research.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "Error during generation."
+    },
+    {
+      "id": 20,
+      "module": "MODULE-1",
+      "topic": "Research process, Criteria of good research.",
+      "question": "Discuss the criteria for good research.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "Error during generation."
+    },
+    {
+      "id": 21,
+      "module": "MODULE-1",
+      "topic": "Research Methodology",
+      "question": "Research is much concerned with proper findings, analysis and evaluation. Do you agree with this statement? Give reasons in support of your answer.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "Error during generation."
+    },
+    {
+      "id": 22,
+      "module": "MODULE-1",
+      "topic": "Literature Review",
+      "question": "List and explain the steps involved in the literature review process.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "The steps involved in the literature review process are as follows:\n\n1.  **Select a topic**: Choose a topic that can be managed within the available timeframe. Establish research questions and organize the literature into logical categories around the subject/topic areas of these questions. Ensure that the research questions are specific enough to guide the search for relevant literature. It is important to understand the concept of 'broader' and 'narrower' terms, as a narrower topic makes it easier to limit the number of sources needed for a good survey of the literature.\n2.  **Identify the most relevant sources**: Use a variety of resources to locate books, journals, and documents that contain useful information and ideas on the chosen topic. Include internet sites, theses & dissertations, conference papers, ePrints, and government or industry reports. Avoid relying solely on easily available electronic full-text material. Reference sources like dictionaries and encyclopedias can help with terminology and provide introductions to the topic with key references.\n3.  **Search and Refine**: Search databases that provide full-text access to articles and allow refinement of the search to 'peer-reviewed' journals. These journals undergo a rigorous quality assessment process by researchers or subject specialists before publication. Utilize operators like And, Or, and Not, along with wildcards and logical brackets, to refine the search. 'And' narrows the search, 'Or' expands it, and 'Not' excludes irrelevant information.\n4.  **Read and Analyze**: Read the literature and analyze it to find answers to questions such as whether there are gaps in the literature, where significant research has taken place, if there is consensus or debate on the topic, and which methodological approaches work best.\n5.  **Write the Literature Review**: Organize the review in a way that suits the project, such as centering it historically (how the topic has been dealt with over time), focusing on theoretical positions surrounding the topic (those for a position vs. those against), or emphasizing how each source contributes to the understanding of the project.  The literature review should include an introduction explaining how the review is organized, a body containing headings and subheadings that provide a map to show the various perspectives of the argument, and a summary."
+    },
+    {
+      "id": 23,
+      "module": "MODULE-1",
+      "topic": "Plagiarism",
+      "question": "What do you mean by Plagiarism? Explain at least 5 key practices to help prevent plagiarism.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "Plagiarism is academic or literary theft, occurring intentionally or unintentionally, when someone uses another person’s language, ideas, or any other type of text material, figure, and graph which do not belong to common original knowledge without acknowledgement.\n\nKey practices to help prevent plagiarism include:\n\n1.  **Cite Sources:** Whenever you use someone else's ideas, words, or data, cite the source. This includes direct quotes, paraphrases, summaries, and even ideas that are not common knowledge. Use the appropriate citation style (APA, MLA, Chicago, etc.) recommended by your institution or publisher.\n2.  **Understand Proper Paraphrasing:** When paraphrasing, rephrase the original text in your own words while retaining the meaning. Ensure that the structure and organization of the information are different from the original.\n3.  **Use Quotations:** When directly quoting a source, use quotation marks and provide the correct citation. This indicates that the exact words are from the original source.\n4.  **Manage References and Notes:** Keep thorough notes of all sources consulted during research. Record bibliographic information (author, title, publication date, etc.) to properly cite them later.\n5.  **Develop Your Own Ideas:** Focus on developing original thoughts and ideas backed by evidence and research. Combine information from various sources to create new insights and interpretations.\n6.  **Give Credit for Common Knowledge:** Information that is common knowledge or widely accepted facts (e.g., historical dates, scientific principles) doesn't require citation. However, if in doubt, it's better to cite the source.\n7.  **Use Plagiarism Detection Tools:** Before submitting your work, utilize plagiarism detection software or online tools to check for unintentional similarities with existing content.\n8.  **Seek Guidance:** If you're unsure about proper citation practices or how to use sources correctly, consult style guides, academic writing centers, or your instructors for guidance.\n9.  **Plan Ahead and Manage Time:** Procrastination can lead to rushed writing, increasing the likelihood of accidental plagiarism. Start your assignments early to have enough time for research, writing, and proper citation.\n10. **Review and Edit:** Always review your work before submission. Check citations, references, and quotations to ensure accuracy and completeness."
+    },
+    {
+      "id": 24,
+      "module": "MODULE-1",
+      "topic": "Literature Survey, Literature Review",
+      "question": "What are the primary goals of conducting a literature review in academic research?",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "The primary goals of conducting a literature review in academic research are not explicitly stated in the provided notes context. However, the notes do describe the literature review (LR) process and its key features. We can infer the goals from these descriptions.\n\nBased on the notes, here are the primary goals:\n\n1.  **Systematic Compilation and Critical Study:** A primary goal is to systematically compile and critically study related body of knowledge. The literature review should be a well-organized and comprehensive survey of relevant sources.\n\n2.  **Description, Summary, and Critical Evaluation:** The review aims to provide a description, summary, and critical evaluation of existing works in relation to the research problem under investigation.\n\n3.  **Identifying Relevant Sources:** The process involves identifying the most relevant sources, including books, journals, conference papers, and other scholarly materials.\n\n4.  **Analysis and Gap Identification:** A key goal is to analyze the literature to identify gaps, areas of consensus and debate, and effective methodological approaches. This helps in understanding what research has already been done and what still needs to be explored.\n\n5.  **Versatility & Completeness:** A good literature review includes a diverse range of resources like reviews, research articles, patents, and books, focusing on all the topics and subtopics related to the scope of study.\n\n6.  **Up-to-date Information:** Using recent developments in the field."
+    },
+    {
+      "id": 25,
+      "module": "MODULE-1",
+      "topic": "Plagiarism",
+      "question": "Describe how you will avoid plagiarism in your assignment submissions.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "To avoid plagiarism in assignment submissions, I will adhere to the following key practices:\n\n1.  **Cite Sources:** Whenever I use someone else's ideas, words, or data, I will cite the source using the appropriate citation style (APA, MLA, Chicago, etc.) as recommended by the institution or publisher. This includes direct quotes, paraphrases, summaries, and even ideas that are not common knowledge.\n2.  **Understand Proper Paraphrasing:** When paraphrasing, I will rephrase the original text in my own words while retaining the meaning. I will ensure that the structure and organization of the information are different from the original.\n3.  **Use Quotations:** When directly quoting a source, I will use quotation marks and provide the correct citation. This indicates that the exact words are from the original source.\n4.  **Manage References and Notes:** I will keep thorough notes of all sources consulted during research and record bibliographic information (author, title, publication date, etc.) to properly cite them later.\n5.  **Develop Own Ideas:** I will focus on developing original thoughts and ideas backed by evidence and research and combine information from various sources to create new insights and interpretations.\n6.  **Give Credit for Common Knowledge:** Although information that is common knowledge does not require citation, if in doubt, it's better to cite the source.\n7.  **Use Plagiarism Detection Tools:** Before submitting the work, I will utilize plagiarism detection software or online tools to check for unintentional similarities with existing content.\n8.  **Seek Guidance:** If unsure about proper citation practices or how to use sources correctly, I will consult style guides, academic writing centers, or instructors for guidance.\n9.  **Plan Ahead and Manage Time:** Avoiding procrastination and starting assignments early ensures enough time for research, writing, and proper citation.\n10. **Review and Edit:** Always review the work before submission and check citations, references, and quotations to ensure accuracy and completeness."
+    },
+    {
+      "id": 27,
+      "module": "MODULE-1",
+      "topic": "Literature Survey, Literature Review",
+      "question": "Write a note on Author Metrics and Journal Metrics.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "Error during generation."
+    },
+    {
+      "id": 28,
+      "module": "MODULE-2",
+      "topic": "Research Paper Writing",
+      "question": "Which section of a research paper outlines the specific aims or objectives of the study?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "PARTIAL",
+      "answer": "The \"Aim and Objectives\" section of a research paper outlines the specific aims or objectives of the study; the aim defines the overall purpose, while objectives break down this aim into specific, measurable tasks."
+    },
+    {
+      "id": 29,
+      "module": "MODULE-2",
+      "topic": "Research Paper Writing",
+      "question": "What does the \"methods\" section of a research paper primarily describe?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "Error during generation."
+    },
+    {
+      "id": 30,
+      "module": "MODULE-2",
+      "topic": "Research Paper Writing",
+      "question": "What is the function of the \"discussion\" section in a research paper?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "NOT_FOUND",
+      "answer": "Error during generation."
+    },
+    {
+      "id": 31,
+      "module": "MODULE-2",
+      "topic": "Research Paper Writing",
+      "question": "What should the \"references\" section of a research paper contain?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "Not supported by notes"
+    },
+    {
+      "id": 32,
+      "module": "MODULE-2",
+      "topic": "Thesis Writing",
+      "question": "What is the significance of the \"Literature Review\" section in a thesis?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "Error during generation."
+    },
+    {
+      "id": 33,
+      "module": "MODULE-2",
+      "topic": "Research Paper Writing",
+      "question": "Which of the following statement is not true: a) Results and discussions follow materials and methods; b) Both results and discussions can be written separately; c) References should be the latest one, preferably; d) You can criticize any previous study if it contrasts yours?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "PARTIAL",
+      "answer": "The statement that is not true is \"d) You can criticize any previous study if it contrasts yours?\", as the notes state \"Do not criticize others (if you find anything in contrast, just mention, professionally)\"."
+    },
+    {
+      "id": 34,
+      "module": "MODULE-2",
+      "topic": "Research Proposal Writing",
+      "question": "What does the \"Significance/Justification\" section in a research proposal focus on?",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "PARTIAL",
+      "answer": "Error during generation."
+    },
+    {
+      "id": 36,
+      "module": "MODULE-2",
+      "topic": "Research Paper Writing",
+      "question": "Define a research paper briefly.",
+      "marks": 2,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "Error during generation."
+    },
+    {
+      "id": 38,
+      "module": "MODULE-2",
+      "topic": "Research Paper Writing",
+      "question": "Explain the role of proper referencing in a research paper.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "Proper referencing in a research paper plays a crucial role in several aspects:\n\n1.  **Avoiding Plagiarism:** Referencing and citations help to avoid plagiarism by giving credit to the original authors or sources of information.\n2.  **Supporting Arguments:** Citations strengthen arguments by providing evidence from existing literature, research, or expert opinions.\n3.  **Credibility and Validity:** Referencing adds credibility and validity to the research by demonstrating that the author's claims are supported by established sources.\n4.  **Key elements of referencing and citations:** Includes in-text citations that appear within the text, reference list/bibliography at the end of the paper, citation styles, and both direct/indirect citations from sources.\n5.  **How to use:** Ensure every idea, fact, or direct quote that is not common knowledge is properly cited and that you are using a specific citation style that is required by the journal or academic institution."
+    },
+    {
+      "id": 40,
+      "module": "MODULE-2",
+      "topic": "Research Paper Writing",
+      "question": "State and explain at least 8 key reasons why writing research papers is important.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "Error during generation."
+    },
+    {
+      "id": 41,
+      "module": "MODULE-2",
+      "topic": "Research Paper Writing",
+      "question": "Explain briefly the steps involved in writing research papers with the help of a flow chart.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "The steps involved in writing research papers, explained with a flow chart, are as follows:\n\n1.  **Plan:** The initial step involves planning aspects like time management, studies to be included, language to be used (English is preferred for international readership), authorship determination (denoting an 'intellectual contribution'), and outlining the paper. The outline could include the body of knowledge (literature review), rationale, aims/objectives, methods, and results & discussion.\n\n2.  **Target Journal:** Identify a suitable journal for manuscript submission, considering factors such as topic match with journal scope, database referencing, reputation (Impact Factor or other journal metrics), time, availability (online/offline), indexing, format (author guidelines), and article processing charges.\n\n3.  **Write First Draft:** Maintain a systemic flow in writing and presenting information, adhering to journal guidelines. Avoiding grammatical mistakes and plagiarism is crucial. Focus on reader-friendliness and clarity in each section.\n\n4.  **Revision:** Make major alterations to enhance manuscript attractiveness and readability. Address gaps, correct logical flaws, and restructure for optimal material presentation. Polish style, refine text, ensure correct grammar and spelling, ensure cohesion and coherence, and format the document per journal recommendations. Multiple revisions are often necessary.\n\n5.  **Final Check:** All co-authors must review the final draft to ensure it meets expectations, checking overall appearance, page breaks, and inconsistencies. Verify compliance with formatting guidelines, accuracy of table and figure numbering with text citations, finalise the abstract, and proofread the title meticulously.\n\n6.  **Submission and Post Submission:** This step involves:\n    *   Preparing a cover letter (for Journal Submission).\n    *   Submission to Journals/Conferences.\n    *   Awaiting the Review/Feedback.\nPost-Submission includes:\n    *   Response to Reviewers (if applicable).\n    *   Revision and Resubmission.\n    *   Acceptance and Publication.\n    *   Proofreading and Final Checks.\n    *   Publication and Dissemination.\n\nRefer to the notes for the flowchart representing the steps in writing research papers. The flowchart visually depicts the sequence: Plan -> Target Journal -> Write First Draft -> Revise and Format -> Final Check -> Submission and Post Submission."
+    },
+    {
+      "id": 42,
+      "module": "MODULE-2",
+      "topic": "Research Paper Writing",
+      "question": "Discuss briefly the different sections in the IMRaD style of writing a research article.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "The IMRaD style is a common structure used in scientific and academic writing, especially for research papers. It consists of four main sections:\n\n1.  **Introduction**: This section provides context and background information, stating the research problem or question, and the study's objectives or hypotheses. It ends with a clear statement of the research aim.\n2.  **Methods**: This section details the methodology used to conduct the research, including the research design, materials, data collection methods, and procedures. It should allow another researcher to replicate the study.\n3.  **Results**: This section presents the findings of the research objectively. It includes raw data, statistical analyses, graphs, tables, and other forms of data representation without interpretation.\n4.  **Discussion**: This section interprets and explains the significance of the results in the context of the research question or hypothesis. It compares the results to previous research, identifies limitations, and discusses implications and potential future research directions. It concludes by summarizing the main findings and their broader implications."
+    },
+    {
+      "id": 43,
+      "module": "MODULE-1",
+      "topic": "Research Methodology",
+      "question": "Assume a research topic of your choice and give the complete format of its research report.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "PARTIAL",
+      "answer": "I am unable to choose a research topic for you, but I can give you a generic format for a research report. Based on the provided notes, here is the format of a research report, as per Module 1:\n\n1.  **Preliminary Pages:**\n    *   Title page.\n    *   Acknowledgements.\n    *   Table of contents.\n    *   List of tables (if any).\n    *   List of figures (if any).\n\n2.  **Main Text:**\n    *   Introduction: Includes the research problem and its significance.\n    *   Literature Review: Provides context and background.\n    *   Hypothesis: States the working hypothesis or hypotheses.\n    *   Research Design: Explains the conceptual structure of the research.\n    *   Sample Design: Describes the way of selecting a sample.\n    *   Data Collection: Explains the methods used to collect data.\n    *   Data Analysis: Describes the methods to analyse data.\n    *   Hypothesis Testing: Discusses the hypothesis testing.\n    *   Generalizations and Interpretation: Includes the theory building or interpretation.\n\n3.  **End Matter:**\n    *   References/Bibliography: Lists all sources cited in the report.\n    *   Appendix: Includes supplementary materials, such as questionnaires or detailed data tables."
+    },
+    {
+      "id": 44,
+      "module": "MODULE-2",
+      "topic": "Thesis Writing",
+      "question": "Compare SYNOPSIS and ABSTRACT in thesis writing.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "PARTIAL",
+      "answer": "Comparing SYNOPSIS and ABSTRACT in thesis writing, the notes provide the following:\n\n**SYNOPSIS:**\n1.  A synopsis is a brief overview of the entire thesis, outlining the main research problem, objectives, methodology, and expected outcomes. It serves as a snapshot of what the thesis is about.\n2.  It is presented in the form of a brief research proposal for approval of the topic from the authorities.\n3.  The length of each part of the synopsis may vary depending on the requirement of individual institutional guidelines, trend and as per the instructions of Supervisor.\n4.  Title of a synopsis must be the same (word to word) the title of thesis.\n5.  Introduction of synopsis should cover the little background information of the topic. In brief one must explain that what work already exists in this area, and what are its strength and deficiencies.\n6.  Literature review should be restricted to 10 to 20 research papers, references should be latest and research paper should be preferred over review.\n7.  Aim of the study should be in the form of a statement which somewhere reflects the hope what you want to do and where you want to finish.\n8.  Methodology involves the process of carrying out the actual research. In case of sciences state the method which you used to prepare, synthesize, to analyze and mention how did you perform it and describe the materials and equipment used in the research.\n9.  The length of each part of the synopsis may vary depending on the requirement of individual institutional guidelines, trend and as per the instructions of Supervisor.\n10. The study should be time bound and realistic. All details should be added to your time plan. This is either given by CPM (Critical path method), PERT chart (Performance evaluation review technique) or by simple tabular presentation. It covers Literature search, fieldwork, procurement of raw materials, compilation of data, Data analysis, result writing.\n11. A synopsis should have limited references depending upon the prescribed guidelines. In general, a synopsis should have about 10 -15 latest references.\n\n**ABSTRACT:**\n\nThere is no explicit mention of ABSTRACT, however the notes do indirectly mentions Abstract in 2 places:\n1. Page 4 of Module 1 notes mentions, \"For this purpose, the abstracting and indexing journals and published or unpublished bibliographies are the first place to go to.\", in the context of Extensive literature survey.\n2. The section \"5. Evaluate the quality of a given research paper based on the criteria of good research (e.g., clarity, systematic approach, objectivity, etc.).\" implies abstract may be a part of research paper writing."
+    },
+    {
+      "id": 45,
+      "module": "MODULE-2",
+      "topic": "Thesis Writing",
+      "question": "What do you mean by Thesis Writing, and explain briefly the typical components of a thesis?",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "Thesis writing is a structured process that involves presenting an original research project or study in a formal academic document. It typically includes the following components:\n\n1.  **Synopsis:** A brief overview of the entire thesis, outlining the main research problem, objectives, methodology, and expected outcomes.\n2.  **Introduction:** Sets the stage for the thesis by providing background information on the topic, explaining the research problem, stating the objectives or hypotheses, and outlining the significance or relevance of the study.\n3.  **Literature Review:** Critically examines existing scholarly works, research, and literature relevant to the thesis topic. It discusses and analyzes key theories, concepts, findings, and debates in the field, highlighting gaps that the current research aims to fill.\n4.  **Aim and Objectives:** The aim defines the overall purpose or goal of the research, while objectives break down this aim into specific, measurable, and achievable tasks. Objectives guide the research process and help in achieving the overall aim.\n5.  **Methodology:** Details the methods and procedures used to conduct the research. It describes the research design, data collection methods, sampling techniques (if applicable), tools or instruments used, and data analysis techniques.\n6.  **Time Frame:** Outlines the schedule or timeline for completing different stages of the research, including data collection, analysis, and writing.\n7.  **Results and Discussions:** The results section presents the findings obtained from the research. It can include tables, graphs, or statistical analyses. The discussion section interprets these findings, relates them to the research questions or objectives, compares them with existing literature, and explores their implications.\n8.  **Conclusions:** Summarizes the key findings of the research, reiterates the significance of the study, and discusses its implications. It may also suggest areas for further research."
+    },
+    {
+      "id": 47,
+      "module": "MODULE-2",
+      "topic": "Research Proposal Writing",
+      "question": "Discuss the preliminary requirements for research proposal writing.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "The preliminary requirements for research proposal writing, according to the notes, are as follows:\n\n1.  **Identification of Research Problem:** Clearly define and articulate the research problem or question. Ensure it is specific, researchable, and relevant to the field of study.\n2.  **Literature Review:** Conduct a thorough review of existing literature related to your research topic. Identify gaps, controversies, or areas requiring further exploration.\n3.  **Research Objectives and Hypotheses/Research Questions:** Clearly state the objectives of your research. Formulate hypotheses (for quantitative studies) or research questions (for qualitative studies) that guide your investigation.\n4.  **Methodology:** Detail the research design, approach, methods, and techniques you intend to employ. Explain how you will collect, analyze, and interpret data. Consider ethical considerations and address them in this section.\n5.  **Research Plan/Timeline:** Develop a timeline or plan that outlines the various stages of the research process. Include milestones, deadlines, and activities to demonstrate the feasibility of your research.\n6.  **Significance/Justification:** Explain the significance of your research. Highlight its potential contributions, implications, or applications to the field. Justify why this research is important and relevant.\n7.  **Research Team and Resources:** Outline the qualifications of the research team, if applicable, and describe the resources needed (such as equipment, facilities, funding) to conduct the research.\n8.  **Budget:** Prepare a detailed budget outlining the expected expenses for the research, including costs for materials, personnel, travel, and other relevant expenditures.\n9.  **References:** Provide a comprehensive list of references cited in your proposal, adhering to the required citation style.\n10. **Proposal Formatting and Structure:** Follow the guidelines provided by the funding agency or institution regarding proposal structure, length, font, spacing, and any specific formatting requirements.\n11. **Proofreading and Editing:** Ensure your proposal is free from grammatical errors, typos, and inconsistencies. Edit and revise the content to ensure clarity, coherence, and logical flow.\n12. **Compliance with Guidelines:** Adhere strictly to the guidelines provided by the funding agency, institution, or specific call for proposals. Ensure you cover all required sections and meet submission criteria.\n13. **Feedback and Revisions:** Seek feedback from mentors, colleagues, or advisors and revise your proposal based on constructive criticism and suggestions to strengthen its quality."
+    },
+    {
+      "id": 48,
+      "module": "MODULE-2",
+      "topic": "Research Proposal Writing",
+      "question": "Briefly explain the different standard heads in research proposal writing.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "The standard heads in a research proposal, as mentioned in the notes, are:\n\n1.  **Title of the Project:** This should be representative, related to need-based research, relevant to current topics, and within the scope of the funding agency. It should be specific, unambiguous, clear, and error-free.\n2.  **Summary of the Project:** This provides a concise roadmap of the research, including the need, aim/objective, methodology, plan, and expected outcome, typically within 300-500 words. It should be cohesive and coherent.\n3.  **Origin of Idea/Background/Introduction/Rational:**\n *   **Origin of Idea:** Explains how the research idea emerged.\n *   **Background:** Provides a detailed overview of existing knowledge related to the research topic.\n *   **Introduction:** Introduces the main topic, research objectives, questions, and hypotheses.\n *   **Rationale:** Justifies the research, emphasizing its significance, knowledge gaps, and potential impact.\n4.  **Aim and Objectives:**\n *   **Aim:** The overarching goal or purpose of the research.\n *   **Objectives:** Specific, measurable, achievable, relevant, and time-bound targets to fulfill the aim.\n5.  **Literature Review and Methodology:**\n *   **Literature Review:** Summarizes and critically evaluates existing literature to justify the need for the study.\n *   **Methodology:** Outlines the research design, approach, methods, data collection, and analysis techniques.\n6.  **Time-line:** A chronological plan outlining the sequence of research activities and milestones, presented through tabular and/or graphical ways.\n7.  **Budget with the Justification:** An itemized breakdown of anticipated expenses with a rationale for each item.\n8.  **Expertise/facilities available:** Outlines the expertise relevant to the proposed research, showcasing the capability to successfully execute the project. This section may include the educational background, previous research experience, publications, and any specialized skills or knowledge that the team members possess, emphasizing their suitability for conducting the proposed research.\n9.  **Expected Outcome:** Anticipated results or findings, potential advancements in knowledge, and expected impact.\n10. **References:** A list of all sources cited, following a specific citation style."
+    },
+    {
+      "id": 49,
+      "module": "MODULE-2",
+      "topic": "Research Proposal Writing",
+      "question": "How do you prepare your project presentation, and what are the basic elements of a research proposal?",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "To prepare a project presentation:\n\nDue to the lack of the procedure to prepare project presentation, I am unable to provide you the exact information to prepare project presentation.\n\nBasic elements of a research proposal:\n\nThe preliminary requirements for creating a comprehensive research proposal include:\n\n1.  **Identification of Research Problem:** Define and articulate the research problem or question clearly. Ensure it is specific, researchable, and relevant to the field of study.\n2.  **Literature Review:** Conduct a thorough review of existing literature related to your research topic. Identify gaps, controversies, or areas requiring further exploration.\n3.  **Research Objectives and Hypotheses/Research Questions:** Clearly state the objectives of your research. Formulate hypotheses (for quantitative studies) or research questions (for qualitative studies) that guide your investigation.\n4.  **Methodology:** Detail the research design, approach, methods, and techniques you intend to employ. Explain how you will collect, analyze, and interpret data. Consider ethical considerations and address them in this section.\n5.  **Research Plan/Timeline:** Develop a timeline or plan that outlines the various stages of the research process. Include milestones, deadlines, and activities to demonstrate the feasibility of your research.\n6.  **Significance/Justification:** Explain the significance of your research. Highlight its potential contributions, implications, or applications to the field. Justify why this research is important and relevant.\n7.  **Research Team and Resources:** Outline the qualifications of the research team, if applicable, and describe the resources needed (such as equipment, facilities, funding) to conduct the research.\n8.  **Budget:** Prepare a detailed budget outlining the expected expenses for the research, including costs for materials, personnel, travel, and other relevant expenditures.\n9.  **References:** Provide a comprehensive list of references cited in your proposal, adhering to the required citation style.\n10. **Proposal Formatting and Structure:** Follow the guidelines provided by the funding agency or institution regarding proposal structure, length, font, spacing, and any specific formatting requirements.\n11. **Proofreading and Editing:** Ensure your proposal is free from grammatical errors, typos, and inconsistencies. Edit and revise the content to ensure clarity, coherence, and logical flow.\n12. **Compliance with Guidelines:** Adhere strictly to the guidelines provided by the funding agency, institution, or specific call for proposals. Ensure you cover all required sections and meet submission criteria.\n13. **Feedback and Revisions:** Seek feedback from mentors, colleagues, or advisors and revise your proposal based on constructive criticism and suggestions to strengthen its quality."
+    },
+    {
+      "id": 50,
+      "module": "MODULE-1",
+      "topic": "Research Methodology",
+      "question": "Lucidly present the stages for preparation of a research report.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "Based on the provided notes, the stages for preparation of a research report are as follows:\n\n1.  **Formulating the research problem:** Identify and define the problem that the research intends to address. This involves understanding the problem thoroughly and rephrasing it into meaningful terms from an analytical point of view.\n2.  **Extensive literature survey:** Conduct a thorough review of existing literature related to the research problem. Abstracting and indexing journals, published and unpublished bibliographies, academic journals, conference proceedings, government reports, and books are valuable resources. \n3.  **Developing the hypothesis:** State the working hypothesis, which is a tentative assumption made to draw out and test its logical or empirical consequences. Research hypotheses provide the focal point for the research.\n4.  **Preparing the research design:** Create a research design, which is the conceptual structure within which the research would be conducted. It facilitates efficient research and maximal information. Consider means of obtaining information, skills of the research team, available time, and cost factors.\n5.  **Determining sample design:** Decide on the method for selecting a sample from the population. Samples can be probability or non-probability samples.\n6.  **Collecting the data:** Collect appropriate data through experiments or surveys, using methods like personal interviews, telephonic interviews, or questionnaires.\n7.  **Execution of the project:** Execute the project systematically and in time to ensure the collected data is adequate and dependable. If using questionnaires, code questions and possible answers for machine processing. For interviews, properly select and train interviewers.\n8.  **Analysis of data:** Analyze the collected data, including establishing categories, coding, tabulation, and drawing statistical inferences. Tabulate data using mechanical devices or computers to study a large number of variables. Compute percentages and coefficients using statistical formulae.\n9.  **Hypothesis testing:** Test the hypotheses using tests like Chi-square, t-test, or F-test to determine if the data supports or contradicts the hypotheses. Hypothesis-testing results in either accepting or rejecting the hypothesis.\n10. **Generalizations and interpretation:** If a hypothesis is tested and upheld multiple times, arrive at generalizations to build a theory. If there was no initial hypothesis, explain findings based on existing theories through interpretation, which can trigger new questions and further research.\n11. **Preparation of the report or the thesis:** Prepare a report of the research, including preliminary pages, the main text, and the end matter."
+    },
+    {
+      "id": 51,
+      "module": "MODULE-2",
+      "topic": "Thesis Writing",
+      "question": "Explain essential features of report writing highlighting the importance and implication of research outcomes.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 1&2.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "NOT_FOUND",
+      "answer": "Report writing is a crucial aspect of research, serving to disseminate findings and contribute to the existing body of knowledge. Here's a breakdown of its essential features, importance, and the implications of research outcomes:\n\n1.  **Importance of Research Paper Writing**: Research papers contribute to the existing body of knowledge in a particular field, allowing researchers to share findings, insights, and discoveries, thereby advancing the understanding of a subject. It encourages critical thinking involving analyzing information, synthesizing ideas, and drawing conclusions, which are essential skills for problem-solving in academia and the workforce. Writing research papers hones communication skills, helps researchers gain recognition and can lead to opportunities for grants, collaborations, promotions, and tenure.\n\n2.  **Contents of a Research Article**: Primarily uses the IMRaD style of writing, which includes:\n *Introduction*: providing context, background information, and the research problem or question. It includes a brief overview of the topic, the significance of the study, and the objectives or hypotheses.  \n*Methods*: detailing the methodology used to conduct the research, describing the research design, materials, and methods employed in data collection or experimentation.\n*Results*: presenting the findings obtained from the research including raw data, statistical analyses, graphs, tables, and any other forms of data representation to illustrate the outcomes of the study.\n*Discussion*: interpreting and explaining the significance of the results. It analyzes the findings in the context of the research question or hypothesis stated in the introduction, comparing the results to previous research, identifying limitations, and discussing implications.\n\n3.  **Steps of Writing Research Papers**: Research paper writing involves:\n*Planning: preliminary promising studies which yielded good and novel results should be planned for and language, time & authorship should be decided.\n*Target Journal: For targeting manuscript/research article to a suitable journal must take care of topic matching with the scope of journal. \n*Write the First Draft: While preparing the first draft, one shall maintain a systemic flow in writing and presenting information following the journal guidelines.\n*Revision: make major alterations to make manuscript attractive and easy to read. Fill in gaps, correct flaws in logic restructure the document to present the material in most logical order.\n*Final Check: Check overall appearance, and identify any break in inconsistency page breaks, etc. check compliant to formatting guidelines.\n*Submission and Post Submission: This step involves preparing a cover letter, submitting to Journals/Conferences, and awaiting the Review/Feedback. Post Submission includes Response to Reviewers (if applicable) , Revision and Resubmission , Acceptance and Publication , Proofreading and Final Checks , Publication and Dissemination.\n\n4.  **Referencing and Citations:** These are crucial components of research article writing as they acknowledge and credit the sources of information used in the paper, support arguments, and provide credibility to the work.\n\n5.  **Impact and Influence**: Well-written and impactful research papers can influence policies, practices, and further research in a particular area, shaping discussions, inspiring new ideas, and driving innovation."
+    },
+    {
+      "id": 53,
+      "module": "MODULE-3",
+      "topic": "Introduction to Intellectual Property",
+      "question": "What are the needs for Intellectual Property Right?",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "The needs for Intellectual Property Right are:\n\n1.  **Encourages Innovation and Creativity:** IPR protects the creations of inventors, artists, and innovators, motivating them to develop new technologies, products, and cultural works.\n2.  **Promotes Economic Growth:** Patents, copyrights, and trademarks allow creators to commercialize their work, leading to new industries, job creation, entrepreneurship, and improved competitiveness.\n3.  **Attracts Investment:** Strong IP systems encourage domestic and foreign investments, as businesses feel secure in protecting their innovations.\n4.  **Supports Cultural Development:** Copyright protection safeguards literature, music, films, and art, enabling cultural diversity, preservation of traditions, and encouragement of artistic talent.\n5.  **Knowledge Sharing and Technology Transfer:** IP systems strike a balance between rewarding creators and allowing public access after protection expires, facilitating broader knowledge dissemination.\n6.  **Consumer Confidence:** Trademarks ensure product authenticity and quality, protecting consumers from counterfeit goods and enhancing trust in the market."
+    },
+    {
+      "id": 54,
+      "module": "MODULE-3",
+      "topic": "Introduction to Intellectual Property",
+      "question": "List the types of IPR in India.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "Based on the provided notes, the types of Intellectual Property Rights (IPR) in India are:\n\n1.  **Patents:** Proprietary rights on an invention, excluding others from making, selling, or using it. Term of 20 years.\n2.  **Copyrights:** Protection for original works of authorship (literary works, music, dramatic works, etc.). Author's lifetime + 60 years coverage.\n3.  **Trademarks:** Distinguishes the source of products or services of one business from its competitors. Renewable term of registration of ten years.\n4.  **Industrial Designs:** Protection for aesthetic features of an article. Initial protection for 10 years, extendable by 5 years.\n5.  **Geographical Indications:** Identifies goods originating from a specific territory with a given quality, reputation, or characteristic attributable to its geographical origin. Protection term is 10 years, renewable.\n6.  **Semiconductor Integrated Circuits Layout - Design:** Protection for original and commercially unexploited layout designs. Protection afforded for a period of 10 years.\n7.  **Plant Varieties and Farmer’s Rights:** Permits registration of new plant varieties, recognizing the rights of farmers and plant breeders. Validity of registration is 18 years for trees and vines and 15 years for crops (with renewal options)."
+    },
+    {
+      "id": 55,
+      "module": "MODULE-3",
+      "topic": "Introduction to Intellectual Property",
+      "question": "Name any four leading international instruments concerning Intellectual Property Rights.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "According to the notes, the four leading international instruments concerning Intellectual Property Rights are:\n\n1) The Paris Convention for the Protection of Industrial Property \n2) The Berne Convention for the Protection of Literary and Artistic Works\n3) The WIPO Copyright Treaty (WCT)\n4) The Patent Cooperation Treaty (PCT)"
+    },
+    {
+      "id": 56,
+      "module": "MODULE-3",
+      "topic": "Introduction to IPR AND PATENTS",
+      "question": "Enlist the features of TRIPS agreement.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "NOT_FOUND",
+      "answer": "The features of the TRIPS (Agreement on Trade-Related Aspects of Intellectual Property Rights) agreement, based on the provided notes, are:\n\n1.  **Enforcement:** Establishes measures for enforcement of rights by the contracting states.\n2.  **Compliance:** India's IPR regime complies with the World Trade Organisation's (WTO) agreement on TRIPS."
+    },
+    {
+      "id": 57,
+      "module": "MODULE-3",
+      "topic": "Introduction to Intellectual Property",
+      "question": "What are the objectives of securing patent protection for inventions?",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "The objectives of securing patent protection for inventions are:\n\n1.  **To Make Money:** Evaluating the invention and its potential to be converted into wealth.\n2.  **To Gain Security:** Protecting the invention from any unauthorized commercial use.\n3.  **To Gain Knowledge:** Learning the patenting process to save on professional charges and extend the life of the patent.\n4.  **To Have Fun:** Patenting motivates innovation and making new things succeed."
+    },
+    {
+      "id": 58,
+      "module": "MODULE-3",
+      "topic": "Patents: Conditions for patent, Non -patentable matters, Inventions Eligible for Patenting , Salient features of the Indian Patent 1970, Process of patenting, Types of patent applications, Patent infringements. Case examples .",
+      "question": "What are the conditions of patentability?",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "The conditions of patentability are:\n\n1.  **Novelty:** The invention must be new, meaning it has not been disclosed to the public in any form, anywhere in the world, before the date of patent filing (priority date). Prior art includes any published, presented, or otherwise disclosed information.\n2.  **Inventive Step (Non-Obviousness):** The invention must involve a technical advancement compared to existing knowledge or have economic significance, making it non-obvious to a person skilled in the art. It should not be something that plainly or logically follows from prior art without requiring any skill or ability beyond that expected of an ordinary practitioner.\n3.  **Industrial Applicability (Utility):** The invention must be capable of being made, used in at least one field of activity, and reproduced with the same characteristics as many times as necessary. It must be industrially applicable to be patentable.\n\nThe term 'invention' under the Patents Act, 1970 has been defined as 'a new product or process involving an inventive step and capable of industrial application.'"
+    },
+    {
+      "id": 59,
+      "module": "MODULE-3",
+      "topic": "Patents",
+      "question": "List the patentable subject matters.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "The patentable subject matters include:\n\n*   Any article, apparatus or machinery or its component.\n*   Any substance whether living or non-living product, pharmaceutical product.\n*   Any composition of matter, pharmaceutical products.\n*   Any process, manner or art of manufacturing other than essential biological process."
+    },
+    {
+      "id": 60,
+      "module": "MODULE-3",
+      "topic": "Patents",
+      "question": "Name any four types of patent applications.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "Based on the notes, here are four types of patent applications:\n\n1.  **Provisional Application**: Filed when the invention is not fully finalized, used to obtain priority date.\n2.  **Ordinary Application**: Filed with complete specifications and claims without claiming any priority date.\n3.  **PCT Application**: An international application filed in accordance with PCT to seek patent protection in member countries.\n4.  **Divisional Application**: Filed when an application claims more than one invention and is divided to meet objections, with the same priority date as the parent application."
+    },
+    {
+      "id": 61,
+      "module": "MODULE-3",
+      "topic": "Patents: Conditions for patent, Non -patentable matters, Inventions Eligible for Patenting , Salient features of the Indian Patent 1970, Process of patenting, Types of patent applications, Patent infringements. Case examples .",
+      "question": "List the acts that lead to patent infringement.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "The acts that lead to patent infringement, when committed without the consent of the patentee, include:\n\n1.  Making the patented product.\n2.  Using the patented product.\n3.  Offering for sale the patented product.\n4.  Selling the patented product.\n5.  Importing the patented product.\n6.  Using the patented process.\n7.  Offering for sale the product directly obtained by that patented process.\n8.  Selling the product directly obtained by that patented process.\n9.  Importing the product directly obtained by that patented process.\n\nInfringements are classified into Direct Infringement, where the product is substantially close to a patented product or its commercial use is carried out without permission, and Indirect Infringement, where deceit or accidental infringement happens without intention. Reliefs available to the patentee include Interlocutory/interim injunction, damages or accounts of profits, and permanent injunction."
+    },
+    {
+      "id": 62,
+      "module": "MODULE-3",
+      "topic": "Case examples",
+      "question": "Trace the relevance of Intellectual Property Rights in businesses today.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "PARTIAL",
+      "answer": "Intellectual Property Rights (IPR) are highly relevant in businesses today due to their role in fostering innovation, economic growth, and competitive advantage. \n\n1.  **Encouraging Innovation and Creativity:** IPR, such as patents and copyrights, motivate inventors, artists, and innovators to develop new technologies, products, and cultural works. These rights protect their creations, spurring further advancements.\n\n2.  **Promoting Economic Growth:** By allowing creators to commercialize their work, IPR drives the creation of new industries, job creation, and entrepreneurship. Strong IP systems attract both domestic and foreign investments, as businesses feel secure in protecting their innovations.\n\n3.  **Supporting Cultural Development:** Copyright protection safeguards literature, music, films, and art, enabling cultural diversity, preservation of traditions, and the encouragement of artistic talent.\n\n4.  **Global Indicator of Innovation:** IP, particularly patents, serves as a global indicator of innovation. The number of patent filings reflects a country's level of research, technological advancement, and innovative activity. This also benchmarks competitiveness on a global scale.\n\n5.  **National IPR Policy in India:** The Indian government's National IPR Policy, adopted in 2016, aims to boost innovation and entrepreneurship while safeguarding public interest by making IPR a marketable fiscal asset. This policy covers all forms of IP and seeks to create synergies between them and other agencies.\n\nIn essence, IPR are crucial for businesses as they protect investments in research and development, enable commercialization of innovations, and contribute to economic and cultural development."
+    },
+    {
+      "id": 64,
+      "module": "MODULE-3",
+      "topic": "Introduction to Intellectual Property",
+      "question": "Briefly discuss the five important types of Intellectual Property in India.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "Five important types of Intellectual Property in India, as per the notes, are:\n\n1.  **Patent:** This grants proprietary rights to an inventor, excluding others from making, selling, or using the invention for a term of 20 years. An invention must be new, involve an inventive step, and be capable of industrial application to be patented.\n\n2.  **Copyright:** Copyright protects original works of authorship, including literary, musical, dramatic, artistic works, sound recordings, cinematograph films, architectural works, and computer software. The holder has exclusive rights to modify, distribute, perform, create, display, and copy the work. Copyright grants author's lifetime coverage plus 60 years after death under certain classes whereas in other classes it is 60 years in toto.\n\n3.  **Trademark:** A trademark is a word, phrase, symbol, or design that distinguishes the source of goods or services of one business from its competitors. The renewable term of registration of a trademark is ten years.\n\n4.  **Industrial Designs:** These protect the aesthetic or ornamental aspects of an article. The design law excludes functioning features and grants protection only to aesthetic appeals. Once a design is registered, the proprietor is afforded protection for an initial period of 10 years, which is extendable for a further period of 5 years.\n\n5.  **Geographical Indications:** These identify goods originating from a specific territory, region, or locality where a given quality, reputation, or other characteristic of such goods is essentially attributable to its geographical origin. A registered geographical indication is awarded protection for a term of ten years with the option of renewing and extending such protection for further tenures of ten years from the date of expiration of the original registration."
+    },
+    {
+      "id": 65,
+      "module": "MODULE-3",
+      "topic": "Introduction to Intellectual Property",
+      "question": "Discuss in brief any two leading International Instruments concerning Intellectual Property Rights.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "Two leading International Instruments concerning Intellectual Property Rights are:\n\n1.  **The Paris Convention for the Protection of Industrial Property:** This convention aims to protect industrial property. It ensures minimum rights and measures for enforcement of rights by the contracting states.\n\n2.  **The Berne Convention for the Protection of Literary and Artistic Works:** This convention focuses on protecting literary and artistic works."
+    },
+    {
+      "id": 71,
+      "module": "MODULE-3",
+      "topic": "Patents: Conditions for patent, Non -patentable matters, Inventions Eligible for Patenting , Salient features of the Indian Patent 1970, Process of patenting, Types of patent applications, Patent infringements. Case examples",
+      "question": "With the help of a flow chart, explain the steps involved in the patent granting procedure in India.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "Here's a flow chart explaining the steps involved in the patent granting procedure in India, based on the provided notes:\n\n1.  **Step 1: Filing of Patent Application:** The process starts with submitting a patent application to the Indian Patent Office (IPO). This application must have a detailed description of the invention, including necessary drawings, claims, and other relevant information.\n2.  **Step 2: Formal Examination:** The patent office conducts a formal examination of the application to ensure all formal requirements are met. This includes checking compliance with formatting rules and verifying the payment of required fees.\n3.  **Step 3: Publication:** The application is typically published in the Official Journal of the Indian Patent Office. This notifies the public about the patent application's existence.\n4.  **Step 4: Substantive Examination:** The application undergoes a substantive examination to assess the novelty and inventive step of the invention. The applicant may need to respond to objections raised during this examination.\n5.  **Step 5: Publication of Examination Report:** After the substantive examination, the patent office issues an examination report detailing objections or deficiencies. This report is published, and the applicant can respond to the objections.\n6.  **Step 6: Amendments and Responses:** The applicant addresses any objections by amending the application or providing arguments and evidence to support the invention's patentability.\n7.  **Step 7: Grant of Patent or Refusal:** If the patent office is satisfied that the invention meets patentability criteria, a patent is granted. Otherwise, the application is refused.\n8.  **Step 8: Issuance of Patent Certificate:** If the application is successful, the patent office issues a patent certificate to the applicant, officially recognizing the patent rights.\n9.  **Step 9: Publication of Granted Patent:** Details of the granted patent are published in the Official Journal, providing public notice of the patent rights.\n\nRefer to the notes for the flow chart diagram."
+    },
+    {
+      "id": 72,
+      "module": "MODULE-4",
+      "topic": "Copyright",
+      "question": "List the four salient features of the Indian Copyright Act 1957.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "The four salient features of the Indian Copyright Act 1957 are:\n\n1.  **Broad Coverage of Works:** The Act protects a wide range of intellectual and creative works, including literary works (books, software, databases, computer programs), dramatic works (plays, scripts, choreographies), musical works (musical compositions), artistic works (paintings, photographs, architecture, drawings, maps, sculptures), cinematograph films (films, videos, visual recordings), and sound recordings (songs, recorded audio, speeches, podcasts).\n\n2.  **Bundle of Exclusive Rights:** Copyright owners enjoy a set of rights, including the right to reproduce the work, distribute/publish the work, perform in public, adapt and translate, and communicate the work to the public (including digital/online platforms).\n\n3.  **Term of Copyright:** The duration varies with the type of work. For literary, dramatic, musical, and artistic works, it is the lifetime of the author plus 60 years after death. For cinematograph films and sound recordings, it is 60 years from the year of publication. For government works, public undertakings, and international organizations, it is 60 years from publication.\n\n4.  **Moral Rights (Author’s Special Rights):** Apart from economic rights, the author has moral rights, including the right of paternity (to be identified as the author) and the right of integrity (to prevent distortion, mutilation, or modification of the work that harms the author’s reputation).\n"
+    },
+    {
+      "id": 73,
+      "module": "MODULE-4",
+      "topic": "Copyright",
+      "question": "Briefly explain the term “copyright”.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "Copyright is a right given by law to the creators of literary, dramatic, musical, and artistic works, as well as producers of cinematograph films and sound recordings. It's essentially a bundle of rights including reproduction, communication to the public, adaptation, and translation. Copyright means the sole right to produce or reproduce the work or any substantial part thereof in any material form whatsoever. Copyright gives the owner the exclusive right to do or authorize certain acts regarding the work."
+    },
+    {
+      "id": 74,
+      "module": "MODULE-4",
+      "topic": "Copyright",
+      "question": "How has an author been defined under the Copyright Act?",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "Under the Copyright Act, an 'author' is defined based on the type of work:\n\n*   **Literary or Dramatic Work:** The person who creates the work.\n*   **Musical Work:** The composer.\n*   **Cinematograph Film:** The producer.\n*   **Sound Recording:** The producer.\n*   **Photograph:** The photographer.\n*   **Computer-Generated Work:** The person who causes the work to be created. \n\nEssentially, the author is the individual or entity primarily responsible for bringing the work into existence. They are the first owner of the copyright unless there is an agreement to the contrary (e.g., work created under employment)."
+    },
+    {
+      "id": 75,
+      "module": "MODULE-4",
+      "topic": "Copyright Infringements",
+      "question": "List FOUR acts that are regarded as an infringement of Copyrights.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "According to the Copyrights Act, 1957, the following acts are regarded as an infringement of copyrights:\n\n1.  Making copies for sale or hire, or selling or letting them for hire without permission.\n2.  Permitting any place for the performance of owned work (in public) where such performance constitutes an infringement of copyright.\n3.  Distributing infringing copies for trade or to such an extent as to affect the interest of the owner of the copyright prejudicially.\n4.  Public exhibition of infringing copies for trade purposes."
+    },
+    {
+      "id": 79,
+      "module": "MODULE-4",
+      "topic": "Trademark",
+      "question": "What are the grounds for refusal of registration of a trade mark?",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "NOT_FOUND",
+      "answer": "The grounds for refusal of registration of a trade mark are not explicitly listed in the provided notes. However, the notes mention specific characteristics that a trademark must NOT possess to be eligible for registration. These can be inferred as grounds for refusal.\n\nThe grounds for refusal can be inferred as follows:\n\n1.  **Lacks Distinctiveness:** If the goods and services do not possess enough uniqueness to identify it as a trademark, it can be refused registration.\n2.  **Descriptive Mark:** If the trademark solely describes the concerned goods or services (descriptiveness), registration can be refused. Common geographical names, common personal names, and praising words that describe the quality of goods may also lead to refusal.\n3.  **Similarity to Prior Marks:** If the mark is not unique and bears similarity to existing marks, it can be refused registration.\n\nThe Trade Marks Act 1999, which the notes refer to, plays a role in evaluating these grounds."
+    },
+    {
+      "id": 80,
+      "module": "MODULE-4",
+      "topic": "Trademark",
+      "question": "What actions under the Trade Marks Rules, 2017 constitute infringement of a trade mark?",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "Under the Trade Marks Rules, 2017, several actions can constitute infringement of a trade mark. These actions, when committed without the consent of the trade mark owner, include:\n\n1.  **Making, using, offering for sale, selling, or importing a product** that bears the infringed trade mark.\n2.  **Using the infringed trade mark in a way that it harms the unique identity**\n3.  **Using the patented process, or using, offering for sale, selling or importing the product directly obtained by that process.**  \n\nPatent infringement can be classified into direct and indirect infringement. Direct infringement is where a product is substantially close to a patented product, or commercial use is carried out without permission. Indirect infringement occurs when some deceit or accidental infringement happens without any intention of infringement. \n\nThe trade mark owner may choose to sue the infringing party and  the reliefs made available to the trade mark owner are:\n*   Interlocutory/interim injunction.\n*   Damages or accounts of profits.\n*   Permanent injunction."
+    },
+    {
+      "id": 82,
+      "module": "MODULE-4",
+      "topic": "Copyright",
+      "question": "What is copyright, and what are the classes of works for which copyright protection is available in India?",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "Copyright is a right given by law to the creators of literary, dramatic, musical, and artistic works, as well as producers of cinematograph films and sound recordings. It is a bundle of rights including reproduction, communication to the public, adaptation, and translation. Copyright means the sole right to produce or reproduce the work or any substantial part thereof in any material form whatsoever.\n\nIn India, Copyright protection is available for the following classes of works:\n\n1.  **Literature:** This includes books, essays, research articles, oral speeches, lectures, compilations, computer programs, software, and databases.\n2.  **Dramatics:** This includes screenplays and dramas.\n3.  **Sound Recordings:** This covers recordings of sounds regardless of the medium on which such recording is made, such as a phonogram and a CD-ROM.\n4.  **Artistic:** This encompasses drawings, paintings, logos, maps, charts, photographs, works of architecture, engravings, and craftsmanship.\n5.  **Musical:** This includes musical notations, excluding any words or any action intended to be sung, spoken, or performed with the music. A musical work need not be written down to enjoy Copyright protection.\n6.  **Cinematograph Films:** This includes any visual recording performed by any medium formed through a process and includes a sound recording; for example, motion pictures, TV programs, visual recordings, and sound recordings."
+    },
+    {
+      "id": 86,
+      "module": "MODULE-4",
+      "topic": "Copyright",
+      "question": "Enumerate the functions of the copyright board.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "NOT_FOUND",
+      "answer": "Based on the provided notes, the functions of the copyright board are not explicitly enumerated. However, the notes do provide information regarding copyright in India, its criteria, salient features of the Indian Copyright Act 1957, classes of work, copyright pertaining to software, authorship and ownership and rights, terms of copyright, assignment, transmission and licensing, infringement of copyrights, remedies against infringement, non-copyright work, copyright registration in India, and copyright cases.\n\nTo synthesize an answer about the functions of the copyright board based on related information, it can be inferred that the copyright board is involved in the following:\n\n1.  **Overseeing Copyright Protection**: Ensuring that the rights of creators are protected under the Copyright Act, 1957.\n2.  **Regulating Copyright**: Implementing and enforcing copyright laws to protect creative works.\n3.  **Facilitating Creativity**: Creating an environment conducive to creativity by protecting and rewarding authors.\n4.  **Addressing Infringement**: Providing remedies against infringement of copyright, including civil, criminal, and administrative actions.\n5.  **Handling Registration**: Overseeing the copyright registration process, including application submission, scrutiny, objection handling, and issuance of copyright registration certificates. Refer notes for diagram.\n6.  **Setting Standards**: Modernizing and strengthening service-oriented IPR administration.\n7.  **Legal and Legislative Framework**: Having strong and effective IPR laws that balance the interests of rights owners with larger public interest.\n8. **Commercialization of IPRs**: Getting value for IPRs through commercialization.\n9. **Enforcement and Adjudication**: Strengthening the enforcement and adjudicatory mechanisms for combating IPR infringements.\n10. **Promoting awareness**: Promoting IP awareness. Outreach is important to create public awareness about the economic, social and cultural benefits of IPRs among all sections of society."
+    },
+    {
+      "id": 88,
+      "module": "MODULE-4",
+      "topic": "Trademark",
+      "question": "Explain the absolute grounds and relative grounds for refusal of registration of a trade mark.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "NOT_FOUND",
+      "answer": "Based on the provided notes, here's an explanation of the absolute and relative grounds for refusal of registration of a trade mark. However, the notes DO NOT directly contain a section explicitly titled as \"absolute grounds and relative grounds for refusal of registration of a trade mark.\" Therefore, I have synthesised an answer based on potentially relevant information.\n\nTrademarks:\n1.  A trademark (popularly known as brand name) is defined as a visual symbol (word, signature, name, device, label, numerals, or combination of colors) used to distinguish goods or services of one business from those of its competitors.\n2.  The Trade Marks Act 1999 specifies Trademarks as a mark capable of being represented graphically and which is capable of distinguishing the goods or services of one person from those of others, and may include shape of goods, their packaging and combination of colors.\n3.  Eligibility Criteria: For goods/services to be legally classified as a Trademark, they need to fulfill conditions such as:\n * Distinctiveness: They need to be unique enough to identify it as a Trademark.\n * Non-Descriptiveness: They should not merely describe the goods or services.\n * No Similarity: The mark should not be deceptively similar to existing marks.\n4.  The Trade Mark Rules 2017:\n*Simplified the process with fewer forms, encourages online filing with lower fees, and clarified fee structures, including concessions for startups and small enterprises.\n5.  The trademarks are classified based on their nature, purpose and distinctiveness. Some of the key trademark classifications discussed in the context are:\n * Product Marks.\n * Service Marks.\n * Collective Marks.\n * Certification Marks.\n * Well-Known Trademarks.\n * Shape Marks.\n * Sound Marks.\n * Color and Pattern Marks.\n\nThe Trademarks Rules 2017 aims at making the trademark registration procedure in India simpler, and startup-friendly. Trademarks also ensure legal protection, enhanced goodwill, and the potential for global registration advantages."
+    },
+    {
+      "id": 89,
+      "module": "MODULE-4",
+      "topic": "Trademark",
+      "question": "List the exclusive rights conferred by the registration of the Trade Mark on the registered proprietor.",
+      "marks": 5,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "NOT_FOUND",
+      "answer": "The registration of a Trade Mark confers exclusive rights on the registered proprietor, including:\n\n1.  **Exclusive Right to Use:** The registered owner has the exclusive right to use the trademark for the goods or services it is registered under, across India.\n2.  **Right to Prevent Others:** The registration grants the owner the power to prevent others from using an identical or deceptively similar mark, thus avoiding market confusion.\n3.  **Legal Action:** The registered proprietor can take legal action against anyone who infringes on their trademark rights.\n4.  **Business Expansion:** A registered trademark can be easily licensed, franchised, or transferred, enabling business growth and brand recognition.\n5.  **Valuable Asset:** The trademark becomes a valuable intangible asset for the company, adding to its overall worth."
+    },
+    {
+      "id": 91,
+      "module": "MODULE-4",
+      "topic": "Trademark",
+      "question": "What do you mean by infringement of a registered trademark? Explain the remedies available under the Trade Marks Rules, 2017.",
+      "marks": 8,
+      "syllabus_status": "IN_SYLLABUS",
+      "repeat_count": 1,
+      "sources": [
+        "QB 3&4.pdf"
+      ],
+      "importance": "LOW",
+      "notes_validation": "CONFIRMED",
+      "answer": "Infringement of a registered trademark occurs when another party uses the trademark without the owner's consent. The Trade Marks Act, 1999 defines trademark infringement and provides remedies to the trademark owner.\n\nRemedies available under the Trade Marks Rules, 2017, and the Trade Marks Act, 1999, for infringement of a registered trademark include:\n\n1.  **Interlocutory/Interim Injunction:** A temporary court order restraining the infringer from continuing the infringing activity during the pendency of the suit.\n2.  **Damages or Accounts of Profits:** The trademark owner can claim monetary compensation for the losses suffered due to the infringement. The court may either award damages based on the actual loss or order an account of profits made by the infringer.\n3.  **Permanent Injunction:** A final court order permanently restraining the infringer from using the trademark.\n4.  **Delivery Up of Infringing Goods:** The court may order the infringer to hand over the goods bearing the infringing mark to the trademark owner for destruction or other disposal.\n5.  **Criminal Remedies:** The Trade Marks Act, 1999 provides for criminal penalties, including imprisonment and fines, for certain acts of trademark infringement, particularly in cases of falsification of trademarks.\n6.  **Administrative Remedies:** The trademark owner can move the Registrar of Trademarks to ban the import of infringing copies into India, when the infringement occurs through such importation, and seek the delivery of confiscated infringing copies.\n7.  **Expeditious Examination:** While not a remedy for infringement, the Trade Marks Rules 2017 provide for expeditious examination of a trademark application, which can help in securing trademark rights faster and thus prevent potential infringements.\n8.  **Recognition of Well-Known Trademarks:** The Trade Mark Rules, 2017, introduce a clear procedure for applying for recognition of a trademark as a “well-known mark,” which enhances its protection against infringement.\n9.  **Hearings via Video Conferencing:** The provision to conduct hearings through video conferencing ensures quicker resolution of disputes, which can indirectly help in addressing infringement issues more efficiently.\n10. **Legal Action:** A trademark owner has the right to sue the unauthorized user through judicial intervention."
+    }
+  ]
+}
