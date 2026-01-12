@@ -32,6 +32,7 @@ def get_subjects():
 
 @app.get("/subjects/{subject_name}/questions")
 def get_questions(subject_name: str):
+<<<<<<< HEAD
     # Search priority: 
     # 1. Questions with Answers
     # 2. Finalized Questions (Filtered)
@@ -46,6 +47,14 @@ def get_questions(subject_name: str):
     q_path = next((p for p in paths if p.exists()), None)
     
     if not q_path:
+=======
+    q_path = SUBJECTS_DIR / subject_name / "outputs" / "questions_with_answers.json"
+    if not q_path.exists():
+        # Fallback to validated_questions if answers aren't generated yet
+        q_path = SUBJECTS_DIR / subject_name / "processed" / "validated_questions.json"
+        
+    if not q_path.exists():
+>>>>>>> 446428173a6bab7a9066efefa337181ee06e0df6
         raise HTTPException(status_code=404, detail="Questions not found for this subject")
     
     with open(q_path, "r", encoding="utf-8") as f:
@@ -74,4 +83,8 @@ def get_syllabus(subject_name: str):
 
 if __name__ == "__main__":
     import uvicorn
+<<<<<<< HEAD
     uvicorn.run(app, host="0.0.0.0", port=8000)
+=======
+    uvicorn.run(app, host="0.0.0.0", port=8000)
+>>>>>>> 446428173a6bab7a9066efefa337181ee06e0df6
