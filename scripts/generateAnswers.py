@@ -125,6 +125,7 @@ def generate_answers():
     - Do NOT add external knowledge.
     - Do NOT assume missing details.
     - If the answer is not fully supported by the notes, respond with "Not supported by notes".
+    - For questions requiring diagrams or explanation with diagrams respond with "Refer notes for diagram" and provide the explanation part detailed strictly from the notes context.
     {length_instr}
 
     Output ONLY valid JSON:
