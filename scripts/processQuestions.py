@@ -217,7 +217,7 @@ def find_best_topic(question_text, module_name, syllabus_map):
 
 def process_questions():
     base_dir = Path(__file__).parent.parent
-    data_dir = base_dir / "data"
+    data_dir = base_dir / "Subject"
     
     # Check for targeted subject argument
     target_subject = sys.argv[1] if len(sys.argv) > 1 else None
