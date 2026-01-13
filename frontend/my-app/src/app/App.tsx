@@ -42,19 +42,8 @@ export default function App() {
   };
 
   return (
-    <div className="size-full flex items-center justify-center bg-[#f5f5f0] overflow-hidden relative">
-      {/* Grid pattern background */}
-      <div 
-        className="absolute inset-0" 
-        style={{
-          backgroundImage: `
-            linear-gradient(to right, #d0d0c8 1px, transparent 1px),
-            linear-gradient(to bottom, #d0d0c8 1px, transparent 1px)
-          `,
-          backgroundSize: '40px 40px'
-        }}
-      ></div>
-      
+    <div className="size-full flex items-center justify-center bg-[#f5f5f0] overflow-hidden relative font-serif">
+
       {isLoading ? (
         <LoadingScreen />
       ) : selectedDepartment === null ? (
@@ -62,14 +51,14 @@ export default function App() {
       ) : selectedSemester === null ? (
         <SemesterSelection onSelect={handleSemesterSelect} onBack={handleBack} department={selectedDepartment} />
       ) : selectedSubject === null ? (
-        <SubjectSelection 
-          department={selectedDepartment} 
-          semester={selectedSemester} 
+        <SubjectSelection
+          department={selectedDepartment}
+          semester={selectedSemester}
           onBack={handleBack}
           onSelect={handleSubjectSelect}
         />
       ) : (
-        <ModuleTabs 
+        <ModuleTabs
           subject={selectedSubject}
           department={selectedDepartment}
           semester={selectedSemester}

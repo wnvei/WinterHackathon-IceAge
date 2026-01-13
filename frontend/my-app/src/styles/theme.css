@@ -2,6 +2,7 @@
 
 :root {
   --font-size: 16px;
+  --font-serif: "Instrument Serif", serif;
   --background: #ffffff;
   --foreground: oklch(0.145 0 0);
   --card: #ffffff;
@@ -119,9 +120,34 @@
   --color-sidebar-ring: var(--sidebar-ring);
 }
 
+@keyframes spin-slow-3d {
+  from {
+    transform: rotateX(0deg) rotateY(0deg);
+  }
+
+  to {
+    transform: rotateX(360deg) rotateY(360deg);
+  }
+}
+
+@keyframes spin-reverse-slow-3d {
+  from {
+    transform: rotateX(360deg) rotateY(360deg);
+  }
+
+  to {
+    transform: rotateX(0deg) rotateY(0deg);
+  }
+}
+
 @layer base {
   * {
     @apply border-border outline-ring/50;
+  }
+
+  html,
+  body {
+    height: 100%;
   }
 
   body {
